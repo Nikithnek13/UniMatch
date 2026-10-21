@@ -5,7 +5,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from common import features
 import jee_data, jee_model
 
-app = Flask(__name__, static_folder="static"); app.secret_key = os.environ.get("SECRET_KEY", "change-this-secret")
+app = Flask(__name__, static_folder="static"); app.secret_key = os.environ.get("SECRET_KEY", "change-this-secret")   # set SECRET_KEY in your hosting dashboard
 BASE = os.path.dirname(os.path.abspath(__file__)); os.chdir(BASE)
 if not os.path.exists("models/rf.joblib"): raise SystemExit("Model not found. Run:  python train.py")
 RF = joblib.load("models/rf.joblib"); META = json.load(open("models/meta.json")); ENC = META["enc"]
@@ -22,9 +22,35 @@ HYD_WORDS = ["HYDERABAD", "SECUNDERABAD", "GHATKESAR", "MEDCHAL", "KUKATPALLY", 
              "MAISAMMAGUDA", "KANDLAKOYA", "SHAMIRPET", "KEESARA", "NIZAMPET", "MOINABAD", "CHEVELLA", "SHANKARPALLY", "HAYATHNAGAR", "UPPAL", "PATANCHERU"]
 DISTN = {d["code"]: d["name"] for d in META["districts"]}
 
-def db():
-    c = sqlite3.connect(os.path.join(BASE, "users.db")); c.row_factory = sqlite3.Row
-    c.execute("create table if not exists users(email text primary key, name text, pw text, done text)"); return c
+# ---- user database ----
+# Local: SQLite file next to app.py.  Vercel / Render etc.: set DATABASE_URL (Postgres, e.g. Neon or Supabase) so accounts persist.
+# Without DATABASE_URL on a read-only server (Vercel) it falls back to /tmp, which works but is wiped on every cold start.
+PG_URL = os.environ.get("DATABASE_URL") or os.environ.get("POSTGRES_URL") or ""
+SQLITE_PATH = os.environ.get("DB_PATH") or (os.path.join(BASE, "users.db") if os.access(BASE, os.W_OK) else "/tmp/users.db")
+def _pg():
+    import pg8000.native
+    from urllib.parse import urlparse, unquote
+    u = urlparse(PG_URL)
+    return pg8000.native.Connection(user=unquote(u.username or ""), password=unquote(u.password or ""), host=u.hostname, port=u.port or 5432, database=(u.path or "/").lstrip("/"), ssl_context=True)
+def get_user(email):
+    if PG_URL:
+        c = _pg()
+        try:
+            c.run("create table if not exists users(email text primary key, name text, pw text, done text)")
+            r = c.run("select email, name, pw, done from users where email = :e", e=email)
+        finally: c.close()
+        return dict(zip(("email", "name", "pw", "done"), r[0])) if r else None
+    with sqlite3.connect(SQLITE_PATH) as c:
+        c.execute("create table if not exists users(email text primary key, name text, pw text, done text)")
+        r = c.execute("select email, name, pw, done from users where email=?", (email,)).fetchone()
+    return dict(zip(("email", "name", "pw", "done"), r)) if r else None
+def add_user(email, name, pw, done):
+    if PG_URL:
+        c = _pg()
+        try: c.run("insert into users(email, name, pw, done) values (:e, :n, :p, :d)", e=email, n=name, p=pw, d=done)
+        finally: c.close()
+        return
+    with sqlite3.connect(SQLITE_PATH) as c: c.execute("insert into users values(?,?,?,?)", (email, name, pw, done))
 def need_login():
     if "u" not in session: return jsonify(error="Please log in"), 401
 
@@ -37,17 +63,30 @@ def meta(): return jsonify(**{k: META[k] for k in ("districts", "places", "branc
 def me(): return jsonify(user=session.get("u"))
 @app.post("/api/register")
 def register():
-    d = request.json; e = d["email"].strip().lower()
+    d = request.json; e = d["email"].strip().lower(); name = (d.get("name") or "").strip() or e.split("@")[0]; done = d.get("done", "y")
     if "@" not in e or len(d["password"]) < 6: return jsonify(error="Enter a valid email and a password of 6+ characters"), 400
-    with db() as c:
-        if c.execute("select 1 from users where email=?", (e,)).fetchone(): return jsonify(error="Account already exists"), 400
-        c.execute("insert into users values(?,?,?,?)", (e, d.get("name") or e.split("@")[0], generate_password_hash(d["password"], method="pbkdf2:sha256"), d.get("done", "y")))
-    session["u"] = {"email": e, "name": d.get("name") or e.split("@")[0], "done": d.get("done", "y")}; return jsonify(user=session["u"])
+    if get_user(e): return jsonify(error="Account already exists - please log in"), 400
+    add_user(e, name, generate_password_hash(d["password"], method="pbkdf2:sha256"), done)
+    session["u"] = {"email": e, "name": name, "done": done}; return jsonify(user=session["u"])
 @app.post("/api/login")
 def login():
-    d = request.json; r = db().execute("select * from users where email=?", (d["email"].strip().lower(),)).fetchone()
+    d = request.json; r = get_user(d["email"].strip().lower())
     if not r or not check_password_hash(r["pw"], d["password"]): return jsonify(error="Invalid email or password"), 401
     session["u"] = {"email": r["email"], "name": r["name"], "done": r["done"]}; return jsonify(user=session["u"])
+@app.get("/api/health")
+def health():
+    """Open /api/health in the browser to check the deployment."""
+    out = {"models": True, "jee_model": bool(JEE_OK), "db": "postgres" if PG_URL else "sqlite:" + SQLITE_PATH}
+    try: get_user("health@check.local"); out["db_ok"] = True
+    except Exception as e: out["db_ok"] = False; out["db_error"] = f"{type(e).__name__}: {str(e)[:200]}"
+    return jsonify(out)
+@app.errorhandler(Exception)
+def on_error(e):
+    from werkzeug.exceptions import HTTPException
+    if request.path.startswith("/api/"):
+        if isinstance(e, HTTPException): return jsonify(error=e.description), e.code
+        app.logger.exception(e); return jsonify(error=f"Server error: {type(e).__name__}: {str(e)[:200]}"), 500
+    return e if isinstance(e, HTTPException) else ("Server error", 500)
 @app.post("/api/logout")
 def logout(): session.clear(); return jsonify(ok=1)
 
