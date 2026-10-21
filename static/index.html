@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>UniMatch</title><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="/static/style.css"></head><body>
+<div id="auth" class="auth"><div class="hero"><div class="orb o1"></div><div class="orb o2"></div><div class="orb o3"></div><div class="gridbg"></div>
+<div class="hc"><div class="logo"><span>🎓</span></div>
+<h1 class="brand"><span class="b1">Uni</span><span class="b2">Match</span></h1>
+<div class="tagline">Find the college that fits your <b>rank</b> and your <b>future</b></div>
+<div class="pills"><span>TS EAMCET</span><span>JEE Main</span><span>JEE Advanced</span></div>
+<div class="glass"><div class="gl">✨ Sample result</div><div class="gt">Computer Science &amp; Engineering</div><div class="gb"><i></i></div><div class="gm"><b>87%</b> admission chance · High</div></div>
+<ul class="feats"><li><span>🎯</span>Admission chance for every college &amp; branch</li><li><span>🧠</span>Random-Forest models trained on real counselling data</li><li><span>🧭</span>Step-by-step counselling guide &amp; option lists</li></ul>
+<div class="stats"><div><b>257</b><span>TS colleges</span></div><div><b>79</b><span>IITs · NITs · IIITs</span></div><div><b>9 yrs</b><span>JEE rank data</span></div></div></div></div>
+<div class="fs"><div class="box in" id="box"><h2 id="ttl">Welcome back</h2><div class="meta" id="sub">Log in to continue</div>
+<div class="tabs"><button id="tL" class="on" onclick="mode('l')">Login</button><button id="tR" onclick="mode('r')">Register</button></div>
+<div id="rf" class="hide"><label>Full name</label><input id="nm"><label>Have you completed your entrance exam?</label><select id="ex"><option value="y">Yes, I have my rank</option><option value="n">No, I'm yet to appear</option></select></div>
+<label>Email</label><input id="em" type="email"><label>Password</label><div class="pwbox"><input id="pw" type="password" autocomplete="current-password"><button type="button" class="eye" id="eye" onclick="eye()" title="Show password" aria-label="Show password">👁️</button></div><div class="err" id="err"></div>
+<button id="go" style="width:100%" onclick="auth()">Login</button><p style="text-align:center"><span class="lnk" onclick="about()">About us</span></p></div></div></div>
+
+<div id="shell" class="hide"><div class="top"><b style="font-size:19px">🎓 UniMatch</b><nav><button class="ghost lg" onclick="go('choose')">Home</button><button class="ghost lg" onclick="go('info')">Exam Info</button><button class="ghost lg" onclick="go('counsel')">Counselling Guide</button>
+<div class="dd lg"><button class="ghost">Search ▾</button><div class="menu"><button onclick="openSearch('e')">EAMCET</button><button onclick="openSearch('j')">JEE</button></div></div>
+<button class="ghost" onclick="go('about')">About Us</button><button class="ghost lg" onclick="logout()">Logout</button></nav>
+<div class="prof"><button id="tgl" class="tgl" onclick="theme()" title="Toggle light / dark theme" aria-label="Toggle theme"><span>☀️</span><span>🌙</span><i class="knob"></i></button><div class="chip" id="chip">U</div><span class="pn" id="pn"></span></div></div><main class="wrap">
+<section id="v-choose" class="view hide"><h1 id="hi"></h1><p class="meta">Choose the counselling you want to explore.</p>
+<div id="ban" class="banner hide"><span>📘 You haven't taken your exam yet — read the exam guide first, then try the predictors with an expected rank.</span><button onclick="go('info')">Exam Info</button></div>
+<div class="two"><div class="card big" onclick="go('eamcet')"><div class="ic">🏛️</div><h2>TS EAMCET Counselling</h2><p class="meta">Colleges across all of Telangana, predicted by a Random Forest trained on historical allotment data.</p><button>Start →</button></div>
+<div class="card big j" onclick="go('jee')"><div class="ic">🚀</div><h2>JEE Main / Advanced (JoSAA)</h2><p class="meta">IITs with JEE Advanced rank; NITs and IIITs with JEE Main rank, home-state quota and eligibility.</p><button style="background:var(--pr2)">Start →</button></div></div></section>
+
+<section id="v-eamcet" class="view hide"><span class="lnk" onclick="go('choose')">← Back</span> &nbsp;·&nbsp; <span class="lnk" onclick="go('counsel')">How does EAMCET counselling work?</span><h1 style="margin-top:8px">TS EAMCET Predictor</h1><div class="meta" id="mx"></div>
+<div class="card"><div class="grid"><div><label>EAMCET rank</label><input id="e-rank" type="number" min="1"></div><div><label>EAMCET marks (optional)</label><div style="display:flex;gap:6px"><input id="e-marks" type="number" step="0.01" placeholder="out of 160"><button class="ghost" onclick="m2r()" title="Estimate rank from marks">→ Rank</button></div></div><div><label>Caste / category</label><select id="e-caste"></select></div>
+<div><label>Gender</label><select id="e-gender"></select></div><div><label>Region</label><select id="e-region"></select></div><div><label>Preferred branch</label><select id="e-branch"></select></div>
+<div><label>Preferred location</label><select id="e-location"></select></div><div><label>Max fee / year (₹, optional)</label><input id="e-max_fee" type="number"></div>
+<div><label>Priority</label><select id="e-priority"><option value="b">Balanced</option><option value="a">Admission chance</option><option value="d">College demand</option><option value="f">Low fees</option></select></div></div>
+<div class="act"><button onclick="pred('e')">Predict &amp; recommend</button><div class="sb hide" id="e-sb"><input id="e-q" placeholder="Search a specific college, e.g. CBIT, Vasavi…" onkeydown="if(event.key==='Enter')ssearch('e')"><button onclick="ssearch('e')">Check chances</button></div></div><div class="err" id="e-err"></div><div class="meta" id="e-mn"></div></div><div id="e-sr"></div><div id="e-out"></div></section>
+
+<section id="v-jee" class="view hide"><span class="lnk" onclick="go('choose')">← Back</span><h1 style="margin-top:8px">JEE Predictor (JoSAA)</h1><div class="meta" id="jx"></div>
+<div class="card"><div class="grid"><div><label>Exam</label><select id="j-exam"><option value="main">JEE Main → NITs &amp; IIITs</option><option value="adv">JEE Advanced → IITs</option></select></div>
+<div><label>Rank (CRL / AIR)</label><input id="j-rank" type="number" min="1"></div><div><label>Category rank (if not General)</label><input id="j-crank" type="number" min="1" placeholder="OBC-NCL / SC / ST / EWS rank"></div><div><label>Category</label><select id="j-category"><option value="OPEN">General (Open)</option><option>EWS</option><option value="OBC">OBC-NCL</option><option>SC</option><option>ST</option></select></div>
+<div><label>Gender</label><select id="j-gender"><option value="M">Male</option><option value="F">Female</option><option value="N">Prefer not to say</option></select></div><div><label>Home state</label><select id="j-state"></select></div>
+<div><label>Class 12 percentage</label><input id="j-pct" type="number" value="80"></div><div><label>Preferred branch</label><select id="j-branch"></select></div>
+<div><label>Max fee / year (₹ lakh)</label><input id="j-max_fee" type="number" step="0.1" value="3.5"></div>
+<div><label>Priority</label><select id="j-priority"><option value="b">Balanced</option><option value="p">Placements</option><option value="a">Admission chance</option><option value="f">Low fees</option></select></div></div>
+<div class="act"><button style="background:var(--pr2)" onclick="pred('j')">Predict &amp; recommend</button><div class="sb hide" id="j-sb"><input id="j-q" placeholder="Search a specific institute, e.g. IIT Bombay, NIT Warangal…" onkeydown="if(event.key==='Enter')ssearch('j')"><button style="background:var(--pr2)" onclick="ssearch('j')">Check chances</button></div></div><div class="err" id="j-err"></div>
+<p class="note">IIT predictions (JEE Advanced) use a Random Forest trained on 2016–2024 JoSAA closing ranks: OPEN seats use your AIR, reserved seats use your category rank. NIT / IIIT figures are still approximate.</p></div><div id="j-sr"></div><div id="j-out"></div></section>
+
+<section id="v-search" class="view hide"><h1 id="s-ttl">Search colleges</h1><p class="meta">Type a college name — details match what you see after a prediction. Add your rank (optional) to see your admission chances.</p>
+<div class="card"><div class="sbig"><input id="s-q" placeholder="Start typing a college name…" oninput="sdeb()"><input id="s-rank" type="number" placeholder="Your rank (optional)" style="max-width:200px;flex:none" oninput="sdeb()"><select id="s-exam" class="hide" style="max-width:220px" onchange="sdeb()"><option value="main">JEE Main (NIT / IIIT)</option><option value="adv">JEE Advanced (IIT)</option></select></div>
+<div class="note" id="s-note"></div></div><div id="s-out"></div></section>
+<section id="v-info" class="view hide"><div class="hero2"><h1>📘 Examination Guide</h1><p>Everything you need to know about the entrance exams — eligibility, pattern, syllabus, dates, ranks and preparation.</p>
+<div class="seg" id="inf-tabs"><button data-k="e" class="on">🏛️ TS EAMCET</button><button data-k="m">🚀 JEE Main</button><button data-k="a">🏆 JEE Advanced</button></div></div>
+<div id="inf-body"></div><p class="note" style="margin-top:14px">ℹ️ Details reflect recent years. Dates, fees, pattern and rules change — always confirm with the official notification / information brochure before applying.</p></section>
+<section id="v-counsel" class="view hide"><div class="hero2"><h1>🧭 TS EAMCET Counselling Guide</h1><p>A clear step-by-step walk-through of web counselling — from certificate verification to joining your college — with a worked example of how to choose your college options.</p>
+<div style="margin-top:12px"><button onclick="go('eamcet')" style="background:#fff;color:var(--pr)">Open the predictor →</button></div></div><div id="cn-body"></div></section>
+
+<section id="v-about" class="view hide"><h1>About Us</h1><div class="card"><h2>About the project</h2><p>UniMatch predicts admission chances with a Random Forest model trained on historical TS EAMCET allotments and recommends colleges that match a student's rank, category and preferences.</p><span class="tag">Random Forest</span><span class="tag">Flask</span><span class="tag">Scikit-learn</span><span class="tag">Decision support</span></div>
+<div class="card"><h2>Our team</h2><div class="team"><div class="mem"><div class="av">NN</div><h3>N. Nikith</h3><div class="meta">Roll No: 23H51A67A7</div><a href="mailto:nikithnek30@gmail.com">nikithnek30@gmail.com</a></div>
+<div class="mem"><div class="av">VR</div><h3>V. Ruchitha</h3><div class="meta">Roll No: 23H51A67C6</div><a href="mailto:ruchithavemula975@gmail.com">ruchithavemula975@gmail.com</a></div>
+<div class="mem"><div class="av">BV</div><h3>B. Vivek</h3><div class="meta">Roll No: 24H55A6706</div><a href="mailto:vivekbondhala0510@gmail.com">vivekbondhala0510@gmail.com</a></div></div></div></section></main></div>
+<script src="/static/script.js"></script></body></html>

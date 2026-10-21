@@ -1,0 +1,1263 @@
+college_code,branch_code,college,branch,place,dist,type,estb,affil,fee,strength
+AARM,CSE,Aar Mahaveer Engineering College,Computer Science and Engineering,Bandlaguda,HYD,PVT,2010.0,JNTUH,60000.0,42.0
+AARM,CSM,Aar Mahaveer Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Bandlaguda,HYD,PVT,2010.0,JNTUH,60000.0,42.0
+AARM,ECE,Aar Mahaveer Engineering College,Electronics and Communication Engineering,Bandlaguda,HYD,PVT,2010.0,JNTUH,60000.0,42.0
+AARM,EEE,Aar Mahaveer Engineering College,Electrical and Electronics Engineering,Bandlaguda,HYD,PVT,2010.0,JNTUH,60000.0,42.0
+AARM,MEC,Aar Mahaveer Engineering College,Mechanical Engineering,Bandlaguda,HYD,PVT,2010.0,JNTUH,60000.0,42.0
+ACEG,CIV,A C E Engineering College (Autonomous),Civil Engineering,Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,42.0
+ACEG,CSD,A C E Engineering College (Autonomous),Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,42.0
+ACEG,CSE,A C E Engineering College (Autonomous),Computer Science and Engineering,Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,126.0
+ACEG,CSM,A C E Engineering College (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,42.0
+ACEG,CSO,A C E Engineering College (Autonomous),Computer Science and Engineering (IOT),Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,42.0
+ACEG,ECE,A C E Engineering College (Autonomous),Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,84.0
+ACEG,EEE,A C E Engineering College (Autonomous),Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,42.0
+ACEG,INF,A C E Engineering College (Autonomous),Information Technology,Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,42.0
+ACEG,MEC,A C E Engineering College (Autonomous),Mechanical Engineering,Ghatkesar,MDL,PVT,2007.0,JNTUH,110000.0,42.0
+AITH,CIV,Annamacharya Inst of Technology and Sci,Civil Engineering,Hayathnagar,RR,PVT,2005.0,JNTUH,75000.0,42.0
+AITH,CSE,Annamacharya Inst of Technology and Sci,Computer Science and Engineering,Hayathnagar,RR,PVT,2005.0,JNTUH,75000.0,84.0
+AITH,CSM,Annamacharya Inst of Technology and Sci,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hayathnagar,RR,PVT,2005.0,JNTUH,75000.0,
+AITH,ECE,Annamacharya Inst of Technology and Sci,Electronics and Communication Engineering,Hayathnagar,RR,PVT,2005.0,JNTUH,75000.0,42.0
+AITH,EEE,Annamacharya Inst of Technology and Sci,Electrical and Electronics Engineering,Hayathnagar,RR,PVT,2005.0,JNTUH,75000.0,42.0
+AITH,MEC,Annamacharya Inst of Technology and Sci,Mechanical Engineering,Hayathnagar,RR,PVT,2005.0,JNTUH,75000.0,42.0
+AIZA,CSE,Aizza College of Engg and Technology,Computer Science and Engineering,Mancherial,,,,,40000.0,21.0
+AIZA,MIN,Aizza College of Engg and Technology,Mining Engineering,Mancherial,,,,,40000.0,21.0
+AKIT,AIM,Abdulkalam Inst of Technology and Sci,Artificial Intelligence and Machine Learning,Kothagudem,KGM,PVT,2007.0,JNTUH,65000.0,
+AKIT,CIV,Abdulkalam Inst of Technology and Sci,Civil Engineering,Kothagudem,KGM,PVT,2007.0,JNTUH,65000.0,42.0
+AKIT,CSE,Abdulkalam Inst of Technology and Sci,Computer Science and Engineering,Kothagudem,KGM,PVT,2007.0,JNTUH,65000.0,42.0
+AKIT,ECE,Abdulkalam Inst of Technology and Sci,Electronics and Communication Engineering,Kothagudem,KGM,PVT,2007.0,JNTUH,65000.0,42.0
+AKIT,EEE,Abdulkalam Inst of Technology and Sci,Electrical and Electronics Engineering,Kothagudem,KGM,PVT,2007.0,JNTUH,65000.0,42.0
+AKIT,MEC,Abdulkalam Inst of Technology and Sci,Mechanical Engineering,Kothagudem,KGM,PVT,2007.0,,52000.0,42.0
+AKIT,MIN,Abdulkalam Inst of Technology and Sci,Mining Engineering,Kothagudem,KGM,PVT,2007.0,JNTUH,65000.0,21.0
+ANRH,CSE,Anurag College of Engineering,Computer Science and Engineering,Ghtkesar,,,,,70000.0,84.0
+ANRH,ECE,Anurag College of Engineering,Electronics and Communication Engineering,Ghtkesar,,,,,70000.0,84.0
+ANRH,EEE,Anurag College of Engineering,Electrical and Electronics Engineering,Ghtkesar,,,,,70000.0,42.0
+ANRH,MEC,Anurag College of Engineering,Mechanical Engineering,Ghtkesar,,,,,70000.0,84.0
+ANRK,CIV,Anurag Engineering College Autonomous,Civil Engineering,Kodad,SRP,PVT,2001.0,JNTUH,90000.0,84.0
+ANRK,CSE,Anurag Engineering College Autonomous,Computer Science and Engineering,Kodad,SRP,PVT,2001.0,JNTUH,90000.0,126.0
+ANRK,CSM,Anurag Engineering College Autonomous,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kodad,SRP,PVT,2001.0,JNTUH,90000.0,
+ANRK,ECE,Anurag Engineering College Autonomous,Electronics and Communication Engineering,Kodad,SRP,PVT,2001.0,JNTUH,90000.0,84.0
+ANRK,EEE,Anurag Engineering College Autonomous,Electrical and Electronics Engineering,Kodad,SRP,PVT,2001.0,JNTUH,90000.0,84.0
+ANRK,MEC,Anurag Engineering College Autonomous,Mechanical Engineering,Kodad,SRP,PVT,2001.0,,73000.0,42.0
+ANRP,PHM,ANRP,B. Pharmacy (M.P.C. Stream),Kodada,SRP,PVT,2007.0,,65000.0,
+ANWP,PHM,Anwar-Uloom College of Pharmacy,B. Pharmacy (M.P.C. Stream),Hyderabad,,,,,65000.0,35.0
+ARJN,CIV,Arjun College of Technology and Science,Civil Engineering,Batasingaram,RR,PVT,2006.0,,57000.0,42.0
+ARJN,CSE,Arjun College of Technology and Science,Computer Science and Engineering,Batasingaram,RR,PVT,2006.0,JNTUH,67000.0,42.0
+ARJN,CSM,Arjun College of Technology and Science,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Batasingaram,RR,PVT,2006.0,JNTUH,67000.0,
+ARJN,ECE,Arjun College of Technology and Science,Electronics and Communication Engineering,Batasingaram,RR,PVT,2006.0,JNTUH,67000.0,42.0
+ARJN,EEE,Arjun College of Technology and Science,Electrical and Electronics Engineering,Batasingaram,RR,PVT,2006.0,,57000.0,42.0
+ARYA,PHD,Arya College of Pharmacy,Pharm - D (M.P.C. Stream),Kandi,SRD,PVT,2007.0,OU,68000.0,
+ARYA,PHM,Arya College of Pharmacy,B. Pharmacy (M.P.C. Stream),Kandi,SRD,PVT,2007.0,OU,45000.0,
+ASRA,CIV,Avanthis Scientific Tech and Research Academy,Civil Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,60000.0,42.0
+ASRA,CSE,Avanthis Scientific Tech and Research Academy,Computer Science and Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,60000.0,42.0
+ASRA,CSM,Avanthis Scientific Tech and Research Academy,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hayathnagar,RR,PVT,2008.0,JNTUH,60000.0,42.0
+ASRA,ECE,Avanthis Scientific Tech and Research Academy,Electronics and Communication Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,60000.0,42.0
+ASRA,EEE,Avanthis Scientific Tech and Research Academy,Electrical and Electronics Engineering,Hayathnagar,RR,PVT,2008.0,,50000.0,42.0
+AURG,CSE,Auroras Scientific and Technological Institute,Computer Science and Engineering,Ghatkesar,MDL,PVT,2003.0,JNTUH,45000.0,42.0
+AURG,CSM,Auroras Scientific and Technological Institute,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,,,,60000.0,84.0
+AURG,ECE,Auroras Scientific and Technological Institute,Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2003.0,JNTUH,45000.0,84.0
+AURG,INF,Auroras Scientific and Technological Institute,Information Technology,Ghatkesar,MDL,,,,60000.0,84.0
+AURG,MEC,Auroras Scientific and Technological Institute,Mechanical Engineering,Ghatkesar,MDL,PVT,2003.0,JNTUH,45000.0,42.0
+AURH,CSE,Ramappa Engineering College,Computer Science and Engineering,Hanamkonda,,,,,35000.0,42.0
+AURP,CIV,Auroras Technological and Research Institute,Civil Engineering,Parvathapur,MDL,PVT,1999.0,,72000.0,84.0
+AURP,CSC,Auroras Technological and Research Institute,Computer Science and Engineering (Cyber Security),Parvathapur,MDL,PVT,1999.0,JNTUH,83000.0,
+AURP,CSD,Auroras Technological and Research Institute,Computer Science and Engineering (Data Science),Parvathapur,MDL,PVT,1999.0,JNTUH,83000.0,
+AURP,CSE,Auroras Technological and Research Institute,Computer Science and Engineering,Parvathapur,MDL,PVT,1999.0,JNTUH,83000.0,168.0
+AURP,CSM,Auroras Technological and Research Institute,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Parvathapur,MDL,PVT,1999.0,JNTUH,83000.0,84.0
+AURP,ECE,Auroras Technological and Research Institute,Electronics and Communication Engineering,Parvathapur,MDL,PVT,1999.0,JNTUH,83000.0,168.0
+AURP,EEE,Auroras Technological and Research Institute,Electrical and Electronics Engineering,Parvathapur,MDL,PVT,1999.0,JNTUH,83000.0,84.0
+AURP,INF,Auroras Technological and Research Institute,Information Technology,Parvathapur,MDL,PVT,1999.0,,72000.0,42.0
+AURP,MEC,Auroras Technological and Research Institute,Mechanical Engineering,Parvathapur,MDL,PVT,1999.0,,72000.0,42.0
+AVHP,PHD,Avanthi Inst of Pharmsci,Pharm - D (M.P.C. Stream),Hayathnagar,,,,,75000.0,10.0
+AVIH,CSD,Avanthi Inst of Engg and Technology,Computer Science and Engineering (Data Science),Hayathnagar,RR,PVT,2005.0,JNTUH,70000.0,42.0
+AVIH,CSE,Avanthi Inst of Engg and Technology,Computer Science and Engineering,Hayathnagar,RR,PVT,2005.0,JNTUH,70000.0,126.0
+AVIH,CSM,Avanthi Inst of Engg and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hayathnagar,RR,PVT,2005.0,JNTUH,70000.0,42.0
+AVIH,ECE,Avanthi Inst of Engg and Technology,Electronics and Communication Engineering,Hayathnagar,RR,PVT,2005.0,JNTUH,70000.0,84.0
+AVIH,EEE,Avanthi Inst of Engg and Technology,Electrical and Electronics Engineering,Hayathnagar,RR,PVT,2005.0,JNTUH,70000.0,42.0
+AVIH,MEC,Avanthi Inst of Engg and Technology,Mechanical Engineering,Hayathnagar,RR,PVT,2005.0,,65000.0,42.0
+AVNI,CIV,Avn Inst of Engg Technology,Civil Engineering,Ibrahimpatan,RR,PVT,2009.0,JNTUH,92000.0,42.0
+AVNI,CSC,Avn Inst of Engg Technology,Computer Science and Engineering (Cyber Security),Ibrahimpatan,RR,PVT,2009.0,JNTUH,92000.0,42.0
+AVNI,CSD,Avn Inst of Engg Technology,Computer Science and Engineering (Data Science),Ibrahimpatan,RR,PVT,2009.0,JNTUH,92000.0,42.0
+AVNI,CSE,Avn Inst of Engg Technology,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2009.0,JNTUH,92000.0,126.0
+AVNI,CSM,Avn Inst of Engg Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2009.0,JNTUH,92000.0,42.0
+AVNI,CSO,Avn Inst of Engg Technology,Computer Science and Engineering (IOT),Ibrahimpatan,RR,,,,78000.0,42.0
+AVNI,ECE,Avn Inst of Engg Technology,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2009.0,JNTUH,92000.0,84.0
+AVNI,MEC,Avn Inst of Engg Technology,Mechanical Engineering,Ibrahimpatan,RR,PVT,2009.0,JNTUH,92000.0,42.0
+AZAD,CSE,AZAD,Computer Science and Engineering,Moinabad,RR,PVT,2005.0,,35000.0,
+BIET,CIV,Bharat Institute of Engg and Technology,Civil Engineering,Ibrahimpatnam,RR,PVT,2001.0,JNTUH,89000.0,84.0
+BIET,CSC,Bharat Institute of Engg and Technology,Computer Science and Engineering (Cyber Security),Ibrahimpatnam,RR,PVT,2001.0,JNTUH,89000.0,
+BIET,CSD,Bharat Institute of Engg and Technology,Computer Science and Engineering (Data Science),Ibrahimpatnam,RR,PVT,2001.0,JNTUH,89000.0,
+BIET,CSE,Bharat Institute of Engg and Technology,Computer Science and Engineering,Ibrahimpatnam,RR,PVT,2001.0,,89000.0,168.0
+BIET,CSI,Bharat Institute of Engg and Technology,Computer Science and Information Technology,Ibrahimpatnam,RR,,,,89000.0,42.0
+BIET,CSM,Bharat Institute of Engg and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatnam,RR,PVT,2001.0,JNTUH,89000.0,42.0
+BIET,ECE,Bharat Institute of Engg and Technology,Electronics and Communication Engineering,Ibrahimpatnam,RR,PVT,2001.0,JNTUH,89000.0,168.0
+BIET,EEE,Bharat Institute of Engg and Technology,Electrical and Electronics Engineering,Ibrahimpatnam,RR,PVT,2001.0,JNTUH,89000.0,42.0
+BIET,INF,Bharat Institute of Engg and Technology,Information Technology,Ibrahimpatnam,RR,PVT,2001.0,JNTUH,89000.0,84.0
+BIET,MEC,Bharat Institute of Engg and Technology,Mechanical Engineering,Ibrahimpatnam,RR,PVT,2001.0,JNTUH,89000.0,
+BITN,CIV,Balaji Institute of Technology and Sci,Civil Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,84.0
+BITN,CSD,Balaji Institute of Technology and Sci,Computer Science and Engineering (Data Science),Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,
+BITN,CSE,Balaji Institute of Technology and Sci,Computer Science and Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,126.0
+BITN,CSM,Balaji Institute of Technology and Sci,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,42.0
+BITN,CSO,Balaji Institute of Technology and Sci,Computer Science and Engineering (IOT),Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,42.0
+BITN,CSW,Balaji Institute of Technology and Sci,Computer Engineering(Software Engineering),Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,42.0
+BITN,ECE,Balaji Institute of Technology and Sci,Electronics and Communication Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,126.0
+BITN,EEE,Balaji Institute of Technology and Sci,Electrical and Electronics Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,84.0
+BITN,MEC,Balaji Institute of Technology and Sci,Mechanical Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,68000.0,42.0
+BNPW,PHM,Bojjam Narasimhulu Pharm Coll for Women,B. Pharmacy (M.P.C. Stream),Saidabad,HYD,PVT,2007.0,JNTUH,52000.0,35.0
+BOMA,CIV,Bomma Inst of Technology and Sci,Civil Engineering,Khammam,KHM,PVT,2006.0,JNTUH,63000.0,21.0
+BOMA,CSE,Bomma Inst of Technology and Sci,Computer Science and Engineering,Khammam,KHM,PVT,2006.0,JNTUH,63000.0,42.0
+BOMA,CSM,Bomma Inst of Technology and Sci,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Khammam,KHM,PVT,2006.0,JNTUH,63000.0,
+BOMA,ECE,Bomma Inst of Technology and Sci,Electronics and Communication Engineering,Khammam,KHM,PVT,2006.0,JNTUH,63000.0,32.0
+BOMA,EEE,Bomma Inst of Technology and Sci,Electrical and Electronics Engineering,Khammam,KHM,PVT,2006.0,JNTUH,63000.0,42.0
+BOMA,MEC,Bomma Inst of Technology and Sci,Mechanical Engineering,Khammam,KHM,PVT,2006.0,,50400.0,21.0
+BOSE,CIV,Anu Bose Instt of Technology,Civil Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,95000.0,42.0
+BOSE,CSD,Anu Bose Instt of Technology,Computer Science and Engineering (Data Science),Paloncha,KGM,PVT,2008.0,JNTUH,95000.0,
+BOSE,CSE,Anu Bose Instt of Technology,Computer Science and Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,95000.0,42.0
+BOSE,CSM,Anu Bose Instt of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Paloncha,KGM,PVT,2008.0,JNTUH,95000.0,
+BOSE,ECE,Anu Bose Instt of Technology,Electronics and Communication Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,95000.0,42.0
+BOSE,EEE,Anu Bose Instt of Technology,Electrical and Electronics Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,95000.0,84.0
+BOSE,MEC,Anu Bose Instt of Technology,Mechanical Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,95000.0,
+BOSE,MIN,Anu Bose Instt of Technology,Mining Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,95000.0,42.0
+BPCP,PHM,Bhaskar Pharmacy College,B. Pharmacy (M.P.C. Stream),Yenkapally,,,,,55000.0,21.0
+BREW,CSE,Bhojreddy Engineering College for Women,Computer Science and Engineering,Saidabad,HYD,PVT,1997.0,JNTUH,75000.0,84.0
+BREW,CSM,Bhojreddy Engineering College for Women,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Saidabad,HYD,PVT,1997.0,JNTUH,75000.0,
+BREW,ECE,Bhojreddy Engineering College for Women,Electronics and Communication Engineering,Saidabad,HYD,PVT,1997.0,JNTUH,75000.0,126.0
+BREW,EEE,Bhojreddy Engineering College for Women,Electrical and Electronics Engineering,Saidabad,HYD,PVT,1997.0,JNTUH,75000.0,42.0
+BREW,INF,Bhojreddy Engineering College for Women,Information Technology,Saidabad,HYD,PVT,1997.0,JNTUH,75000.0,84.0
+BRIG,CIV,Brilliant Grammer School Ednl Soc GRP of Instns,Civil Engineering,Hayathnagar,RR,PVT,2009.0,JNTUH,72000.0,42.0
+BRIG,CSD,Brilliant Grammer School Ednl Soc GRP of Instns,Computer Science and Engineering (Data Science),Hayathnagar,RR,PVT,2009.0,JNTUH,72000.0,
+BRIG,CSE,Brilliant Grammer School Ednl Soc GRP of Instns,Computer Science and Engineering,Hayathnagar,RR,PVT,2009.0,JNTUH,72000.0,126.0
+BRIG,CSM,Brilliant Grammer School Ednl Soc GRP of Instns,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hayathnagar,RR,PVT,2009.0,JNTUH,72000.0,
+BRIG,CSN,Brilliant Grammer School Ednl Soc GRP of Instns,Computer Science & Engineering (Networks),Hayathnagar,RR,PVT,2009.0,,65000.0,
+BRIG,ECE,Brilliant Grammer School Ednl Soc GRP of Instns,Electronics and Communication Engineering,Hayathnagar,RR,PVT,2009.0,JNTUH,72000.0,84.0
+BRIG,EEE,Brilliant Grammer School Ednl Soc GRP of Instns,Electrical and Electronics Engineering,Hayathnagar,RR,PVT,2009.0,,65000.0,42.0
+BRIG,MEC,Brilliant Grammer School Ednl Soc GRP of Instns,Mechanical Engineering,Hayathnagar,RR,PVT,2009.0,JNTUH,72000.0,42.0
+BRIG,PHM,Brilliant Grammer School Ednl Soc GRP of Instns,B. Pharmacy (M.P.C. Stream),Hayathnagar,RR,PVT,2009.0,,70000.0,
+BRIL,AID,Brilliant Instt of Engg and Technology,Artificial Intelligence and Data Science,Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,
+BRIL,CIV,Brilliant Instt of Engg and Technology,Civil Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,42.0
+BRIL,CSC,Brilliant Instt of Engg and Technology,Computer Science and Engineering (Cyber Security),Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,42.0
+BRIL,CSD,Brilliant Instt of Engg and Technology,Computer Science and Engineering (Data Science),Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,
+BRIL,CSE,Brilliant Instt of Engg and Technology,Computer Science and Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,126.0
+BRIL,CSM,Brilliant Instt of Engg and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,42.0
+BRIL,CSW,Brilliant Instt of Engg and Technology,Computer Engineering(Software Engineering),Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,
+BRIL,ECE,Brilliant Instt of Engg and Technology,Electronics and Communication Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,84.0
+BRIL,EEE,Brilliant Instt of Engg and Technology,Electrical and Electronics Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,68000.0,42.0
+BRIL,MEC,Brilliant Instt of Engg and Technology,Mechanical Engineering,Hayathnagar,RR,,,,65000.0,42.0
+BSGP,CIV,Bandari Srinivas Institute of Technology,Civil Engineering,Chevella,,,,,46000.0,21.0
+BSGP,CSE,Bandari Srinivas Institute of Technology,Computer Science and Engineering,Chevella,,,,,46000.0,42.0
+BSGP,MEC,Bandari Srinivas Institute of Technology,Mechanical Engineering,Chevella,,,,,46000.0,21.0
+BSKR,AID,Bhaskar Engineering College,Artificial Intelligence and Data Science,Yenkapally,RR,PVT,2007.0,JNTUH,50000.0,
+BSKR,CSE,Bhaskar Engineering College,Computer Science and Engineering,Yenkapally,RR,PVT,2007.0,JNTUH,50000.0,42.0
+BSKR,CSM,Bhaskar Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Yenkapally,RR,PVT,2007.0,JNTUH,50000.0,
+BSKR,ECE,Bhaskar Engineering College,Electronics and Communication Engineering,Yenkapally,RR,PVT,2007.0,JNTUH,50000.0,42.0
+BSKR,INF,Bhaskar Engineering College,Information Technology,Yenkapally,RR,PVT,2007.0,JNTUH,50000.0,
+BVRI,AID,B V Raju Institute of Technology,Artificial Intelligence and Data Science,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,
+BVRI,BME,B V Raju Institute of Technology,Bio-Medical Engineering,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,21.0
+BVRI,CHE,B V Raju Institute of Technology,Chemical Engineering,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,42.0
+BVRI,CIV,B V Raju Institute of Technology,Civil Engineering,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,84.0
+BVRI,CSB,B V Raju Institute of Technology,Computer Science and Business System,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,42.0
+BVRI,CSD,B V Raju Institute of Technology,Computer Science and Engineering (Data Science),Narsapur,MED,PVT,1997.0,JNTUH,135000.0,42.0
+BVRI,CSE,B V Raju Institute of Technology,Computer Science and Engineering,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,210.0
+BVRI,CSM,B V Raju Institute of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Narsapur,MED,PVT,1997.0,JNTUH,135000.0,42.0
+BVRI,ECE,B V Raju Institute of Technology,Electronics and Communication Engineering,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,168.0
+BVRI,EEE,B V Raju Institute of Technology,Electrical and Electronics Engineering,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,84.0
+BVRI,INF,B V Raju Institute of Technology,Information Technology,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,84.0
+BVRI,MEC,B V Raju Institute of Technology,Mechanical Engineering,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,84.0
+BVRI,PHE,B V Raju Institute of Technology,Pharmaceutical Engineering,Narsapur,MED,PVT,1997.0,JNTUH,135000.0,42.0
+BVRW,CSE,BVRIT College of Engineering for Women,Computer Science and Engineering,Bachupally,MDL,PVT,2012.0,,90000.0,126.0
+BVRW,CSM,BVRIT College of Engineering for Women,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Bachupally,MDL,PVT,2012.0,JNTUH,120000.0,42.0
+BVRW,ECE,BVRIT College of Engineering for Women,Electronics and Communication Engineering,Bachupally,MDL,PVT,2012.0,JNTUH,120000.0,84.0
+BVRW,EEE,BVRIT College of Engineering for Women,Electrical and Electronics Engineering,Bachupally,MDL,PVT,2012.0,JNTUH,120000.0,42.0
+BVRW,INF,BVRIT College of Engineering for Women,Information Technology,Bachupally,MDL,PVT,2012.0,JNTUH,120000.0,84.0
+CARE,PHD,CARE,Pharm - D (M.P.C. Stream),Oglapur,WGL,PVT,2005.0,,75000.0,
+CASR,AGR,College of Agricultural Engg,Agricultural Engineering,Sangareddy,SRD,UNIV,2011.0,PJTSAU,10000.0,27.0
+CBIT,AID,Chaitanya Bharathi Institute of Technology,Artificial Intelligence and Data Science,Gandipet,RR,PVT,1979.0,OU,140000.0,42.0
+CBIT,AIM,Chaitanya Bharathi Institute of Technology,Artificial Intelligence and Machine Learning,Gandipet,RR,PVT,1979.0,OU,140000.0,
+CBIT,BIO,Chaitanya Bharathi Institute of Technology,Bio-Technology,Gandipet,RR,PVT,1979.0,OU,140000.0,21.0
+CBIT,CHE,Chaitanya Bharathi Institute of Technology,Chemical Engineering,Gandipet,RR,PVT,1979.0,OU,140000.0,42.0
+CBIT,CIC,Chaitanya Bharathi Institute of Technology,CSE (IOT and Cyber Security Including Block Chain Technology),Gandipet,RR,PVT,1979.0,OU,140000.0,42.0
+CBIT,CIV,Chaitanya Bharathi Institute of Technology,Civil Engineering,Gandipet,RR,PVT,1979.0,OU,140000.0,84.0
+CBIT,CSE,Chaitanya Bharathi Institute of Technology,Computer Science and Engineering,Gandipet,RR,PVT,1979.0,OU,140000.0,126.0
+CBIT,CSM,Chaitanya Bharathi Institute of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Gandipet,RR,PVT,1979.0,OU,140000.0,42.0
+CBIT,ECE,Chaitanya Bharathi Institute of Technology,Electronics and Communication Engineering,Gandipet,RR,PVT,1979.0,OU,140000.0,126.0
+CBIT,EEE,Chaitanya Bharathi Institute of Technology,Electrical and Electronics Engineering,Gandipet,RR,PVT,1979.0,OU,140000.0,84.0
+CBIT,INF,Chaitanya Bharathi Institute of Technology,Information Technology,Gandipet,RR,PVT,1979.0,OU,140000.0,126.0
+CBIT,MEC,Chaitanya Bharathi Institute of Technology,Mechanical Engineering,Gandipet,RR,PVT,1979.0,OU,140000.0,84.0
+CDTK,DRG,College of Dairy Technology,Dairying,Kamareddy,KMR,UNIV,2007.0,PVNRTVU,10000.0,22.0
+CFSR,FDS,College of Food Science and Technology,Food Science,Rudrur,NZB,,,,10000.0,27.0
+CFSR,FDT,College of Food Science and Technology,Food Technology,Rudrur,NZB,GOV,2015.0,PJTSAU,10000.0,
+CHET,CIV,Sri Chaitanya Technical Campus,Civil Engineering,Ibrahimpatan,RR,PVT,2009.0,,55000.0,42.0
+CHET,CSE,Sri Chaitanya Technical Campus,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2009.0,JNTUH,60000.0,84.0
+CHET,CSW,Sri Chaitanya Technical Campus,Computer Engineering(Software Engineering),Ibrahimpatan,RR,PVT,2009.0,,55000.0,42.0
+CHET,ECE,Sri Chaitanya Technical Campus,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2009.0,JNTUH,60000.0,42.0
+CHET,EEE,Sri Chaitanya Technical Campus,Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2009.0,,55000.0,42.0
+CHET,MEC,Sri Chaitanya Technical Campus,Mechanical Engineering,Ibrahimpatan,RR,PVT,2009.0,,55000.0,42.0
+CHTN,CIV,Sree Chaitanya College of Engineering,Civil Engineering,Karimnagar,KRM,PVT,2004.0,JNTUH,63000.0,84.0
+CHTN,CSE,Sree Chaitanya College of Engineering,Computer Science and Engineering,Karimnagar,KRM,PVT,2004.0,JNTUH,63000.0,84.0
+CHTN,CSG,Sree Chaitanya College of Engineering,Computer Science & Design,Karimnagar,KRM,PVT,2004.0,JNTUH,63000.0,
+CHTN,ECE,Sree Chaitanya College of Engineering,Electronics and Communication Engineering,Karimnagar,KRM,PVT,2004.0,JNTUH,63000.0,84.0
+CHTN,EEE,Sree Chaitanya College of Engineering,Electrical and Electronics Engineering,Karimnagar,KRM,PVT,2004.0,JNTUH,63000.0,42.0
+CHTN,MEC,Sree Chaitanya College of Engineering,Mechanical Engineering,Karimnagar,KRM,PVT,2004.0,,55000.0,42.0
+CHTS,AIM,Sree Chaitanya Inst of Technology Sciences,Artificial Intelligence and Machine Learning,Karimnagar,KRM,PVT,2008.0,JNTUH,60000.0,
+CHTS,CIV,Sree Chaitanya Inst of Technology Sciences,Civil Engineering,Karimnagar,KRM,,,,55000.0,42.0
+CHTS,CSE,Sree Chaitanya Inst of Technology Sciences,Computer Science and Engineering,Karimnagar,KRM,PVT,2008.0,JNTUH,60000.0,84.0
+CHTS,CSM,Sree Chaitanya Inst of Technology Sciences,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Karimnagar,KRM,PVT,2008.0,JNTUH,60000.0,
+CHTS,ECE,Sree Chaitanya Inst of Technology Sciences,Electronics and Communication Engineering,Karimnagar,KRM,PVT,2008.0,JNTUH,60000.0,84.0
+CHTS,EEE,Sree Chaitanya Inst of Technology Sciences,Electrical and Electronics Engineering,Karimnagar,KRM,PVT,2008.0,JNTUH,60000.0,42.0
+CIPH,PHM,CIPH,B. Pharmacy (M.P.C. Stream),Kazipet,HNK,PVT,2007.0,,55000.0,
+CITS,CIV,Chaitanya Inst of Tech and Science,Civil Engineering,Hanamkonda,,,,,45000.0,42.0
+CITS,CSE,Chaitanya Inst of Tech and Science,Computer Science and Engineering,Hanamkonda,,,,,45000.0,84.0
+CITS,ECE,Chaitanya Inst of Tech and Science,Electronics and Communication Engineering,Hanamkonda,,,,,45000.0,42.0
+CITS,MEC,Chaitanya Inst of Tech and Science,Mechanical Engineering,Hanamkonda,,,,,45000.0,42.0
+CJIT,CIV,Christu Jyothi Institute of Technology and Sci,Civil Engineering,Jangaon,,,,,57000.0,42.0
+CJIT,CSE,Christu Jyothi Institute of Technology and Sci,Computer Science and Engineering,Jangaon,,,,,57000.0,84.0
+CJIT,ECE,Christu Jyothi Institute of Technology and Sci,Electronics and Communication Engineering,Jangaon,,,,,57000.0,84.0
+CJIT,EEE,Christu Jyothi Institute of Technology and Sci,Electrical and Electronics Engineering,Jangaon,,,,,57000.0,42.0
+CJIT,MEC,Christu Jyothi Institute of Technology and Sci,Mechanical Engineering,Jangaon,,,,,57000.0,42.0
+CMRG,AIM,CMR Technical Campus (Autonomous),Artificial Intelligence and Machine Learning,Kandlakoya,MDL,PVT,2009.0,JNTUH,105000.0,
+CMRG,CIV,CMR Technical Campus (Autonomous),Civil Engineering,Kandlakoya,MDL,,,,80000.0,42.0
+CMRG,CSC,CMR Technical Campus (Autonomous),Computer Science and Engineering (Cyber Security),Kandlakoya,MDL,PVT,2009.0,JNTUH,105000.0,
+CMRG,CSD,CMR Technical Campus (Autonomous),Computer Science and Engineering (Data Science),Kandlakoya,MDL,PVT,2009.0,,80000.0,126.0
+CMRG,CSE,CMR Technical Campus (Autonomous),Computer Science and Engineering,Kandlakoya,MDL,PVT,2009.0,JNTUH,105000.0,168.0
+CMRG,CSM,CMR Technical Campus (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kandlakoya,MDL,PVT,2009.0,JNTUH,105000.0,126.0
+CMRG,ECE,CMR Technical Campus (Autonomous),Electronics and Communication Engineering,Kandlakoya,MDL,PVT,2009.0,JNTUH,105000.0,126.0
+CMRG,INF,CMR Technical Campus (Autonomous),Information Technology,Kandlakoya,MDL,PVT,2009.0,JNTUH,105000.0,84.0
+CMRG,MEC,CMR Technical Campus (Autonomous),Mechanical Engineering,Kandlakoya,MDL,,,,80000.0,42.0
+CMRK,AIM,C M R College of Engg and Technology (Autonomous),Artificial Intelligence and Machine Learning,Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,
+CMRK,CIV,C M R College of Engg and Technology (Autonomous),Civil Engineering,Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+CMRK,CSC,C M R College of Engg and Technology (Autonomous),Computer Science and Engineering (Cyber Security),Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,84.0
+CMRK,CSD,C M R College of Engg and Technology (Autonomous),Computer Science and Engineering (Data Science),Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,
+CMRK,CSE,C M R College of Engg and Technology (Autonomous),Computer Science and Engineering,Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,168.0
+CMRK,CSM,C M R College of Engg and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,84.0
+CMRK,ECE,C M R College of Engg and Technology (Autonomous),Electronics and Communication Engineering,Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,168.0
+CMRK,EEE,C M R College of Engg and Technology (Autonomous),Electrical and Electronics Engineering,Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+CMRK,INF,C M R College of Engg and Technology (Autonomous),Information Technology,Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+CMRK,MEC,C M R College of Engg and Technology (Autonomous),Mechanical Engineering,Kandlakoya,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+CMRM,AIM,CMR Institute of Technology (Autonomous),Artificial Intelligence and Machine Learning,Kandlakoya,MDL,PVT,2005.0,JNTUH,110000.0,
+CMRM,CIV,CMR Institute of Technology (Autonomous),Civil Engineering,Kandlakoya,MDL,,,,90000.0,42.0
+CMRM,CSC,CMR Institute of Technology (Autonomous),Computer Science and Engineering (Cyber Security),Kandlakoya,MDL,PVT,2005.0,JNTUH,110000.0,
+CMRM,CSD,CMR Institute of Technology (Autonomous),Computer Science and Engineering (Data Science),Kandlakoya,MDL,PVT,2005.0,JNTUH,110000.0,126.0
+CMRM,CSE,CMR Institute of Technology (Autonomous),Computer Science and Engineering,Kandlakoya,MDL,PVT,2005.0,JNTUH,110000.0,168.0
+CMRM,CSM,CMR Institute of Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kandlakoya,MDL,PVT,2005.0,JNTUH,110000.0,126.0
+CMRM,ECE,CMR Institute of Technology (Autonomous),Electronics and Communication Engineering,Kandlakoya,MDL,PVT,2005.0,JNTUH,110000.0,168.0
+CMRM,MEC,CMR Institute of Technology (Autonomous),Mechanical Engineering,Kandlakoya,MDL,,,,90000.0,42.0
+CMRN,CSC,CMR Engg College (Autonomous),Computer Science and Engineering (Cyber Security),Kandlakoya,MDL,PVT,2010.0,JNTUH,75000.0,42.0
+CMRN,CSD,CMR Engg College (Autonomous),Computer Science and Engineering (Data Science),Kandlakoya,MDL,PVT,2010.0,JNTUH,75000.0,84.0
+CMRN,CSE,CMR Engg College (Autonomous),Computer Science and Engineering,Kandlakoya,MDL,PVT,2010.0,JNTUH,75000.0,168.0
+CMRN,CSM,CMR Engg College (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kandlakoya,MDL,PVT,2010.0,JNTUH,75000.0,126.0
+CMRN,ECE,CMR Engg College (Autonomous),Electronics and Communication Engineering,Kandlakoya,MDL,PVT,2010.0,JNTUH,75000.0,168.0
+CMRN,INF,CMR Engg College (Autonomous),Information Technology,Kandlakoya,MDL,PVT,2010.0,JNTUH,75000.0,84.0
+CMRN,MEC,CMR Engg College (Autonomous),Mechanical Engineering,Kandlakoya,MDL,,,,75000.0,42.0
+CMRP,PHD,C M R Coll of Pharmacy,Pharm - D (M.P.C. Stream),Kandlakoya,MDL,PVT,2005.0,JNTUH,100000.0,10.0
+CMRP,PHM,C M R Coll of Pharmacy,B. Pharmacy (M.P.C. Stream),Kandlakoya,MDL,PVT,2005.0,JNTUH,90000.0,35.0
+CVRH,CIV,CVR College of Engineering,Civil Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,42.0
+CVRH,CSC,CVR College of Engineering,Computer Science and Engineering (Cyber Security),Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,42.0
+CVRH,CSD,CVR College of Engineering,Computer Science and Engineering (Data Science),Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,42.0
+CVRH,CSE,CVR College of Engineering,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,210.0
+CVRH,CSI,CVR College of Engineering,Computer Science and Information Technology,Ibrahimpatan,RR,PVT,2001.0,,115000.0,84.0
+CVRH,CSM,CVR College of Engineering,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,42.0
+CVRH,ECE,CVR College of Engineering,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2001.0,,115000.0,168.0
+CVRH,EEE,CVR College of Engineering,Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,42.0
+CVRH,EIE,CVR College of Engineering,Electronics and Instrumentation Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,42.0
+CVRH,INF,CVR College of Engineering,Information Technology,Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,84.0
+CVRH,MEC,CVR College of Engineering,Mechanical Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,150000.0,42.0
+CVSR,AI,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Artificial Intelligence,Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,135000.0,42.0
+CVSR,CHE,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Chemical Engineering,Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,135000.0,42.0
+CVSR,CIV,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Civil Engineering,Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,135000.0,126.0
+CVSR,CSE,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Computer Science and Engineering,Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,135000.0,168.0
+CVSR,ECE,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,135000.0,168.0
+CVSR,EEE,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,135000.0,84.0
+CVSR,INF,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Information Technology,Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,135000.0,126.0
+CVSR,MEC,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Mechanical Engineering,Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,135000.0,168.0
+CVSR,PHD,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),Pharm - D (M.P.C. Stream),Ghatkesar,MDL,PVT,2002.0,ANURAG UNIVERSITY,68000.0,
+CVSR,PHM,Anurag University (Formerly Anurag GRP of Instns- CVSR Coll of Engg),B. Pharmacy (M.P.C. Stream),Ghatkesar,MDL,PVT,2002.0,,75000.0,35.0
+DARE,CSE,Daripally Anantha Ramulu Collof Enggand Tech,Computer Science and Engineering,Khammam,KHM,PVT,2007.0,JNTUH,50000.0,
+DCET,CIV,Deccan College of Engineering and Technology,Civil Engineering,Darussalam,,,,,72000.0,84.0
+DCET,CSE,Deccan College of Engineering and Technology,Computer Science and Engineering,Darussalam,,,,,72000.0,63.0
+DCET,ECE,Deccan College of Engineering and Technology,Electronics and Communication Engineering,Darussalam,,,,,72000.0,63.0
+DCET,EEE,Deccan College of Engineering and Technology,Electrical and Electronics Engineering,Darussalam,,,,,72000.0,42.0
+DCET,EIE,Deccan College of Engineering and Technology,Electronics and Instrumentation Engineering,Darussalam,,,,,72000.0,28.0
+DCET,INF,Deccan College of Engineering and Technology,Information Technology,Darussalam,,,,,72000.0,42.0
+DCET,IPE,Deccan College of Engineering and Technology,Industrial Production Engineering,Darussalam,,,,,72000.0,28.0
+DCET,MEC,Deccan College of Engineering and Technology,Mechanical Engineering,Darussalam,,,,,72000.0,84.0
+DIPS,PHM,Dhanvanthari Inst of Pharm Sci,B. Pharmacy (M.P.C. Stream),Kothagudem,KGM,PVT,2007.0,JNTUH,52000.0,35.0
+DRKC,CIV,D R K College of Engineering and Technology,Civil Engineering,Bowrampet,MDL,PVT,2006.0,JNTUH,60000.0,42.0
+DRKC,CSC,D R K College of Engineering and Technology,Computer Science and Engineering (Cyber Security),Bowrampet,MDL,PVT,2006.0,JNTUH,60000.0,42.0
+DRKC,CSD,D R K College of Engineering and Technology,Computer Science and Engineering (Data Science),Bowrampet,MDL,PVT,2006.0,JNTUH,60000.0,42.0
+DRKC,CSE,D R K College of Engineering and Technology,Computer Science and Engineering,Bowrampet,MDL,PVT,2006.0,JNTUH,60000.0,126.0
+DRKC,ECE,D R K College of Engineering and Technology,Electronics and Communication Engineering,Bowrampet,MDL,PVT,2006.0,JNTUH,60000.0,42.0
+DRKI,CSD,D R K Institute of Sci and Technology,Computer Science and Engineering (Data Science),Bowrampet,MDL,PVT,2004.0,JNTUH,60000.0,42.0
+DRKI,CSE,D R K Institute of Sci and Technology,Computer Science and Engineering,Bowrampet,MDL,PVT,2004.0,JNTUH,60000.0,84.0
+DRKI,CSM,D R K Institute of Sci and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Bowrampet,MDL,PVT,2004.0,JNTUH,60000.0,42.0
+DRKI,ECE,D R K Institute of Sci and Technology,Electronics and Communication Engineering,Bowrampet,MDL,PVT,2004.0,JNTUH,60000.0,42.0
+DRKI,EEE,D R K Institute of Sci and Technology,Electrical and Electronics Engineering,Bowrampet,MDL,PVT,2004.0,,55000.0,21.0
+DRKI,MEC,D R K Institute of Sci and Technology,Mechanical Engineering,Bowrampet,MDL,PVT,2004.0,JNTUH,60000.0,42.0
+DSOP,PHD,Deccan School of Pharmacy,Pharm - D (M.P.C. Stream),Nampally,,,,,75000.0,10.0
+DSOP,PHM,Deccan School of Pharmacy,B. Pharmacy (M.P.C. Stream),Nampally,,,,,70000.0,35.0
+ELEN,CIV,Ellenki Collge of Engg and Technology,Civil Engineering,Patancheru,SRD,PVT,2001.0,JNTUH,60000.0,42.0
+ELEN,CSC,Ellenki Collge of Engg and Technology,Computer Science and Engineering (Cyber Security),Patancheru,SRD,PVT,2001.0,JNTUH,60000.0,42.0
+ELEN,CSD,Ellenki Collge of Engg and Technology,Computer Science and Engineering (Data Science),Patancheru,SRD,PVT,2001.0,JNTUH,60000.0,
+ELEN,CSE,Ellenki Collge of Engg and Technology,Computer Science and Engineering,Patancheru,SRD,PVT,2001.0,JNTUH,60000.0,84.0
+ELEN,CSM,Ellenki Collge of Engg and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Patancheru,SRD,PVT,2001.0,JNTUH,60000.0,42.0
+ELEN,ECE,Ellenki Collge of Engg and Technology,Electronics and Communication Engineering,Patancheru,SRD,PVT,2001.0,JNTUH,60000.0,42.0
+ELEN,EEE,Ellenki Collge of Engg and Technology,Electrical and Electronics Engineering,Patancheru,SRD,PVT,2001.0,,65000.0,42.0
+ELEN,MEC,Ellenki Collge of Engg and Technology,Mechanical Engineering,Patancheru,SRD,PVT,2001.0,JNTUH,60000.0,42.0
+GATE,AID,Gate Institute of Technologyand Sciences,Artificial Intelligence and Data Science,Kodad,SRP,PVT,2008.0,JNTUH,100000.0,
+GATE,CIV,Gate Institute of Technologyand Sciences,Civil Engineering,Kodad,SRP,PVT,2008.0,,75000.0,84.0
+GATE,CSE,Gate Institute of Technologyand Sciences,Computer Science and Engineering,Kodad,SRP,PVT,2008.0,JNTUH,100000.0,126.0
+GATE,CSM,Gate Institute of Technologyand Sciences,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kodad,SRP,PVT,2008.0,JNTUH,100000.0,
+GATE,ECE,Gate Institute of Technologyand Sciences,Electronics and Communication Engineering,Kodad,SRP,PVT,2008.0,,75000.0,63.0
+GATE,EEE,Gate Institute of Technologyand Sciences,Electrical and Electronics Engineering,Kodad,SRP,PVT,2008.0,,75000.0,84.0
+GATE,MEC,Gate Institute of Technologyand Sciences,Mechanical Engineering,Kodad,SRP,PVT,2008.0,,75000.0,42.0
+GCPK,PHD,Geethanjali Coll of Pharm,Pharm - D (M.P.C. Stream),Keesara,MDL,PVT,2007.0,JNTUH,110000.0,
+GCPK,PHM,Geethanjali Coll of Pharm,B. Pharmacy (M.P.C. Stream),Keesara,MDL,PVT,2007.0,JNTUH,70000.0,35.0
+GCTC,CIV,Geetanjali College of Engg and Technology (Autonomous),Civil Engineering,Keesara,MDL,PVT,2005.0,JNTUH,120000.0,42.0
+GCTC,CSC,Geetanjali College of Engg and Technology (Autonomous),Computer Science and Engineering (Cyber Security),Keesara,MDL,PVT,2005.0,JNTUH,120000.0,42.0
+GCTC,CSD,Geetanjali College of Engg and Technology (Autonomous),Computer Science and Engineering (Data Science),Keesara,MDL,PVT,2005.0,JNTUH,120000.0,42.0
+GCTC,CSE,Geetanjali College of Engg and Technology (Autonomous),Computer Science and Engineering,Keesara,MDL,PVT,2005.0,JNTUH,120000.0,168.0
+GCTC,CSM,Geetanjali College of Engg and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Keesara,MDL,PVT,2005.0,JNTUH,120000.0,42.0
+GCTC,CSO,Geetanjali College of Engg and Technology (Autonomous),Computer Science and Engineering (IOT),Keesara,MDL,PVT,2005.0,JNTUH,120000.0,42.0
+GCTC,ECE,Geetanjali College of Engg and Technology (Autonomous),Electronics and Communication Engineering,Keesara,MDL,PVT,2005.0,JNTUH,120000.0,168.0
+GCTC,EEE,Geetanjali College of Engg and Technology (Autonomous),Electrical and Electronics Engineering,Keesara,MDL,PVT,2005.0,JNTUH,120000.0,42.0
+GCTC,INF,Geetanjali College of Engg and Technology (Autonomous),Information Technology,Keesara,MDL,PVT,2005.0,,102000.0,42.0
+GCTC,MEC,Geetanjali College of Engg and Technology (Autonomous),Mechanical Engineering,Keesara,MDL,PVT,2005.0,JNTUH,120000.0,42.0
+GJCP,PHM,GJCP,B. Pharmacy (M.P.C. Stream),Uppal,MDL,PVT,2007.0,,55000.0,
+GLND,PHM,Gland Inst of Pharaceutical Sciences,B. Pharmacy (M.P.C. Stream),Kothapet,MED,PVT,2009.0,,50000.0,35.0
+GLOB,CIV,Global Inst of Engineering and Technology,Civil Engineering,Chilkur,RR,PVT,2006.0,,50000.0,42.0
+GLOB,CSD,Global Inst of Engineering and Technology,Computer Science and Engineering (Data Science),Chilkur,RR,PVT,2006.0,JNTUH,70000.0,
+GLOB,CSE,Global Inst of Engineering and Technology,Computer Science and Engineering,Chilkur,RR,PVT,2006.0,JNTUH,70000.0,42.0
+GLOB,CSM,Global Inst of Engineering and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Chilkur,RR,PVT,2006.0,JNTUH,70000.0,42.0
+GLOB,ECE,Global Inst of Engineering and Technology,Electronics and Communication Engineering,Chilkur,RR,PVT,2006.0,JNTUH,70000.0,42.0
+GLOB,MEC,Global Inst of Engineering and Technology,Mechanical Engineering,Chilkur,RR,,,,50000.0,42.0
+GLWC,CSE,Gokaraju Lailavathi Womens Engineering College,Computer Science and Engineering,Bachupally,MDL,PVT,2021.0,OU,70000.0,
+GLWC,INF,Gokaraju Lailavathi Womens Engineering College,Information Technology,Bachupally,MDL,PVT,2021.0,OU,70000.0,
+GNIT,AID,Gurunanak Inst of Technology,Artificial Intelligence and Data Science,Ibrahimpatan,RR,PVT,1999.0,JNTUH,120000.0,
+GNIT,CIV,Gurunanak Inst of Technology,Civil Engineering,Ibrahimpatan,RR,PVT,1999.0,JNTUH,120000.0,84.0
+GNIT,CSC,Gurunanak Inst of Technology,Computer Science and Engineering (Cyber Security),Ibrahimpatan,RR,PVT,1999.0,JNTUH,120000.0,42.0
+GNIT,CSE,Gurunanak Inst of Technology,Computer Science and Engineering,Ibrahimpatan,RR,PVT,1999.0,JNTUH,120000.0,126.0
+GNIT,CSM,Gurunanak Inst of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,1999.0,JNTUH,120000.0,42.0
+GNIT,ECE,Gurunanak Inst of Technology,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,1999.0,JNTUH,120000.0,84.0
+GNIT,EEE,Gurunanak Inst of Technology,Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,1999.0,JNTUH,120000.0,42.0
+GNIT,INF,Gurunanak Inst of Technology,Information Technology,Ibrahimpatan,RR,PVT,1999.0,JNTUH,120000.0,42.0
+GNIT,MEC,Gurunanak Inst of Technology,Mechanical Engineering,Ibrahimpatan,RR,PVT,1999.0,,94000.0,84.0
+GNPT,CSC,Ganapathi Engineering Collge,Computer Science and Engineering (Cyber Security),Warangal,WGL,PVT,2005.0,JNTUH,50000.0,42.0
+GNPT,CSE,Ganapathi Engineering Collge,Computer Science and Engineering,Warangal,WGL,PVT,2005.0,JNTUH,50000.0,42.0
+GNPT,CSM,Ganapathi Engineering Collge,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Warangal,WGL,PVT,2005.0,JNTUH,50000.0,42.0
+GNPT,ECE,Ganapathi Engineering Collge,Electronics and Communication Engineering,Warangal,WGL,PVT,2005.0,,45000.0,21.0
+GNPT,EEE,Ganapathi Engineering Collge,Electrical and Electronics Engineering,Warangal,WGL,PVT,2005.0,,45000.0,21.0
+GNTW,CSD,G Naraynamma Institute of Technology and Sci,Computer Science and Engineering (Data Science),Shaikpet,HYD,PVT,1997.0,JNTUH,100000.0,42.0
+GNTW,CSE,G Naraynamma Institute of Technology and Sci,Computer Science and Engineering,Shaikpet,HYD,PVT,1997.0,JNTUH,100000.0,126.0
+GNTW,CSM,G Naraynamma Institute of Technology and Sci,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Shaikpet,HYD,PVT,1997.0,JNTUH,100000.0,42.0
+GNTW,CST,G Naraynamma Institute of Technology and Sci,Computer Science and Technology,Rayadurg,HYD,PVT,1997.0,,122000.0,42.0
+GNTW,ECE,G Naraynamma Institute of Technology and Sci,Electronics and Communication Engineering,Shaikpet,HYD,PVT,1997.0,JNTUH,100000.0,126.0
+GNTW,EEE,G Naraynamma Institute of Technology and Sci,Electrical and Electronics Engineering,Shaikpet,HYD,PVT,1997.0,JNTUH,100000.0,84.0
+GNTW,ETM,G Naraynamma Institute of Technology and Sci,Electronics and Telematics,Shaikpet,HYD,PVT,1997.0,JNTUH,100000.0,42.0
+GNTW,INF,G Naraynamma Institute of Technology and Sci,Information Technology,Shaikpet,HYD,PVT,1997.0,JNTUH,100000.0,84.0
+GPRP,PHD,G P R College of Pharmacy,Pharm - D (M.P.C. Stream),Mehdipatnam,HYD,PVT,1995.0,OU,68000.0,
+GPRP,PHM,G P R College of Pharmacy,B. Pharmacy (M.P.C. Stream),Mehdipatnam,HYD,PVT,1995.0,OU,90000.0,21.0
+GRCP,PHM,Gokaraju Rangaraju College of Pharmacy,B. Pharmacy (M.P.C. Stream),Bachupalli,MDL,PVT,2003.0,OU,65000.0,35.0
+GRRR,CIV,Gokaraju Rangaraju Institute of Engg and Tech,Civil Engineering,Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,42.0
+GRRR,CSB,Gokaraju Rangaraju Institute of Engg and Tech,Computer Science and Business System,Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,42.0
+GRRR,CSD,Gokaraju Rangaraju Institute of Engg and Tech,Computer Science and Engineering (Data Science),Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,42.0
+GRRR,CSE,Gokaraju Rangaraju Institute of Engg and Tech,Computer Science and Engineering,Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,252.0
+GRRR,CSM,Gokaraju Rangaraju Institute of Engg and Tech,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,42.0
+GRRR,ECE,Gokaraju Rangaraju Institute of Engg and Tech,Electronics and Communication Engineering,Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,210.0
+GRRR,EEE,Gokaraju Rangaraju Institute of Engg and Tech,Electrical and Electronics Engineering,Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,42.0
+GRRR,INF,Gokaraju Rangaraju Institute of Engg and Tech,Information Technology,Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,126.0
+GRRR,MEC,Gokaraju Rangaraju Institute of Engg and Tech,Mechanical Engineering,Miyapur,MDL,PVT,1997.0,JNTUH,130000.0,42.0
+GURU,AID,Guru Nanak Institutions Technical Campus (Autonomous),Artificial Intelligence and Data Science,Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,
+GURU,CIV,Guru Nanak Institutions Technical Campus (Autonomous),Civil Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,126.0
+GURU,CSC,Guru Nanak Institutions Technical Campus (Autonomous),Computer Science and Engineering (Cyber Security),Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,42.0
+GURU,CSD,Guru Nanak Institutions Technical Campus (Autonomous),Computer Science and Engineering (Data Science),Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,42.0
+GURU,CSE,Guru Nanak Institutions Technical Campus (Autonomous),Computer Science and Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,210.0
+GURU,CSM,Guru Nanak Institutions Technical Campus (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,42.0
+GURU,CSO,Guru Nanak Institutions Technical Campus (Autonomous),Computer Science and Engineering (IOT),Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,42.0
+GURU,ECE,Guru Nanak Institutions Technical Campus (Autonomous),Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,210.0
+GURU,EEE,Guru Nanak Institutions Technical Campus (Autonomous),Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,84.0
+GURU,INF,Guru Nanak Institutions Technical Campus (Autonomous),Information Technology,Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,42.0
+GURU,MEC,Guru Nanak Institutions Technical Campus (Autonomous),Mechanical Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,120000.0,168.0
+GURU,PHD,Guru Nanak Institutions Technical Campus (Autonomous),Pharm - D (M.P.C. Stream),Ibrahimpatan,RR,PVT,2001.0,,115000.0,10.0
+GURU,PHM,Guru Nanak Institutions Technical Campus (Autonomous),B. Pharmacy (M.P.C. Stream),Ibrahimpatan,RR,PVT,2001.0,,83000.0,35.0
+HITM,CSC,Hyderabad Inst of Technology and MGMT (Autonomous),Computer Science and Engineering (Cyber Security),Medchal,MDL,PVT,2001.0,JNTUH,90000.0,42.0
+HITM,CSD,Hyderabad Inst of Technology and MGMT (Autonomous),Computer Science and Engineering (Data Science),Medchal,MDL,PVT,2001.0,JNTUH,90000.0,42.0
+HITM,CSE,Hyderabad Inst of Technology and MGMT (Autonomous),Computer Science and Engineering,Medchal,MDL,PVT,2001.0,JNTUH,90000.0,84.0
+HITM,CSM,Hyderabad Inst of Technology and MGMT (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Medchal,MDL,PVT,2001.0,JNTUH,90000.0,42.0
+HITM,CSO,Hyderabad Inst of Technology and MGMT (Autonomous),Computer Science and Engineering (IOT),Medchal,MDL,PVT,2001.0,JNTUH,90000.0,42.0
+HITM,ECE,Hyderabad Inst of Technology and MGMT (Autonomous),Electronics and Communication Engineering,Medchal,MDL,PVT,2001.0,JNTUH,90000.0,42.0
+HITM,EEE,Hyderabad Inst of Technology and MGMT (Autonomous),Electrical and Electronics Engineering,Medchal,MDL,PVT,2001.0,,82000.0,42.0
+HITM,MEC,Hyderabad Inst of Technology and MGMT (Autonomous),Mechanical Engineering,Medchal,MDL,PVT,2001.0,JNTUH,90000.0,42.0
+HOLY,CIV,Holy Mary Institute of Tech Science (Autonomous),Civil Engineering,Keesara,MDL,PVT,2001.0,JNTUH,66000.0,42.0
+HOLY,CSD,Holy Mary Institute of Tech Science (Autonomous),Computer Science and Engineering (Data Science),Keesara,MDL,PVT,2001.0,JNTUH,66000.0,42.0
+HOLY,CSE,Holy Mary Institute of Tech Science (Autonomous),Computer Science and Engineering,Keesara,MDL,PVT,2001.0,JNTUH,66000.0,84.0
+HOLY,CSM,Holy Mary Institute of Tech Science (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Keesara,MDL,PVT,2001.0,JNTUH,66000.0,42.0
+HOLY,CSO,Holy Mary Institute of Tech Science (Autonomous),Computer Science and Engineering (IOT),Keesara,MDL,PVT,2001.0,JNTUH,66000.0,
+HOLY,CSW,Holy Mary Institute of Tech Science (Autonomous),Computer Engineering(Software Engineering),Keesara,MDL,PVT,2001.0,,66000.0,42.0
+HOLY,ECE,Holy Mary Institute of Tech Science (Autonomous),Electronics and Communication Engineering,Keesara,MDL,PVT,2001.0,JNTUH,66000.0,84.0
+HOLY,EEE,Holy Mary Institute of Tech Science (Autonomous),Electrical and Electronics Engineering,Keesara,MDL,PVT,2001.0,JNTUH,66000.0,42.0
+HOLY,MEC,Holy Mary Institute of Tech Science (Autonomous),Mechanical Engineering,Keesara,MDL,PVT,2001.0,JNTUH,66000.0,42.0
+IARE,ANE,Institute of Aeronautical Engineering,Aeronautical Engineering,Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,84.0
+IARE,CIV,Institute of Aeronautical Engineering,Civil Engineering,Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,42.0
+IARE,CSC,Institute of Aeronautical Engineering,Computer Science and Engineering (Cyber Security),Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,42.0
+IARE,CSD,Institute of Aeronautical Engineering,Computer Science and Engineering (Data Science),Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,42.0
+IARE,CSE,Institute of Aeronautical Engineering,Computer Science and Engineering,Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,168.0
+IARE,CSI,Institute of Aeronautical Engineering,Computer Science and Information Technology,Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,42.0
+IARE,CSM,Institute of Aeronautical Engineering,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,42.0
+IARE,ECE,Institute of Aeronautical Engineering,Electronics and Communication Engineering,Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,168.0
+IARE,EEE,Institute of Aeronautical Engineering,Electrical and Electronics Engineering,Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,42.0
+IARE,INF,Institute of Aeronautical Engineering,Information Technology,Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,84.0
+IARE,MEC,Institute of Aeronautical Engineering,Mechanical Engineering,Dundigal,MDL,PVT,2000.0,JNTUH,101000.0,42.0
+IITT,CIV,Indur Institute of Engineering and Technology,Civil Engineering,Siddipet,SDP,PVT,2001.0,JNTUH,62000.0,21.0
+IITT,CSC,Indur Institute of Engineering and Technology,Computer Science and Engineering (Cyber Security),Siddipet,SDP,PVT,2001.0,JNTUH,62000.0,21.0
+IITT,CSE,Indur Institute of Engineering and Technology,Computer Science and Engineering,Siddipet,SDP,PVT,2001.0,JNTUH,62000.0,84.0
+IITT,CSM,Indur Institute of Engineering and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Siddipet,SDP,PVT,2001.0,JNTUH,62000.0,21.0
+IITT,ECE,Indur Institute of Engineering and Technology,Electronics and Communication Engineering,Siddipet,SDP,PVT,2001.0,JNTUH,62000.0,42.0
+IITT,EEE,Indur Institute of Engineering and Technology,Electrical and Electronics Engineering,Siddipet,SDP,PVT,2001.0,JNTUH,62000.0,42.0
+IITT,MEC,Indur Institute of Engineering and Technology,Mechanical Engineering,Siddipet,SDP,PVT,2001.0,,52000.0,21.0
+INDI,AID,Sri Indu Institute of Engineering and Technology (Autonomous),Artificial Intelligence and Data Science,Ibrahimpatan,RR,PVT,2007.0,JNTUH,95000.0,
+INDI,CIV,Sri Indu Institute of Engineering and Technology (Autonomous),Civil Engineering,Ibrahimpatan,RR,PVT,2007.0,JNTUH,95000.0,42.0
+INDI,CSC,Sri Indu Institute of Engineering and Technology (Autonomous),Computer Science and Engineering (Cyber Security),Ibrahimpatan,RR,PVT,2007.0,JNTUH,95000.0,42.0
+INDI,CSD,Sri Indu Institute of Engineering and Technology (Autonomous),Computer Science and Engineering (Data Science),Ibrahimpatan,RR,PVT,2007.0,JNTUH,95000.0,
+INDI,CSE,Sri Indu Institute of Engineering and Technology (Autonomous),Computer Science and Engineering,Ibrahimpatan,RR,PVT,2007.0,JNTUH,95000.0,126.0
+INDI,CSM,Sri Indu Institute of Engineering and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2007.0,JNTUH,95000.0,42.0
+INDI,CSO,Sri Indu Institute of Engineering and Technology (Autonomous),Computer Science and Engineering (IOT),Ibrahimpatan,RR,PVT,2007.0,JNTUH,95000.0,42.0
+INDI,ECE,Sri Indu Institute of Engineering and Technology (Autonomous),Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2007.0,,75000.0,126.0
+INDU,AID,Sri Indu College of Engg and Technology (Autonomous),Artificial Intelligence and Data Science,Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,
+INDU,CIV,Sri Indu College of Engg and Technology (Autonomous),Civil Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,42.0
+INDU,CSC,Sri Indu College of Engg and Technology (Autonomous),Computer Science and Engineering (Cyber Security),Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,42.0
+INDU,CSD,Sri Indu College of Engg and Technology (Autonomous),Computer Science and Engineering (Data Science),Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,42.0
+INDU,CSE,Sri Indu College of Engg and Technology (Autonomous),Computer Science and Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,168.0
+INDU,CSI,Sri Indu College of Engg and Technology (Autonomous),Computer Science and Information Technology,Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,42.0
+INDU,CSM,Sri Indu College of Engg and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,42.0
+INDU,CSO,Sri Indu College of Engg and Technology (Autonomous),Computer Science and Engineering (IOT),Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,42.0
+INDU,ECE,Sri Indu College of Engg and Technology (Autonomous),Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,168.0
+INDU,EEE,Sri Indu College of Engg and Technology (Autonomous),Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,84.0
+INDU,INF,Sri Indu College of Engg and Technology (Autonomous),Information Technology,Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,42.0
+INDU,MEC,Sri Indu College of Engg and Technology (Autonomous),Mechanical Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,115000.0,42.0
+ISLC,CIV,Isl Engineering College,Civil Engineering,Bandlaguda,,,,,55000.0,84.0
+ISLC,CSE,Isl Engineering College,Computer Science and Engineering,Bandlaguda,,,,,55000.0,126.0
+ISLC,ECE,Isl Engineering College,Electronics and Communication Engineering,Bandlaguda,,,,,55000.0,42.0
+ISLC,EEE,Isl Engineering College,Electrical and Electronics Engineering,Bandlaguda,,,,,55000.0,21.0
+ISLC,INF,Isl Engineering College,Information Technology,Bandlaguda,,,,,55000.0,42.0
+ISLC,MEC,Isl Engineering College,Mechanical Engineering,Bandlaguda,,,,,55000.0,42.0
+JANG,PHM,Jangoan Institute of Pharmaceutical Scis,B. Pharmacy (M.P.C. Stream),Jangaon,JGN,PVT,2003.0,KU,55000.0,21.0
+JAYA,CIV,Jayamukhi Institute of Technology and Scis,Civil Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,60000.0,84.0
+JAYA,CSD,Jayamukhi Institute of Technology and Scis,Computer Science and Engineering (Data Science),Narsampet,WGL,PVT,2001.0,JNTUH,60000.0,
+JAYA,CSE,Jayamukhi Institute of Technology and Scis,Computer Science and Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,60000.0,126.0
+JAYA,CSM,Jayamukhi Institute of Technology and Scis,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Narsampet,WGL,PVT,2001.0,JNTUH,60000.0,42.0
+JAYA,ECE,Jayamukhi Institute of Technology and Scis,Electronics and Communication Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,60000.0,126.0
+JAYA,EEE,Jayamukhi Institute of Technology and Scis,Electrical and Electronics Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,60000.0,84.0
+JAYA,MEC,Jayamukhi Institute of Technology and Scis,Mechanical Engineering,Narsampet,WGL,PVT,2001.0,JNTUH,60000.0,84.0
+JBIT,AID,J B Institute of Engg and Technology (Autonomous),Artificial Intelligence and Data Science,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,
+JBIT,AIM,J B Institute of Engg and Technology (Autonomous),Artificial Intelligence and Machine Learning,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,
+JBIT,CIV,J B Institute of Engg and Technology (Autonomous),Civil Engineering,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,84.0
+JBIT,CSD,J B Institute of Engg and Technology (Autonomous),Computer Science and Engineering (Data Science),Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,
+JBIT,CSE,J B Institute of Engg and Technology (Autonomous),Computer Science and Engineering,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,84.0
+JBIT,CSM,J B Institute of Engg and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,
+JBIT,ECE,J B Institute of Engg and Technology (Autonomous),Electronics and Communication Engineering,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,84.0
+JBIT,ECM,J B Institute of Engg and Technology (Autonomous),Electronics and Computer Engineering,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,42.0
+JBIT,EEE,J B Institute of Engg and Technology (Autonomous),Electrical and Electronics Engineering,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,84.0
+JBIT,INF,J B Institute of Engg and Technology (Autonomous),Information Technology,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,42.0
+JBIT,MEC,J B Institute of Engg and Technology (Autonomous),Mechanical Engineering,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,84.0
+JBIT,MIN,J B Institute of Engg and Technology (Autonomous),Mining Engineering,Yenkapally,RR,PVT,1998.0,JNTUH,110000.0,42.0
+JMTK,CSE,Jyothishmathi Inst of Technology Sciences,Computer Science and Engineering,Karimnagar,,,,,50000.0,63.0
+JMTK,ECE,Jyothishmathi Inst of Technology Sciences,Electronics and Communication Engineering,Karimnagar,,,,,50000.0,84.0
+JMTK,EEE,Jyothishmathi Inst of Technology Sciences,Electrical and Electronics Engineering,Karimnagar,,,,,50000.0,32.0
+JMTS,CIV,Jyothishmathi Institute of Technology and Sci,Civil Engineering,Karimnagar,KRM,PVT,1997.0,JNTUH,70000.0,42.0
+JMTS,CSE,Jyothishmathi Institute of Technology and Sci,Computer Science and Engineering,Karimnagar,KRM,PVT,1997.0,,65000.0,126.0
+JMTS,CSM,Jyothishmathi Institute of Technology and Sci,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Karimnagar,KRM,PVT,1997.0,JNTUH,70000.0,84.0
+JMTS,ECE,Jyothishmathi Institute of Technology and Sci,Electronics and Communication Engineering,Karimnagar,KRM,PVT,1997.0,JNTUH,70000.0,84.0
+JMTS,EEE,Jyothishmathi Institute of Technology and Sci,Electrical and Electronics Engineering,Karimnagar,KRM,PVT,1997.0,JNTUH,70000.0,42.0
+JMTS,MEC,Jyothishmathi Institute of Technology and Sci,Mechanical Engineering,Karimnagar,KRM,PVT,1997.0,,65000.0,42.0
+JNKR,CSE,JNTUH University College of Engineering Jagitial,Computer Science and Engineering,Jagitial,JTL,UNIV,2007.0,JNTUH,50000.0,60.0
+JNKR,ECE,JNTUH University College of Engineering Jagitial,Electronics and Communication Engineering,Jagitial,JTL,UNIV,2007.0,JNTUH,50000.0,60.0
+JNKR,EEE,JNTUH University College of Engineering Jagitial,Electrical and Electronics Engineering,Jagitial,JTL,UNIV,2007.0,JNTUH,50000.0,60.0
+JNKR,INF,JNTUH University College of Engineering Jagitial,Information Technology,Jagitial,JTL,UNIV,2007.0,JNTUH,50000.0,60.0
+JNKR,MEC,JNTUH University College of Engineering Jagitial,Mechanical Engineering,Jagitial,JTL,UNIV,2007.0,JNTUH,50000.0,60.0
+JNPASF,DTD,Jnafau School of Planning and Arch - Self Finance,Digital Techniques for Design and Planning,Masabtank,HYD,SF,2008.0,CONSTITUENT COLLEGE,65000.0,60.0
+JNPASF,FSP,Jnafau School of Planning and Arch - Self Finance,Facilities and Services Planning,Masabtank,HYD,,,,50000.0,60.0
+JNPASF,PLG,Jnafau School of Planning and Arch - Self Finance,Planning,Masabtank,HYD,SF,2008.0,CONSTITUENT COLLEGE,65000.0,40.0
+JNTH,CHE,JNTUH University College of Engg Hyderabad,Chemical Engineering,Hyderabad,MDL,UNIV,1965.0,JNTUH,50000.0,60.0
+JNTH,CIV,JNTUH University College of Engg Hyderabad,Civil Engineering,Hyderabad,MDL,UNIV,1965.0,JNTUH,50000.0,60.0
+JNTH,CSE,JNTUH University College of Engg Hyderabad,Computer Science and Engineering,Hyderabad,MDL,UNIV,1965.0,JNTUH,50000.0,60.0
+JNTH,CSM,JNTUH University College of Engg Hyderabad,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hyderabad,MDL,UNIV,1965.0,JNTUH,100000.0,
+JNTH,ECE,JNTUH University College of Engg Hyderabad,Electronics and Communication Engineering,Hyderabad,MDL,UNIV,1965.0,JNTUH,50000.0,60.0
+JNTH,EEE,JNTUH University College of Engg Hyderabad,Electrical and Electronics Engineering,Hyderabad,MDL,UNIV,1965.0,JNTUH,50000.0,60.0
+JNTH,MEC,JNTUH University College of Engg Hyderabad,Mechanical Engineering,Hyderabad,MDL,UNIV,1965.0,JNTUH,50000.0,60.0
+JNTH,MET,JNTUH University College of Engg Hyderabad,Metallurgical Engineering,Hyderabad,MDL,UNIV,1965.0,JNTUH,50000.0,60.0
+JNTHMT,CIV,JNTUH University College of Engg -5 Year Integrated Mtech Self Finance,Civil Engineering,Kukatpally,MDL,SF,1965.0,JNTUH,100000.0,30.0
+JNTHMT,CSE,JNTUH University College of Engg -5 Year Integrated Mtech Self Finance,Computer Science and Engineering,Kukatpally,MDL,SF,1965.0,JNTUH,100000.0,30.0
+JNTHMT,ECE,JNTUH University College of Engg -5 Year Integrated Mtech Self Finance,Electronics and Communication Engineering,Kukatpally,MDL,SF,1965.0,JNTUH,100000.0,30.0
+JNTHMT,EEE,JNTUH University College of Engg -5 Year Integrated Mtech Self Finance,Electrical and Electronics Engineering,Kukatpally,MDL,SF,1965.0,JNTUH,100000.0,30.0
+JNTHMT,MMS,JNTUH University College of Engg -5 Year Integrated Mtech Self Finance,Btech Mechanical With Mtech Manufacturing Systems,Kukatpally,MDL,SF,1965.0,JNTUH,100000.0,30.0
+JNTHMT,MTE,JNTUH University College of Engg -5 Year Integrated Mtech Self Finance,Btech Mechanical With Mtech Thermal Engg,Kukatpally,MDL,SF,1965.0,JNTUH,100000.0,30.0
+JNTM,CIV,JNTUH University College of Engg Manthani,Civil Engineering,Manthani,PDL,UNIV,2010.0,JNTUH,50000.0,60.0
+JNTM,CSE,JNTUH University College of Engg Manthani,Computer Science and Engineering,Manthani,PDL,UNIV,2010.0,JNTUH,50000.0,60.0
+JNTM,CSM,JNTUH University College of Engg Manthani,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Manthani,PDL,UNIV,2010.0,JNTUH,100000.0,60.0
+JNTM,EEE,JNTUH University College of Engg Manthani,Electrical and Electronics Engineering,Manthani,PDL,UNIV,2010.0,JNTUH,50000.0,60.0
+JNTM,MEC,JNTUH University College of Engg Manthani,Mechanical Engineering,Manthani,PDL,UNIV,2010.0,JNTUH,50000.0,60.0
+JNTM,MIN,JNTUH University College of Engg Manthani,Mining Engineering,Manthani,PDL,UNIV,2010.0,JNTUH,50000.0,30.0
+JNTP,PHM,JNTUH College of Phamacy Sultanpur,B. Pharmacy (M.P.C. Stream),Sultanpur,SRD,UNIV,2021.0,JNTUH,31000.0,
+JNTR,CIV,JNTUH University College of Engineering Rajanna Sircilla,Civil Engineering,Agraharam Rajanna Sircilla,SRC,UNIV,2021.0,JNTUH,50000.0,
+JNTR,CSE,JNTUH University College of Engineering Rajanna Sircilla,Computer Science and Engineering,Agraharam Rajanna Sircilla,SRC,UNIV,2021.0,JNTUH,50000.0,
+JNTR,ECE,JNTUH University College of Engineering Rajanna Sircilla,Electronics and Communication Engineering,Rajaagnrnaah Sairracimlla,SRC,GOV,2021.0,,35000.0,
+JNTR,EEE,JNTUH University College of Engineering Rajanna Sircilla,Electrical and Electronics Engineering,Agraharam Rajanna Sircilla,SRC,UNIV,2021.0,JNTUH,50000.0,
+JNTR,MEC,JNTUH University College of Engineering Rajanna Sircilla,Mechanical Engineering,Agraharam Rajanna Sircilla,SRC,UNIV,2021.0,JNTUH,50000.0,
+JNTR,TEX,JNTUH University College of Engineering Rajanna Sircilla,Textile Technology,Rajaagnrnaah Sairracimlla,SRC,GOV,2021.0,,35000.0,
+JNTS,CIV,JNTUH University College of Engineering Sultanpur,Civil Engineering,Sultanpur,SRD,UNIV,2012.0,JNTUH,50000.0,60.0
+JNTS,CSE,JNTUH University College of Engineering Sultanpur,Computer Science and Engineering,Sultanpur,SRD,UNIV,2012.0,JNTUH,50000.0,60.0
+JNTS,ECE,JNTUH University College of Engineering Sultanpur,Electronics and Communication Engineering,Sultanpur,SRD,UNIV,2012.0,JNTUH,50000.0,60.0
+JNTS,MEC,JNTUH University College of Engineering Sultanpur,Mechanical Engineering,Sultanpur,SRD,UNIV,2012.0,JNTUH,50000.0,60.0
+JNTS,PHM,JNTUH University College of Engineering Sultanpur,B. Pharmacy (M.P.C. Stream),Sultanpur,SRD,UNIV,2012.0,,31000.0,
+JNTSSF,CSM,JNTUH University College of Engineering Sultanpur - Self Finance,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Sultanpur,SRD,SF,2012.0,JNTUH,100000.0,
+JNTTHM,CIV,JNTTHM,Civil Engineering,Kukatpally,MDL,SF,1965.0,,70000.0,
+JNTTHM,CSE,JNTTHM,Computer Science and Engineering,Kukatpally,MDL,SF,1965.0,,70000.0,
+JNTTHM,ECE,JNTTHM,Electronics and Communication Engineering,Kukatpally,MDL,SF,1965.0,,70000.0,
+JNTTHM,EEE,JNTTHM,Electrical and Electronics Engineering,Kukatpally,MDL,SF,1965.0,,70000.0,
+JNTTHM,MMS,JNTTHM,Btech Mechanical With Mtech Manufacturing Systems,Kukatpally,MDL,SF,1965.0,,70000.0,
+JNTTHM,MTE,JNTTHM,Btech Mechanical With Mtech Thermal Engg,Kukatpally,MDL,SF,1965.0,,70000.0,
+JNWN,CIV,JNTUH University College of Engineering Wanaparthy,Civil Engineering,Narsingayapally Village,WNP,GOV,2022.0,JNTUH,50000.0,
+JNWN,CSE,JNTUH University College of Engineering Wanaparthy,Computer Science and Engineering,Narsingayapally Village,WNP,GOV,2022.0,JNTUH,50000.0,
+JNWN,CSM,JNTUH University College of Engineering Wanaparthy,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Narsingayapally Village,WNP,GOV,2022.0,JNTUH,50000.0,
+JNWN,ECE,JNTUH University College of Engineering Wanaparthy,Electronics and Communication Engineering,Narsingayapally Village,WNP,GOV,2022.0,JNTUH,50000.0,
+JOGI,CSE,Joginpally B R Engineering College,Computer Science and Engineering,Yenkapally,RR,PVT,2002.0,JNTUH,87000.0,84.0
+JOGI,CSM,Joginpally B R Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Yenkapally,RR,PVT,2002.0,JNTUH,87000.0,42.0
+JOGI,ECE,Joginpally B R Engineering College,Electronics and Communication Engineering,Yenkapally,RR,PVT,2002.0,JNTUH,87000.0,84.0
+JOGI,EEE,Joginpally B R Engineering College,Electrical and Electronics Engineering,Yenkapally,RR,,,,87000.0,42.0
+JOGI,INF,Joginpally B R Engineering College,Information Technology,Yenkapally,RR,PVT,2002.0,JNTUH,87000.0,42.0
+JPNE,AIM,Jaya Prakash Narayan College of Engineering,Artificial Intelligence and Machine Learning,Mahabubnagar,MBN,PVT,1997.0,JNTUH,69000.0,
+JPNE,CIV,Jaya Prakash Narayan College of Engineering,Civil Engineering,Mahabubnagar,MBN,PVT,1997.0,JNTUH,69000.0,42.0
+JPNE,CSE,Jaya Prakash Narayan College of Engineering,Computer Science and Engineering,Mahabubnagar,MBN,PVT,1997.0,JNTUH,69000.0,84.0
+JPNE,ECE,Jaya Prakash Narayan College of Engineering,Electronics and Communication Engineering,Mahabubnagar,MBN,PVT,1997.0,JNTUH,69000.0,42.0
+JPNE,EEE,Jaya Prakash Narayan College of Engineering,Electrical and Electronics Engineering,Mahabubnagar,MBN,PVT,1997.0,JNTUH,69000.0,42.0
+JPNE,MEC,Jaya Prakash Narayan College of Engineering,Mechanical Engineering,Mahabubnagar,MBN,PVT,1997.0,JNTUH,69000.0,21.0
+KCEA,CIV,Kshatriya College of Engineering,Civil Engineering,Armoor,NZB,PVT,2001.0,JNTUH,55000.0,42.0
+KCEA,CSE,Kshatriya College of Engineering,Computer Science and Engineering,Armoor,NZB,PVT,2001.0,JNTUH,55000.0,84.0
+KCEA,ECE,Kshatriya College of Engineering,Electronics and Communication Engineering,Armoor,NZB,PVT,2001.0,JNTUH,55000.0,42.0
+KCEA,EEE,Kshatriya College of Engineering,Electrical and Electronics Engineering,Armoor,NZB,PVT,2001.0,JNTUH,55000.0,21.0
+KCEA,MEC,Kshatriya College of Engineering,Mechanical Engineering,Armoor,NZB,PVT,2001.0,,55000.0,
+KDDW,CIV,Kodada Inst of Technology and Science for Women,Civil Engineering,Kodada,SRP,PVT,2008.0,JNTUH,90000.0,84.0
+KDDW,CSE,Kodada Inst of Technology and Science for Women,Computer Science and Engineering,Kodada,SRP,PVT,2008.0,JNTUH,90000.0,42.0
+KDDW,ECE,Kodada Inst of Technology and Science for Women,Electronics and Communication Engineering,Kodada,SRP,PVT,2008.0,JNTUH,90000.0,84.0
+KDDW,EEE,Kodada Inst of Technology and Science for Women,Electrical and Electronics Engineering,Kodada,SRP,PVT,2008.0,JNTUH,90000.0,84.0
+KGRH,CIV,KG Reddy College of Engg and Technology (Autonomous),Civil Engineering,Moinabad,RR,PVT,2008.0,JNTUH,100000.0,42.0
+KGRH,CSD,KG Reddy College of Engg and Technology (Autonomous),Computer Science and Engineering (Data Science),Moinabad,RR,PVT,2008.0,JNTUH,100000.0,42.0
+KGRH,CSE,KG Reddy College of Engg and Technology (Autonomous),Computer Science and Engineering,Moinabad,RR,PVT,2008.0,JNTUH,100000.0,84.0
+KGRH,CSM,KG Reddy College of Engg and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Moinabad,RR,PVT,2008.0,JNTUH,100000.0,42.0
+KGRH,ECE,KG Reddy College of Engg and Technology (Autonomous),Electronics and Communication Engineering,Moinabad,RR,PVT,2008.0,,78000.0,42.0
+KGRH,MEC,KG Reddy College of Engg and Technology (Autonomous),Mechanical Engineering,Moinabad,RR,PVT,2008.0,JNTUH,100000.0,42.0
+KHMP,PHM,Khammam College of Pharmacy,B. Pharmacy (M.P.C. Stream),Khammam,,,,,50000.0,28.0
+KITS,CIV,Kakatiya Institute of Technology and Sci,Civil Engineering,Warangal,HNK,PVT,1980.0,KU,125000.0,84.0
+KITS,CSE,Kakatiya Institute of Technology and Sci,Computer Science and Engineering,Warangal,HNK,PVT,1980.0,KU,125000.0,126.0
+KITS,CSM,Kakatiya Institute of Technology and Sci,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Warangal,HNK,PVT,1980.0,KU,125000.0,42.0
+KITS,CSN,Kakatiya Institute of Technology and Sci,Computer Science & Engineering (Networks),Warangal,HNK,PVT,1980.0,KU,125000.0,42.0
+KITS,CSO,Kakatiya Institute of Technology and Sci,Computer Science and Engineering (IOT),Warangal,HNK,PVT,1980.0,KU,125000.0,42.0
+KITS,ECE,Kakatiya Institute of Technology and Sci,Electronics and Communication Engineering,Warangal,HNK,PVT,1980.0,KU,125000.0,126.0
+KITS,ECI,Kakatiya Institute of Technology and Sci,Electronics Communication and Instrumentation Engineering,Warangal,HNK,PVT,1980.0,KU,125000.0,42.0
+KITS,EEE,Kakatiya Institute of Technology and Sci,Electrical and Electronics Engineering,Warangal,HNK,PVT,1980.0,KU,125000.0,84.0
+KITS,INF,Kakatiya Institute of Technology and Sci,Information Technology,Warangal,HNK,PVT,1980.0,KU,125000.0,84.0
+KITS,MEC,Kakatiya Institute of Technology and Sci,Mechanical Engineering,Warangal,HNK,PVT,1980.0,KU,125000.0,84.0
+KITW,CIV,Kakatiya Inst of Technology Sci for Women,Civil Engineering,Nizamabad,NZB,PVT,2009.0,JNTUH,55000.0,42.0
+KITW,CSE,Kakatiya Inst of Technology Sci for Women,Computer Science and Engineering,Nizamabad,NZB,PVT,2009.0,JNTUH,55000.0,84.0
+KITW,ECE,Kakatiya Inst of Technology Sci for Women,Electronics and Communication Engineering,Nizamabad,NZB,PVT,2009.0,JNTUH,55000.0,84.0
+KITW,EEE,Kakatiya Inst of Technology Sci for Women,Electrical and Electronics Engineering,Nizamabad,NZB,PVT,2009.0,JNTUH,55000.0,42.0
+KLRT,CIV,Klrcollege of Engg and Technology Paloncha,Civil Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,55000.0,42.0
+KLRT,CSE,Klrcollege of Engg and Technology Paloncha,Computer Science and Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,55000.0,42.0
+KLRT,ECE,Klrcollege of Engg and Technology Paloncha,Electronics and Communication Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,55000.0,21.0
+KLRT,EEE,Klrcollege of Engg and Technology Paloncha,Electrical and Electronics Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,55000.0,42.0
+KLRT,MEC,Klrcollege of Engg and Technology Paloncha,Mechanical Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,55000.0,21.0
+KLRT,MIN,Klrcollege of Engg and Technology Paloncha,Mining Engineering,Paloncha,KGM,PVT,2008.0,JNTUH,55000.0,21.0
+KMEC,CSE,Keshav Memorial Engineering College,Computer Science and Engineering,Kachwanisingaram,MDL,PVT,2021.0,OU,70000.0,
+KMEC,CSM,Keshav Memorial Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kachwanisingaram,MDL,PVT,2021.0,OU,70000.0,
+KMIT,CSD,Keshav Memorial Inst of Technology,Computer Science and Engineering (Data Science),Narayanaguda,HYD,PVT,2007.0,JNTUH,103000.0,42.0
+KMIT,CSE,Keshav Memorial Inst of Technology,Computer Science and Engineering,Narayanaguda,HYD,PVT,2007.0,JNTUH,103000.0,294.0
+KMIT,CSM,Keshav Memorial Inst of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Narayanaguda,HYD,PVT,2007.0,JNTUH,103000.0,84.0
+KMIT,INF,Keshav Memorial Inst of Technology,Information Technology,Narayanaguda,HYD,PVT,2007.0,JNTUH,103000.0,84.0
+KMTS,CIV,Khammam Inst of Technology and Science,Civil Engineering,Khammam,KHM,PVT,2008.0,,45000.0,42.0
+KMTS,CSD,Khammam Inst of Technology and Science,Computer Science and Engineering (Data Science),Khammam,KHM,PVT,2008.0,JNTUH,65000.0,
+KMTS,CSE,Khammam Inst of Technology and Science,Computer Science and Engineering,Khammam,KHM,PVT,2008.0,JNTUH,65000.0,84.0
+KMTS,CSM,Khammam Inst of Technology and Science,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Khammam,KHM,PVT,2008.0,JNTUH,65000.0,42.0
+KMTS,ECE,Khammam Inst of Technology and Science,Electronics and Communication Engineering,Khammam,KHM,PVT,2008.0,JNTUH,65000.0,42.0
+KMTS,EEE,Khammam Inst of Technology and Science,Electrical and Electronics Engineering,Khammam,KHM,PVT,2008.0,JNTUH,65000.0,42.0
+KMTS,MEC,Khammam Inst of Technology and Science,Mechanical Engineering,Khammam,KHM,PVT,2008.0,,45000.0,42.0
+KNRR,CIV,Kasireddy Narayanareddy Coll Engg Res,Civil Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,72000.0,42.0
+KNRR,CSD,Kasireddy Narayanareddy Coll Engg Res,Computer Science and Engineering (Data Science),Hayathnagar,RR,PVT,2008.0,JNTUH,72000.0,42.0
+KNRR,CSE,Kasireddy Narayanareddy Coll Engg Res,Computer Science and Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,72000.0,63.0
+KNRR,CSM,Kasireddy Narayanareddy Coll Engg Res,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hayathnagar,RR,PVT,2008.0,JNTUH,72000.0,42.0
+KNRR,ECE,Kasireddy Narayanareddy Coll Engg Res,Electronics and Communication Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,72000.0,84.0
+KNRR,EEE,Kasireddy Narayanareddy Coll Engg Res,Electrical and Electronics Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,72000.0,32.0
+KNRR,MEC,Kasireddy Narayanareddy Coll Engg Res,Mechanical Engineering,Hayathnagar,RR,PVT,2008.0,JNTUH,72000.0,42.0
+KPRT,CIV,Kommuri Pratap Reddy Inst of Technology (Autonomous),Civil Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,21.0
+KPRT,CSD,Kommuri Pratap Reddy Inst of Technology (Autonomous),Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,42.0
+KPRT,CSE,Kommuri Pratap Reddy Inst of Technology (Autonomous),Computer Science and Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,126.0
+KPRT,CSM,Kommuri Pratap Reddy Inst of Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,63.0
+KPRT,ECE,Kommuri Pratap Reddy Inst of Technology (Autonomous),Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,42.0
+KRCP,PHM,KRCP,B. Pharmacy (M.P.C. Stream),Palvoncha,KGM,PVT,2004.0,,65000.0,
+KRUP,PHM,Sri Krupa Institute of Pharmaceutical Scis,B. Pharmacy (M.P.C. Stream),Kondapak,SDP,PVT,2004.0,OU,45000.0,
+KTKM,AIM,Kamala Institute of Technology and Science,Artificial Intelligence and Machine Learning,Huzurabad,KRM,PVT,1997.0,JNTUH,90000.0,
+KTKM,CIV,Kamala Institute of Technology and Science,Civil Engineering,Huzurabad,KRM,PVT,1997.0,JNTUH,90000.0,42.0
+KTKM,CSE,Kamala Institute of Technology and Science,Computer Science and Engineering,Huzurabad,KRM,PVT,1997.0,JNTUH,90000.0,84.0
+KTKM,ECE,Kamala Institute of Technology and Science,Electronics and Communication Engineering,Huzurabad,KRM,PVT,1997.0,JNTUH,90000.0,84.0
+KTKM,EEE,Kamala Institute of Technology and Science,Electrical and Electronics Engineering,Huzurabad,KRM,PVT,1997.0,JNTUH,90000.0,84.0
+KTKM,MEC,Kamala Institute of Technology and Science,Mechanical Engineering,Huzurabad,KRM,PVT,1997.0,,80000.0,84.0
+KUCE,CSE,K U College of Engg Kothagudem,Computer Science and Engineering,Kothagudem,KGM,UNIV,1976.0,KU,35000.0,40.0
+KUCE,EEE,K U College of Engg Kothagudem,Electrical and Electronics Engineering,Kothagudem,KGM,UNIV,1976.0,KU,35000.0,40.0
+KUCE,MIN,K U College of Engg Kothagudem,Mining Engineering,Kothagudem,KGM,UNIV,1976.0,KU,35000.0,25.0
+KUCESF,CSE,K U College of Engg Kothagudem - Self Finance,Computer Science and Engineering,Kothagudem,KGM,SF,2012.0,KU,70000.0,
+KUCESF,ECE,K U College of Engg Kothagudem - Self Finance,Electronics and Communication Engineering,Kothagudem,KGM,SF,2012.0,KU,70000.0,60.0
+KUCESF,INF,K U College of Engg Kothagudem - Self Finance,Information Technology,Kothagudem,KGM,SF,2012.0,KU,70000.0,60.0
+KUCP,PHM,K U College of Pharmaceutical Sciences,B. Pharmacy (M.P.C. Stream),Warangal,HNK,UNIV,1974.0,KU,45000.0,20.0
+KUEFWS,CSE,KUEFWS,Computer Science and Engineering,Warangal,HNK,SF,2013.0,,70000.0,
+KUEFWS,ECE,KUEFWS,Electronics and Communication Engineering,Warangal,HNK,SF,2013.0,,70000.0,
+KUEFWS,EEE,KUEFWS,Electrical and Electronics Engineering,Warangal,HNK,SF,2013.0,,70000.0,
+KUEFWS,INF,KUEFWS,Information Technology,Warangal,HNK,SF,2013.0,,70000.0,
+KUEWSF,CSE,University College of Engg and Tech for Women Ku Campus,Computer Science and Engineering,Warangal,HNK,SF,2013.0,KU,70000.0,60.0
+KUEWSF,CSM,University College of Engg and Tech for Women Ku Campus,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Warangal,HNK,SF,2013.0,KU,70000.0,
+KUEWSF,ECE,University College of Engg and Tech for Women Ku Campus,Electronics and Communication Engineering,Warangal,HNK,SF,2013.0,KU,70000.0,60.0
+KUEWSF,EEE,University College of Engg and Tech for Women Ku Campus,Electrical and Electronics Engineering,Warangal,HNK,SF,2013.0,KU,70000.0,60.0
+KUEWSF,INF,University College of Engg and Tech for Women Ku Campus,Information Technology,Warangal,HNK,SF,2013.0,KU,70000.0,60.0
+KUFWLS,CIV,KUFWLS,Civil Engineering,Warangal,HNK,SF,2009.0,,70000.0,
+KUFWLS,INF,KUFWLS,Information Technology,Warangal,HNK,SF,2009.0,,70000.0,
+KUWL,CIV,Ku College of Engineering and Technology,Civil Engineering,Warangal,HNK,,,,18000.0,60.0
+KUWL,CSE,Ku College of Engineering and Technology,Computer Science and Engineering,Warangal,HNK,UNIV,2009.0,KU,35000.0,60.0
+KUWL,ECE,Ku College of Engineering and Technology,Electronics and Communication Engineering,Warangal,HNK,UNIV,2009.0,KU,35000.0,60.0
+KUWL,EEE,Ku College of Engineering and Technology,Electrical and Electronics Engineering,Warangal,HNK,UNIV,2009.0,KU,35000.0,60.0
+KUWL,INF,Ku College of Engineering and Technology,Information Technology,Warangal,HNK,,,,18000.0,60.0
+KUWL,MEC,Ku College of Engineering and Technology,Mechanical Engineering,Warangal,HNK,UNIV,2009.0,KU,35000.0,60.0
+KUWLSF,CSD,Ku College of Engineering and Technology - Self Finance,Computer Science and Engineering (Data Science),Warangal,HNK,SF,2009.0,KU,70000.0,
+KUWLSF,INF,Ku College of Engineering and Technology - Self Finance,Information Technology,Warangal,HNK,SF,2009.0,KU,70000.0,
+KVKP,PHD,KVKP,Pharm - D (M.P.C. Stream),Surmaiguda,RR,PVT,2007.0,,68000.0,
+LRDS,CIV,Lords Institute of Engineering and Technology,Civil Engineering,Himayatsagar,,,,,78000.0,126.0
+LRDS,CSD,Lords Institute of Engineering and Technology,Computer Science and Engineering (Data Science),Himayatsagar,,,,,78000.0,42.0
+LRDS,CSE,Lords Institute of Engineering and Technology,Computer Science and Engineering,Himayatsagar,,,,,78000.0,126.0
+LRDS,CSM,Lords Institute of Engineering and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Himayatsagar,,,,,78000.0,84.0
+LRDS,ECE,Lords Institute of Engineering and Technology,Electronics and Communication Engineering,Himayatsagar,,,,,78000.0,84.0
+LRDS,EEE,Lords Institute of Engineering and Technology,Electrical and Electronics Engineering,Himayatsagar,,,,,78000.0,42.0
+LRDS,INF,Lords Institute of Engineering and Technology,Information Technology,Himayatsagar,,,,,78000.0,126.0
+LRDS,MEC,Lords Institute of Engineering and Technology,Mechanical Engineering,Himayatsagar,,,,,78000.0,126.0
+MAXP,PHM,MAXP,B. Pharmacy (M.P.C. Stream),Khammam,KHM,PVT,2007.0,,50000.0,
+MDRK,CIV,Madhira Institute of Technology and Sci,Civil Engineering,Kodad,SRP,PVT,2001.0,,50000.0,
+MDRK,CSE,Madhira Institute of Technology and Sci,Computer Science and Engineering,Kodad,SRP,PVT,2001.0,JNTUH,72000.0,
+MDRK,ECE,Madhira Institute of Technology and Sci,Electronics and Communication Engineering,Kodad,SRP,PVT,2001.0,JNTUH,72000.0,
+MDRK,EEE,Madhira Institute of Technology and Sci,Electrical and Electronics Engineering,Kodad,SRP,PVT,2001.0,,50000.0,
+MDRP,PHM,Madira Inst of Technologyand Sci,B. Pharmacy (M.P.C. Stream),Kodad,SRP,PVT,2006.0,JNTUH,55000.0,
+MECS,CIV,Matrusri Engineering College,Civil Engineering,Hyderabad,HYD,PVT,2011.0,OU,100000.0,84.0
+MECS,CME,Matrusri Engineering College,Computer Engineering,Hyderabad,HYD,PVT,2011.0,OU,100000.0,
+MECS,CSE,Matrusri Engineering College,Computer Science and Engineering,Hyderabad,HYD,PVT,2011.0,OU,100000.0,126.0
+MECS,ECE,Matrusri Engineering College,Electronics and Communication Engineering,Hyderabad,HYD,PVT,2011.0,OU,100000.0,84.0
+MECS,EEE,Matrusri Engineering College,Electrical and Electronics Engineering,Hyderabad,HYD,PVT,2011.0,OU,100000.0,42.0
+MECS,INF,Matrusri Engineering College,Information Technology,Hyderabad,HYD,PVT,2011.0,OU,100000.0,42.0
+MECS,MEC,Matrusri Engineering College,Mechanical Engineering,Hyderabad,HYD,PVT,2011.0,OU,100000.0,42.0
+MESP,PHD,Mesco College of Pharmacy,Pharm - D (M.P.C. Stream),Mustaidpura,,,,,90000.0,10.0
+MESP,PHM,Mesco College of Pharmacy,B. Pharmacy (M.P.C. Stream),Mustaidpura,,,,,45000.0,35.0
+METH,AID,Methodist College of Engineering and Technology (Autonomous),Artificial Intelligence and Data Science,Abids,HYD,PVT,2008.0,OU,78000.0,42.0
+METH,CIV,Methodist College of Engineering and Technology (Autonomous),Civil Engineering,Abids,HYD,PVT,2008.0,OU,78000.0,84.0
+METH,CSE,Methodist College of Engineering and Technology (Autonomous),Computer Science and Engineering,Abids,HYD,PVT,2008.0,OU,78000.0,84.0
+METH,ECE,Methodist College of Engineering and Technology (Autonomous),Electronics and Communication Engineering,Abids,HYD,PVT,2008.0,OU,78000.0,84.0
+METH,EEE,Methodist College of Engineering and Technology (Autonomous),Electrical and Electronics Engineering,Abids,HYD,PVT,2008.0,OU,78000.0,42.0
+METH,MEC,Methodist College of Engineering and Technology (Autonomous),Mechanical Engineering,Abids,HYD,PVT,2008.0,OU,78000.0,42.0
+MGHA,AID,Megha Inst of Engg and Technology for Women,Artificial Intelligence and Data Science,Ghatkesar,MDL,PVT,2008.0,JNTUH,62000.0,
+MGHA,AIM,Megha Inst of Engg and Technology for Women,Artificial Intelligence and Machine Learning,Ghatkesar,MDL,PVT,2008.0,JNTUH,62000.0,
+MGHA,CIV,Megha Inst of Engg and Technology for Women,Civil Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,62000.0,42.0
+MGHA,CSE,Megha Inst of Engg and Technology for Women,Computer Science and Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,62000.0,84.0
+MGHA,ECE,Megha Inst of Engg and Technology for Women,Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,62000.0,42.0
+MGHA,EEE,Megha Inst of Engg and Technology for Women,Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,62000.0,42.0
+MGIT,CIV,Mahatma Gandhi Institute of Technology,Civil Engineering,Gandipet,RR,PVT,1997.0,JNTUH,160000.0,42.0
+MGIT,CSB,Mahatma Gandhi Institute of Technology,Computer Science and Business System,Gandipet,RR,PVT,1997.0,JNTUH,160000.0,42.0
+MGIT,CSD,Mahatma Gandhi Institute of Technology,Computer Science and Engineering (Data Science),Gandipet,RR,PVT,1997.0,JNTUH,160000.0,42.0
+MGIT,CSE,Mahatma Gandhi Institute of Technology,Computer Science and Engineering,Gandipet,RR,PVT,1997.0,JNTUH,160000.0,126.0
+MGIT,CSM,Mahatma Gandhi Institute of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Gandipet,RR,PVT,1997.0,JNTUH,160000.0,42.0
+MGIT,ECE,Mahatma Gandhi Institute of Technology,Electronics and Communication Engineering,Gandipet,RR,PVT,1997.0,JNTUH,160000.0,126.0
+MGIT,EEE,Mahatma Gandhi Institute of Technology,Electrical and Electronics Engineering,Gandipet,RR,PVT,1997.0,JNTUH,160000.0,42.0
+MGIT,INF,Mahatma Gandhi Institute of Technology,Information Technology,Gandipet,RR,PVT,1997.0,JNTUH,160000.0,42.0
+MGIT,MCT,Mahatma Gandhi Institute of Technology,Mechanical (Mechtronics) Engineering,Gandipet,RR,PVT,1997.0,JNTUH,160000.0,42.0
+MGIT,MEC,Mahatma Gandhi Institute of Technology,Mechanical Engineering,Gandipet,RR,PVT,1997.0,,108000.0,42.0
+MGIT,MMT,Mahatma Gandhi Institute of Technology,Metallurgy and Material Engineering,Gandipet,RR,PVT,1997.0,JNTUH,160000.0,42.0
+MGUNSF,CSE,Mgu College of Engineering and Technology,Computer Science and Engineering,Nalgonda,NLG,SF,2013.0,MGUN,45000.0,60.0
+MGUNSF,ECE,Mgu College of Engineering and Technology,Electronics and Communication Engineering,Nalgonda,NLG,SF,2013.0,MGUN,45000.0,60.0
+MGUNSF,EEE,Mgu College of Engineering and Technology,Electrical and Electronics Engineering,Nalgonda,NLG,SF,2013.0,MGUN,45000.0,60.0
+MHVR,ANE,Mahaveer Institute of Sci and Technology,Aeronautical Engineering,Bandlaguda,HYD,PVT,2001.0,JNTUH,70000.0,42.0
+MHVR,CIV,Mahaveer Institute of Sci and Technology,Civil Engineering,Bandlaguda,HYD,PVT,2001.0,JNTUH,70000.0,42.0
+MHVR,CSE,Mahaveer Institute of Sci and Technology,Computer Science and Engineering,Bandlaguda,HYD,PVT,2001.0,JNTUH,70000.0,84.0
+MHVR,CSM,Mahaveer Institute of Sci and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Bandlaguda,HYD,PVT,2001.0,JNTUH,70000.0,42.0
+MHVR,ECE,Mahaveer Institute of Sci and Technology,Electronics and Communication Engineering,Bandlaguda,HYD,PVT,2001.0,JNTUH,70000.0,84.0
+MHVR,EEE,Mahaveer Institute of Sci and Technology,Electrical and Electronics Engineering,Bandlaguda,HYD,PVT,2001.0,JNTUH,70000.0,42.0
+MHVR,INF,Mahaveer Institute of Sci and Technology,Information Technology,Bandlaguda,HYD,PVT,2001.0,JNTUH,70000.0,42.0
+MHVR,MEC,Mahaveer Institute of Sci and Technology,Mechanical Engineering,Bandlaguda,HYD,PVT,2001.0,JNTUH,70000.0,42.0
+MINA,CSD,Mina Inst of Engg and Technology for Women,Computer Science and Engineering (Data Science),Miryalaguda,NLG,PVT,2008.0,JNTUH,55000.0,
+MINA,CSE,Mina Inst of Engg and Technology for Women,Computer Science and Engineering,Miryalaguda,NLG,PVT,2008.0,JNTUH,55000.0,42.0
+MINA,CSM,Mina Inst of Engg and Technology for Women,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Miryalaguda,NLG,PVT,2008.0,JNTUH,55000.0,
+MINA,ECE,Mina Inst of Engg and Technology for Women,Electronics and Communication Engineering,Miryalaguda,NLG,PVT,2008.0,JNTUH,55000.0,42.0
+MINA,EEE,Mina Inst of Engg and Technology for Women,Electrical and Electronics Engineering,Miryalaguda,NLG,PVT,2008.0,JNTUH,55000.0,42.0
+MIPM,PHM,Moonray Inst of Pharm Sci,B. Pharmacy (M.P.C. Stream),Raikal,RR,PVT,2007.0,JNTUH,57000.0,21.0
+MJCT,AID,M J College of Engineering and Technology,Artificial Intelligence and Data Science,Banjara Hills,,,,,110000.0,42.0
+MJCT,CIV,M J College of Engineering and Technology,Civil Engineering,Banjara Hills,,,,,110000.0,84.0
+MJCT,CSE,M J College of Engineering and Technology,Computer Science and Engineering,Banjara Hills,,,,,110000.0,84.0
+MJCT,ECE,M J College of Engineering and Technology,Electronics and Communication Engineering,Banjara Hills,,,,,110000.0,84.0
+MJCT,EEE,M J College of Engineering and Technology,Electrical and Electronics Engineering,Banjara Hills,,,,,110000.0,42.0
+MJCT,EIE,M J College of Engineering and Technology,Electronics and Instrumentation Engineering,Banjara Hills,,,,,110000.0,42.0
+MJCT,INF,M J College of Engineering and Technology,Information Technology,Banjara Hills,,,,,110000.0,84.0
+MJCT,MEC,M J College of Engineering and Technology,Mechanical Engineering,Banjara Hills,,,,,110000.0,84.0
+MLID,ANE,M L R Institute of Technology (Autonomous),Aeronautical Engineering,Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,42.0
+MLID,CSC,M L R Institute of Technology (Autonomous),Computer Science and Engineering (Cyber Security),Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,42.0
+MLID,CSD,M L R Institute of Technology (Autonomous),Computer Science and Engineering (Data Science),Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,42.0
+MLID,CSE,M L R Institute of Technology (Autonomous),Computer Science and Engineering,Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,168.0
+MLID,CSI,M L R Institute of Technology (Autonomous),Computer Science and Information Technology,Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,42.0
+MLID,CSM,M L R Institute of Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,42.0
+MLID,ECE,M L R Institute of Technology (Autonomous),Electronics and Communication Engineering,Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,168.0
+MLID,EEE,M L R Institute of Technology (Autonomous),Electrical and Electronics Engineering,Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,42.0
+MLID,INF,M L R Institute of Technology (Autonomous),Information Technology,Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,126.0
+MLID,MEC,M L R Institute of Technology (Autonomous),Mechanical Engineering,Dundigal,MDL,PVT,2005.0,JNTUH,110000.0,42.0
+MLRD,AIM,Malla Reddy College of Engg Technology (Autonomous),Artificial Intelligence and Machine Learning,Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,
+MLRD,ANE,Malla Reddy College of Engg Technology (Autonomous),Aeronautical Engineering,Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,42.0
+MLRD,CSC,Malla Reddy College of Engg Technology (Autonomous),Computer Science and Engineering (Cyber Security),Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,42.0
+MLRD,CSD,Malla Reddy College of Engg Technology (Autonomous),Computer Science and Engineering (Data Science),Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,42.0
+MLRD,CSE,Malla Reddy College of Engg Technology (Autonomous),Computer Science and Engineering,Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,168.0
+MLRD,CSM,Malla Reddy College of Engg Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,42.0
+MLRD,CSO,Malla Reddy College of Engg Technology (Autonomous),Computer Science and Engineering (IOT),Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,42.0
+MLRD,ECE,Malla Reddy College of Engg Technology (Autonomous),Electronics and Communication Engineering,Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,168.0
+MLRD,EEE,Malla Reddy College of Engg Technology (Autonomous),Electrical and Electronics Engineering,Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,42.0
+MLRD,INF,Malla Reddy College of Engg Technology (Autonomous),Information Technology,Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,126.0
+MLRD,MEC,Malla Reddy College of Engg Technology (Autonomous),Mechanical Engineering,Mysammaguda,MDL,PVT,2004.0,JNTUH,110000.0,42.0
+MLRP,PHD,Marri Laxman Reddy Institute of Pharmacy,Pharm - D (M.P.C. Stream),Dundigal,MDL,PVT,2007.0,JNTUH,68000.0,
+MLRP,PHM,Marri Laxman Reddy Institute of Pharmacy,B. Pharmacy (M.P.C. Stream),Dundigal,MDL,PVT,2007.0,,60000.0,35.0
+MLRS,CIV,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Civil Engineering,Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,42.0
+MLRS,CSC,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Computer Science and Engineering (Cyber Security),Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,42.0
+MLRS,CSD,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Computer Science and Engineering (Data Science),Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,42.0
+MLRS,CSE,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Computer Science and Engineering,Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,126.0
+MLRS,CSI,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Computer Science and Information Technology,Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,42.0
+MLRS,CSM,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,42.0
+MLRS,ECE,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Electronics and Communication Engineering,Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,126.0
+MLRS,EEE,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Electrical and Electronics Engineering,Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,42.0
+MLRS,INF,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Information Technology,Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,42.0
+MLRS,MEC,Marri Laxman Reddy Inst of Technology and Management (Autonomous),Mechanical Engineering,Dundigal,MDL,PVT,2009.0,JNTUH,100000.0,42.0
+MLTM,CSE,Malla Reddy Institute of Technology,Computer Science and Engineering,Maisammaguda,MDL,PVT,2008.0,JNTUH,65000.0,
+MMTZ,CIV,Mumtaz Coll of Engg Technology,Civil Engineering,Hyderabad,,,,,35000.0,21.0
+MMTZ,CSE,Mumtaz Coll of Engg Technology,Computer Science and Engineering,Hyderabad,,,,,35000.0,21.0
+MMTZ,ECE,Mumtaz Coll of Engg Technology,Electronics and Communication Engineering,Hyderabad,,,,,35000.0,21.0
+MNRP,PHD,M N R College of Pharmacy,Pharm - D (M.P.C. Stream),Sangareddy,SRD,PVT,2004.0,OU,85000.0,10.0
+MNRP,PHM,M N R College of Pharmacy,B. Pharmacy (M.P.C. Stream),Sangareddy,SRD,PVT,2004.0,,65000.0,35.0
+MNRT,CSE,Mnrcollege of Engineering and Technology,Computer Science and Engineering,Sangareddy,SRD,PVT,2008.0,JNTUH,60000.0,42.0
+MNRT,ECE,Mnrcollege of Engineering and Technology,Electronics and Communication Engineering,Sangareddy,SRD,PVT,2008.0,JNTUH,60000.0,42.0
+MNRT,MEC,Mnrcollege of Engineering and Technology,Mechanical Engineering,Sangareddy,SRD,PVT,2008.0,,57000.0,42.0
+MOTK,CIV,Mother Teresa Institute of Sci and Technology,Civil Engineering,Sathupally,KHM,PVT,2001.0,JNTUH,75000.0,42.0
+MOTK,CSE,Mother Teresa Institute of Sci and Technology,Computer Science and Engineering,Sathupally,KHM,PVT,2001.0,JNTUH,75000.0,42.0
+MOTK,CSM,Mother Teresa Institute of Sci and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Sathupally,KHM,PVT,2001.0,JNTUH,75000.0,21.0
+MOTK,ECE,Mother Teresa Institute of Sci and Technology,Electronics and Communication Engineering,Sathupally,KHM,PVT,2001.0,JNTUH,75000.0,42.0
+MOTK,EEE,Mother Teresa Institute of Sci and Technology,Electrical and Electronics Engineering,Sathupally,KHM,PVT,2001.0,JNTUH,75000.0,42.0
+MOTK,MEC,Mother Teresa Institute of Sci and Technology,Mechanical Engineering,Sathupally,KHM,PVT,2001.0,,60000.0,21.0
+MOTK,MIN,Mother Teresa Institute of Sci and Technology,Mining Engineering,Sathupally,KHM,PVT,2001.0,,60000.0,42.0
+MRCE,AID,Malla Reddy College of Engineering,Artificial Intelligence and Data Science,Mysammaguda,MDL,PVT,2005.0,JNTUH,80000.0,
+MRCE,CSD,Malla Reddy College of Engineering,Computer Science and Engineering (Data Science),Mysammaguda,MDL,PVT,2005.0,JNTUH,80000.0,42.0
+MRCE,CSE,Malla Reddy College of Engineering,Computer Science and Engineering,Mysammaguda,MDL,PVT,2005.0,JNTUH,80000.0,168.0
+MRCE,CSM,Malla Reddy College of Engineering,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Mysammaguda,MDL,PVT,2005.0,JNTUH,80000.0,42.0
+MRCE,CSO,Malla Reddy College of Engineering,Computer Science and Engineering (IOT),Mysammaguda,MDL,,,,60000.0,42.0
+MRCE,ECE,Malla Reddy College of Engineering,Electronics and Communication Engineering,Mysammaguda,MDL,PVT,2005.0,JNTUH,80000.0,84.0
+MRCE,ECM,Malla Reddy College of Engineering,Electronics and Computer Engineering,Mysammaguda,MDL,,,,60000.0,42.0
+MRCE,INF,Malla Reddy College of Engineering,Information Technology,Mysammaguda,MDL,PVT,2005.0,JNTUH,80000.0,42.0
+MRCE,ITE,Malla Reddy College of Engineering,Information Technology and Engineering,Mysammaguda,MDL,,,,60000.0,42.0
+MRCE,MEC,Malla Reddy College of Engineering,Mechanical Engineering,Mysammaguda,MDL,PVT,2005.0,,60000.0,42.0
+MRCP,PHM,Malla Reddy College of Pharmacy,B. Pharmacy (M.P.C. Stream),Maisammaguda,MDL,PVT,2004.0,OU,60000.0,35.0
+MRCW,CSC,Malla Reddy Engg College for Women (Autonomous),Computer Science and Engineering (Cyber Security),Maisammaguda,MDL,PVT,2008.0,,87000.0,42.0
+MRCW,CSD,Malla Reddy Engg College for Women (Autonomous),Computer Science and Engineering (Data Science),Maisammaguda,MDL,PVT,2008.0,JNTUH,95000.0,42.0
+MRCW,CSE,Malla Reddy Engg College for Women (Autonomous),Computer Science and Engineering,Maisammaguda,MDL,PVT,2008.0,JNTUH,95000.0,168.0
+MRCW,CSM,Malla Reddy Engg College for Women (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Maisammaguda,MDL,PVT,2008.0,JNTUH,95000.0,42.0
+MRCW,CSO,Malla Reddy Engg College for Women (Autonomous),Computer Science and Engineering (IOT),Maisammaguda,MDL,PVT,2008.0,JNTUH,95000.0,42.0
+MRCW,ECE,Malla Reddy Engg College for Women (Autonomous),Electronics and Communication Engineering,Maisammaguda,MDL,PVT,2008.0,JNTUH,95000.0,168.0
+MRCW,EEE,Malla Reddy Engg College for Women (Autonomous),Electrical and Electronics Engineering,Maisammaguda,MDL,PVT,2008.0,JNTUH,95000.0,42.0
+MRCW,INF,Malla Reddy Engg College for Women (Autonomous),Information Technology,Maisammaguda,MDL,PVT,2008.0,JNTUH,95000.0,126.0
+MREC,AIM,Mallareddy Engineering College (Autonomous),Artificial Intelligence and Machine Learning,Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,
+MREC,CIV,Mallareddy Engineering College (Autonomous),Civil Engineering,Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,84.0
+MREC,CSC,Mallareddy Engineering College (Autonomous),Computer Science and Engineering (Cyber Security),Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+MREC,CSD,Mallareddy Engineering College (Autonomous),Computer Science and Engineering (Data Science),Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+MREC,CSE,Mallareddy Engineering College (Autonomous),Computer Science and Engineering,Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,168.0
+MREC,CSM,Mallareddy Engineering College (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+MREC,CSO,Mallareddy Engineering College (Autonomous),Computer Science and Engineering (IOT),Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+MREC,ECE,Mallareddy Engineering College (Autonomous),Electronics and Communication Engineering,Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,126.0
+MREC,EEE,Mallareddy Engineering College (Autonomous),Electrical and Electronics Engineering,Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,84.0
+MREC,INF,Mallareddy Engineering College (Autonomous),Information Technology,Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+MREC,MEC,Mallareddy Engineering College (Autonomous),Mechanical Engineering,Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,84.0
+MREC,MIN,Mallareddy Engineering College (Autonomous),Mining Engineering,Maisammaguda,MDL,PVT,2002.0,JNTUH,115000.0,42.0
+MREM,CIV,Malla Reddy Engineering College and Management Sciences,Civil Engineering,Medchal,MDL,PVT,2008.0,,60000.0,21.0
+MREM,CSC,Malla Reddy Engineering College and Management Sciences,Computer Science and Engineering (Cyber Security),Medchal,MDL,PVT,2008.0,JNTUH,70000.0,42.0
+MREM,CSD,Malla Reddy Engineering College and Management Sciences,Computer Science and Engineering (Data Science),Medchal,MDL,PVT,2008.0,JNTUH,70000.0,42.0
+MREM,CSE,Malla Reddy Engineering College and Management Sciences,Computer Science and Engineering,Medchal,MDL,PVT,2008.0,JNTUH,70000.0,42.0
+MREM,CSM,Malla Reddy Engineering College and Management Sciences,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Medchal,MDL,PVT,2008.0,JNTUH,70000.0,42.0
+MREM,CSO,Malla Reddy Engineering College and Management Sciences,Computer Science and Engineering (IOT),Medchal,MDL,PVT,2008.0,JNTUH,70000.0,42.0
+MREM,ECE,Malla Reddy Engineering College and Management Sciences,Electronics and Communication Engineering,Medchal,MDL,PVT,2008.0,JNTUH,70000.0,42.0
+MREM,EEE,Malla Reddy Engineering College and Management Sciences,Electrical and Electronics Engineering,Medchal,MDL,PVT,2008.0,JNTUH,70000.0,42.0
+MREM,INF,Malla Reddy Engineering College and Management Sciences,Information Technology,Medchal,MDL,PVT,2008.0,JNTUH,70000.0,42.0
+MREM,MEC,Malla Reddy Engineering College and Management Sciences,Mechanical Engineering,Medchal,MDL,PVT,2008.0,JNTUH,70000.0,21.0
+MRET,CSD,Mallareddy Inst of Engg and Technology (Autonomous),Computer Science and Engineering (Data Science),Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,
+MRET,CSE,Mallareddy Inst of Engg and Technology (Autonomous),Computer Science and Engineering,Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,168.0
+MRET,CSM,Mallareddy Inst of Engg and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,
+MRET,ECE,Mallareddy Inst of Engg and Technology (Autonomous),Electronics and Communication Engineering,Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,
+MRET,INF,Mallareddy Inst of Engg and Technology (Autonomous),Information Technology,Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,42.0
+MREW,CSE,Malla Reddy College of Engineering for Women,Computer Science and Engineering,Maisammaguda,MDL,PVT,2008.0,,60000.0,168.0
+MREW,ECE,Malla Reddy College of Engineering for Women,Electronics and Communication Engineering,Maisammaguda,MDL,PVT,2008.0,JNTUH,70000.0,126.0
+MRIT,CSC,Mallareddy Inst of Technology and Sci,Computer Science and Engineering (Cyber Security),Maisammaguda,MDL,PVT,2005.0,JNTUH,80000.0,42.0
+MRIT,CSD,Mallareddy Inst of Technology and Sci,Computer Science and Engineering (Data Science),Maisammaguda,MDL,PVT,2005.0,JNTUH,80000.0,42.0
+MRIT,CSE,Mallareddy Inst of Technology and Sci,Computer Science and Engineering,Maisammaguda,MDL,PVT,2005.0,JNTUH,80000.0,126.0
+MRIT,CSM,Mallareddy Inst of Technology and Sci,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Maisammaguda,MDL,PVT,2005.0,JNTUH,80000.0,42.0
+MRIT,CSN,Mallareddy Inst of Technology and Sci,Computer Science & Engineering (Networks),Maisammaguda,MDL,,,,65000.0,42.0
+MRIT,CSO,Mallareddy Inst of Technology and Sci,Computer Science and Engineering (IOT),Maisammaguda,MDL,,,,65000.0,42.0
+MRIT,ECE,Mallareddy Inst of Technology and Sci,Electronics and Communication Engineering,Maisammaguda,MDL,PVT,2005.0,JNTUH,80000.0,126.0
+MRIT,INF,Mallareddy Inst of Technology and Sci,Information Technology,Maisammaguda,MDL,PVT,2005.0,JNTUH,80000.0,42.0
+MRPC,PHM,Malla Reddy Pharmacy College,B. Pharmacy (M.P.C. Stream),Maisammaguda,,,,,50000.0,35.0
+MRTN,AID,ST Martins Engineering College (Autonomous),Artificial Intelligence and Data Science,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,
+MRTN,AIM,ST Martins Engineering College (Autonomous),Artificial Intelligence and Machine Learning,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,
+MRTN,CIV,ST Martins Engineering College (Autonomous),Civil Engineering,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,84.0
+MRTN,CSE,ST Martins Engineering College (Autonomous),Computer Science and Engineering,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,168.0
+MRTN,CSG,ST Martins Engineering College (Autonomous),Computer Science & Design,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,
+MRTN,CSM,ST Martins Engineering College (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,42.0
+MRTN,ECE,ST Martins Engineering College (Autonomous),Electronics and Communication Engineering,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,168.0
+MRTN,EEE,ST Martins Engineering College (Autonomous),Electrical and Electronics Engineering,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,42.0
+MRTN,INF,ST Martins Engineering College (Autonomous),Information Technology,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,126.0
+MRTN,MEC,ST Martins Engineering College (Autonomous),Mechanical Engineering,Dhulapally,MDL,PVT,2002.0,JNTUH,100000.0,126.0
+MTEC,CSC,Mother Theresa College of Engg and Technology,Computer Science and Engineering (Cyber Security),Peddapally,PDL,PVT,1999.0,JNTUH,80000.0,
+MTEC,CSD,Mother Theresa College of Engg and Technology,Computer Science and Engineering (Data Science),Peddapally,PDL,PVT,1999.0,JNTUH,80000.0,
+MTEC,CSE,Mother Theresa College of Engg and Technology,Computer Science and Engineering,Peddapally,PDL,PVT,1999.0,JNTUH,80000.0,42.0
+MTEC,CSI,Mother Theresa College of Engg and Technology,Computer Science and Information Technology,Peddapally,PDL,PVT,1999.0,JNTUH,80000.0,
+MTEC,CSM,Mother Theresa College of Engg and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Peddapally,PDL,PVT,1999.0,JNTUH,80000.0,42.0
+MTEC,ECE,Mother Theresa College of Engg and Technology,Electronics and Communication Engineering,Peddapally,PDL,PVT,1999.0,JNTUH,80000.0,42.0
+MTEC,EEE,Mother Theresa College of Engg and Technology,Electrical and Electronics Engineering,Peddapally,PDL,PVT,1999.0,JNTUH,80000.0,42.0
+MTEC,MEC,Mother Theresa College of Engg and Technology,Mechanical Engineering,Peddapally,PDL,PVT,1999.0,,61000.0,42.0
+MVSR,AUT,M V S R Engineering College (Autonomous),Automobile Engineering,Nadergul,RR,PVT,1981.0,OU,130000.0,42.0
+MVSR,CIC,M V S R Engineering College (Autonomous),CSE (IOT and Cyber Security Including Block Chain Technology),Nadergul,RR,PVT,1981.0,OU,130000.0,
+MVSR,CIV,M V S R Engineering College (Autonomous),Civil Engineering,Nadergul,RR,PVT,1981.0,OU,130000.0,126.0
+MVSR,CSD,M V S R Engineering College (Autonomous),Computer Science and Engineering (Data Science),Nadergul,RR,PVT,1981.0,OU,130000.0,
+MVSR,CSE,M V S R Engineering College (Autonomous),Computer Science and Engineering,Nadergul,RR,PVT,1981.0,OU,130000.0,126.0
+MVSR,CSM,M V S R Engineering College (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Nadergul,RR,PVT,1981.0,OU,130000.0,
+MVSR,ECE,M V S R Engineering College (Autonomous),Electronics and Communication Engineering,Nadergul,RR,PVT,1981.0,OU,130000.0,126.0
+MVSR,EEE,M V S R Engineering College (Autonomous),Electrical and Electronics Engineering,Nadergul,RR,PVT,1981.0,OU,130000.0,84.0
+MVSR,INF,M V S R Engineering College (Autonomous),Information Technology,Nadergul,RR,PVT,1981.0,OU,130000.0,126.0
+MVSR,MEC,M V S R Engineering College (Autonomous),Mechanical Engineering,Nadergul,RR,PVT,1981.0,,125000.0,84.0
+NAWB,CIC,Nawab Shah Alam Khan Coll of Engg and Tech,CSE (IOT and Cyber Security Including Block Chain Technology),New Malakpet,,,,,73000.0,84.0
+NAWB,CIV,Nawab Shah Alam Khan Coll of Engg and Tech,Civil Engineering,New Malakpet,,,,,73000.0,63.0
+NAWB,CSD,Nawab Shah Alam Khan Coll of Engg and Tech,Computer Science and Engineering (Data Science),New Malakpet,,,,,73000.0,21.0
+NAWB,CSE,Nawab Shah Alam Khan Coll of Engg and Tech,Computer Science and Engineering,New Malakpet,,,,,73000.0,42.0
+NAWB,CSM,Nawab Shah Alam Khan Coll of Engg and Tech,Computer Science and Engineering (Artificial Intelligence and Machine Learning),New Malakpet,,,,,73000.0,84.0
+NAWB,ECE,Nawab Shah Alam Khan Coll of Engg and Tech,Electronics and Communication Engineering,New Malakpet,,,,,73000.0,42.0
+NAWB,INF,Nawab Shah Alam Khan Coll of Engg and Tech,Information Technology,New Malakpet,,,,,73000.0,42.0
+NAWB,MEC,Nawab Shah Alam Khan Coll of Engg and Tech,Mechanical Engineering,New Malakpet,,,,,73000.0,42.0
+NCOP,PHM,NCOP,B. Pharmacy (M.P.C. Stream),Nalgonda,NLG,PVT,1995.0,,55000.0,
+NETW,CSE,NETW,Computer Science and Engineering,Nadergul,RR,PVT,2008.0,,40000.0,
+NGIT,CSE,Neil Gogte Inst of Technology,Computer Science and Engineering,Kachivani Singaram,MDL,PVT,2018.0,OU,90000.0,126.0
+NGIT,CSM,Neil Gogte Inst of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kachivani Singaram,MDL,PVT,2018.0,OU,90000.0,84.0
+NGMA,CSE,Nigama Engineering College,Computer Science and Engineering,Karimnagar,KRM,PVT,2008.0,JNTUH,47000.0,42.0
+NGMA,CSM,Nigama Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Karimnagar,KRM,PVT,2008.0,,47000.0,
+NGMA,CSO,Nigama Engineering College,Computer Science and Engineering (IOT),Karimnagar,KRM,PVT,2008.0,,47000.0,
+NIET,CIV,Netaji Institute of Engineering and Technology,Civil Engineering,Choutuppal,YBG,PVT,2004.0,,42000.0,
+NIET,CSE,Netaji Institute of Engineering and Technology,Computer Science and Engineering,Choutuppal,YBG,PVT,2004.0,JNTUH,45000.0,42.0
+NIET,ECE,Netaji Institute of Engineering and Technology,Electronics and Communication Engineering,Choutuppal,YBG,PVT,2004.0,JNTUH,45000.0,21.0
+NNRG,CIV,Nalla Narasimha Reddy Ednl Soc GRP of Instns (Autonomous),Civil Engineering,Ghatkesar,MDL,PVT,2009.0,JNTUH,95000.0,42.0
+NNRG,CSD,Nalla Narasimha Reddy Ednl Soc GRP of Instns (Autonomous),Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,2009.0,JNTUH,95000.0,
+NNRG,CSE,Nalla Narasimha Reddy Ednl Soc GRP of Instns (Autonomous),Computer Science and Engineering,Ghatkesar,MDL,PVT,2009.0,JNTUH,95000.0,126.0
+NNRG,CSM,Nalla Narasimha Reddy Ednl Soc GRP of Instns (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2009.0,JNTUH,95000.0,
+NNRG,ECE,Nalla Narasimha Reddy Ednl Soc GRP of Instns (Autonomous),Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2009.0,JNTUH,95000.0,126.0
+NNRG,EEE,Nalla Narasimha Reddy Ednl Soc GRP of Instns (Autonomous),Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,2009.0,,83000.0,
+NNRG,INF,Nalla Narasimha Reddy Ednl Soc GRP of Instns (Autonomous),Information Technology,Ghatkesar,MDL,PVT,2009.0,JNTUH,95000.0,42.0
+NNRG,MEC,Nalla Narasimha Reddy Ednl Soc GRP of Instns (Autonomous),Mechanical Engineering,Ghatkesar,MDL,PVT,2009.0,,83000.0,42.0
+NOVH,CSE,Nova College of Engineering & Technology,Computer Science and Engineering,Batasingaram,,,,,42000.0,76.0
+NOVH,ECE,Nova College of Engineering & Technology,Electronics and Communication Engineering,Batasingaram,,,,,42000.0,42.0
+NOVH,MIN,Nova College of Engineering & Technology,Mining Engineering,Batasingaram,,,,,42000.0,38.0
+NRCM,CIV,Narsimhareddy Engineering College (Autonomous),Civil Engineering,Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,42.0
+NRCM,CSC,Narsimhareddy Engineering College (Autonomous),Computer Science and Engineering (Cyber Security),Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,42.0
+NRCM,CSD,Narsimhareddy Engineering College (Autonomous),Computer Science and Engineering (Data Science),Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,42.0
+NRCM,CSE,Narsimhareddy Engineering College (Autonomous),Computer Science and Engineering,Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,126.0
+NRCM,CSM,Narsimhareddy Engineering College (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,42.0
+NRCM,ECE,Narsimhareddy Engineering College (Autonomous),Electronics and Communication Engineering,Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,84.0
+NRCM,EEE,Narsimhareddy Engineering College (Autonomous),Electrical and Electronics Engineering,Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,
+NRCM,MEC,Narsimhareddy Engineering College (Autonomous),Mechanical Engineering,Maisammaguda,MDL,PVT,2007.0,JNTUH,70000.0,
+NREC,AID,Nallamalla Reddy Engineering College (Autonomous),Artificial Intelligence and Data Science,Ghatkesar,MDL,PVT,2001.0,JNTUH,95000.0,
+NREC,CIV,Nallamalla Reddy Engineering College (Autonomous),Civil Engineering,Ghatkesar,MDL,PVT,2001.0,,86000.0,42.0
+NREC,CSE,Nallamalla Reddy Engineering College (Autonomous),Computer Science and Engineering,Ghatkesar,MDL,PVT,2001.0,JNTUH,95000.0,126.0
+NREC,CSM,Nallamalla Reddy Engineering College (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2001.0,JNTUH,95000.0,42.0
+NREC,ECE,Nallamalla Reddy Engineering College (Autonomous),Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2001.0,JNTUH,95000.0,126.0
+NREC,EEE,Nallamalla Reddy Engineering College (Autonomous),Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,2001.0,JNTUH,95000.0,42.0
+NREC,MEC,Nallamalla Reddy Engineering College (Autonomous),Mechanical Engineering,Ghatkesar,MDL,PVT,2001.0,,86000.0,42.0
+NTJP,PHM,NTJP,B. Pharmacy (M.P.C. Stream),Toopranpet,YBG,PVT,2007.0,,45000.0,
+OUCE,BME,O U College of Engg Hyderabad,Bio-Medical Engineering,Hyderabad,HYD,UNIV,1925.0,OU,50000.0,30.0
+OUCE,CIV,O U College of Engg Hyderabad,Civil Engineering,Hyderabad,HYD,UNIV,1925.0,OU,50000.0,60.0
+OUCE,CSE,O U College of Engg Hyderabad,Computer Science and Engineering,Hyderabad,HYD,UNIV,1925.0,OU,50000.0,60.0
+OUCE,ECE,O U College of Engg Hyderabad,Electronics and Communication Engineering,Hyderabad,HYD,UNIV,1925.0,OU,50000.0,50.0
+OUCE,EEE,O U College of Engg Hyderabad,Electrical and Electronics Engineering,Hyderabad,HYD,UNIV,1925.0,OU,50000.0,60.0
+OUCE,MEC,O U College of Engg Hyderabad,Mechanical Engineering,Hyderabad,HYD,UNIV,1925.0,OU,50000.0,60.0
+OUCESF,AIM,O U College of Engg Hyderabad - Self Finance,Artificial Intelligence and Machine Learning,Hyderabad,HYD,SF,1925.0,OU,120000.0,
+OUCESF,MIN,O U College of Engg Hyderabad - Self Finance,Mining Engineering,Hyderabad,HYD,SF,1925.0,OU,100000.0,
+OUCT,CHE,O U College of Tech Hyderabad,Chemical Engineering,Hyderabad,HYD,UNIV,1969.0,OU,35000.0,60.0
+OUCT,FDT,O U College of Tech Hyderabad,Food Technology,Hyderabad,HYD,UNIV,1969.0,,35000.0,
+OUCT,FPT,O U College of Tech Hyderabad,Food Processing Technology,Hyderabad,HYD,,,,18000.0,30.0
+OUCT,TEX,O U College of Tech Hyderabad,Textile Technology,Hyderabad,HYD,UNIV,1969.0,OU,35000.0,30.0
+OUCTSF,FDT,O U College of Tech Hyderabad - Self Finance,Food Technology,Hyderabad,HYD,SF,1969.0,OU,70000.0,
+OUCTSF,TEX,O U College of Tech Hyderabad - Self Finance,Textile Technology,Hyderabad,HYD,SF,1969.0,OU,70000.0,
+PALV,CIV,Pallavi Engineering College,Civil Engineering,Kuntloor,RR,PVT,2009.0,JNTUH,65000.0,42.0
+PALV,CSC,Pallavi Engineering College,Computer Science and Engineering (Cyber Security),Kuntloor,RR,PVT,2009.0,JNTUH,65000.0,42.0
+PALV,CSD,Pallavi Engineering College,Computer Science and Engineering (Data Science),Kuntloor,RR,PVT,2009.0,JNTUH,65000.0,42.0
+PALV,CSE,Pallavi Engineering College,Computer Science and Engineering,Kuntloor,RR,PVT,2009.0,JNTUH,65000.0,84.0
+PALV,ECE,Pallavi Engineering College,Electronics and Communication Engineering,Kuntloor,RR,PVT,2009.0,JNTUH,65000.0,42.0
+PALV,EEE,Pallavi Engineering College,Electrical and Electronics Engineering,Kuntloor,RR,PVT,2009.0,JNTUH,65000.0,42.0
+PETW,CIV,Princeton Inst of Engg Tech for Women,Civil Engineering,Ghatkesar,MDL,PVT,2009.0,JNTUH,70000.0,42.0
+PETW,CSC,Princeton Inst of Engg Tech for Women,Computer Science and Engineering (Cyber Security),Ghatkesar,MDL,PVT,2009.0,JNTUH,70000.0,42.0
+PETW,CSD,Princeton Inst of Engg Tech for Women,Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,2009.0,JNTUH,70000.0,42.0
+PETW,CSE,Princeton Inst of Engg Tech for Women,Computer Science and Engineering,Ghatkesar,MDL,PVT,2009.0,JNTUH,70000.0,84.0
+PETW,CSM,Princeton Inst of Engg Tech for Women,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2009.0,JNTUH,70000.0,42.0
+PETW,ECE,Princeton Inst of Engg Tech for Women,Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2009.0,JNTUH,70000.0,42.0
+PLMU,PHM,Palamur University,B. Pharmacy (M.P.C. Stream),Mahabubnagar,MBN,UNIV,2008.0,PLMU,30000.0,30.0
+PRIW,AID,Priyadarshini Institute of Science & Technology for Women,Artificial Intelligence and Data Science,Khammam,KHM,PVT,2009.0,JNTUH,60000.0,
+PRIW,CSE,Priyadarshini Institute of Science & Technology for Women,Computer Science and Engineering,Khammam,KHM,PVT,2009.0,JNTUH,60000.0,84.0
+PRIW,CSM,Priyadarshini Institute of Science & Technology for Women,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Khammam,KHM,PVT,2009.0,JNTUH,60000.0,42.0
+PRIW,ECE,Priyadarshini Institute of Science & Technology for Women,Electronics and Communication Engineering,Khammam,KHM,PVT,2009.0,JNTUH,60000.0,84.0
+PRIW,EEE,Priyadarshini Institute of Science & Technology for Women,Electrical and Electronics Engineering,Khammam,KHM,PVT,2009.0,,50000.0,42.0
+PURD,PHM,Pulla Reddy Inst of Pharmacy Dindigul,B. Pharmacy (M.P.C. Stream),Dundigal,,,,,60000.0,35.0
+RBVW,PHM,RBVW,B. Pharmacy (M.P.C. Stream),Narayanaguda,HYD,PVT,2006.0,,65000.0,
+RITW,CSE,Rishi MS Inst of Engg and Tech for Women,Computer Science and Engineering,Kukatpally,MDL,PVT,2009.0,JNTUH,60000.0,63.0
+RITW,ECE,Rishi MS Inst of Engg and Tech for Women,Electronics and Communication Engineering,Kukatpally,MDL,PVT,2009.0,JNTUH,60000.0,42.0
+RITW,INF,Rishi MS Inst of Engg and Tech for Women,Information Technology,Kukatpally,MDL,PVT,2009.0,JNTUH,60000.0,42.0
+SAIS,AID,Sai Spurti Institute of Technology,Artificial Intelligence and Data Science,Sathupally,KHM,PVT,2001.0,JNTUH,70000.0,
+SAIS,CSE,Sai Spurti Institute of Technology,Computer Science and Engineering,Sathupally,KHM,PVT,2001.0,JNTUH,70000.0,42.0
+SAIS,CSM,Sai Spurti Institute of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Sathupally,KHM,PVT,2001.0,JNTUH,70000.0,42.0
+SAIS,ECE,Sai Spurti Institute of Technology,Electronics and Communication Engineering,Sathupally,KHM,PVT,2001.0,JNTUH,70000.0,42.0
+SAIS,EEE,Sai Spurti Institute of Technology,Electrical and Electronics Engineering,Sathupally,KHM,PVT,2001.0,JNTUH,70000.0,42.0
+SAIS,MEC,Sai Spurti Institute of Technology,Mechanical Engineering,Sathupally,KHM,PVT,2001.0,,62000.0,42.0
+SANA,CIV,Sana Engineering College,Civil Engineering,Kodada,,,,,60000.0,42.0
+SANA,CSE,Sana Engineering College,Computer Science and Engineering,Kodada,,,,,60000.0,42.0
+SANA,ECE,Sana Engineering College,Electronics and Communication Engineering,Kodada,,,,,60000.0,42.0
+SANA,EEE,Sana Engineering College,Electrical and Electronics Engineering,Kodada,,,,,60000.0,42.0
+SANP,PHM,Sana College of Pharmacy,B. Pharmacy (M.P.C. Stream),Kodad,,,,,65000.0,21.0
+SBIT,CIV,Swarna Bharathi Institute of Sci and Technology,Civil Engineering,Khammam,KHM,PVT,2003.0,JNTUH,66700.0,42.0
+SBIT,CSD,Swarna Bharathi Institute of Sci and Technology,Computer Science and Engineering (Data Science),Khammam,KHM,PVT,2003.0,JNTUH,66700.0,
+SBIT,CSE,Swarna Bharathi Institute of Sci and Technology,Computer Science and Engineering,Khammam,KHM,PVT,2003.0,JNTUH,66700.0,126.0
+SBIT,CSM,Swarna Bharathi Institute of Sci and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Khammam,KHM,PVT,2003.0,JNTUH,66700.0,
+SBIT,ECE,Swarna Bharathi Institute of Sci and Technology,Electronics and Communication Engineering,Khammam,KHM,PVT,2003.0,JNTUH,66700.0,126.0
+SBIT,EEE,Swarna Bharathi Institute of Sci and Technology,Electrical and Electronics Engineering,Khammam,KHM,PVT,2003.0,,66700.0,42.0
+SBIT,MEC,Swarna Bharathi Institute of Sci and Technology,Mechanical Engineering,Khammam,KHM,PVT,2003.0,,66700.0,42.0
+SCET,CIV,Shadhan Coll of Engineering and Technology,Civil Engineering,Peerancheru,,,,,45000.0,42.0
+SCET,CSE,Shadhan Coll of Engineering and Technology,Computer Science and Engineering,Peerancheru,,,,,45000.0,126.0
+SCET,ECE,Shadhan Coll of Engineering and Technology,Electronics and Communication Engineering,Peerancheru,,,,,45000.0,84.0
+SCET,EEE,Shadhan Coll of Engineering and Technology,Electrical and Electronics Engineering,Peerancheru,,,,,45000.0,42.0
+SCET,INF,Shadhan Coll of Engineering and Technology,Information Technology,Peerancheru,,,,,45000.0,42.0
+SCET,MEC,Shadhan Coll of Engineering and Technology,Mechanical Engineering,Peerancheru,,,,,45000.0,84.0
+SCOP,PHM,Shadan College of Pharmacy,B. Pharmacy (M.P.C. Stream),Peerancheru,,,,,50000.0,35.0
+SDCP,PHM,Surabhi Dayakar Rao College of Pharmacy,B. Pharmacy (M.P.C. Stream),Gajwel,SDP,PVT,2008.0,JNTUH,50000.0,21.0
+SDES,CIV,Sree Dattha Institute of Engineering and Science,Civil Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,95000.0,84.0
+SDES,CSB,Sree Dattha Institute of Engineering and Science,Computer Science and Business System,Ibrahimpatan,RR,PVT,2001.0,JNTUH,95000.0,42.0
+SDES,CSE,Sree Dattha Institute of Engineering and Science,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,95000.0,168.0
+SDES,CSI,Sree Dattha Institute of Engineering and Science,Computer Science and Information Technology,Ibrahimpatan,RR,PVT,2001.0,JNTUH,95000.0,42.0
+SDES,CSM,Sree Dattha Institute of Engineering and Science,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2001.0,JNTUH,95000.0,42.0
+SDES,ECE,Sree Dattha Institute of Engineering and Science,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,95000.0,84.0
+SDES,EEE,Sree Dattha Institute of Engineering and Science,Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,95000.0,84.0
+SDES,MEC,Sree Dattha Institute of Engineering and Science,Mechanical Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,95000.0,42.0
+SDEW,CSD,Sridevi Womens Engineering College Autonomous,Computer Science and Engineering (Data Science),Gandipet,RR,PVT,2001.0,JNTUH,110000.0,
+SDEW,CSE,Sridevi Womens Engineering College Autonomous,Computer Science and Engineering,Gandipet,RR,PVT,2001.0,JNTUH,110000.0,168.0
+SDEW,CSM,Sridevi Womens Engineering College Autonomous,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Gandipet,RR,PVT,2001.0,JNTUH,110000.0,
+SDEW,ECE,Sridevi Womens Engineering College Autonomous,Electronics and Communication Engineering,Gandipet,RR,PVT,2001.0,JNTUH,110000.0,168.0
+SDEW,EEE,Sridevi Womens Engineering College Autonomous,Electrical and Electronics Engineering,Gandipet,RR,PVT,2001.0,,85000.0,42.0
+SDEW,INF,Sridevi Womens Engineering College Autonomous,Information Technology,Gandipet,RR,PVT,2001.0,JNTUH,110000.0,84.0
+SDGI,CSC,Sree Dattha GRP of Instns,Computer Science and Engineering (Cyber Security),Ibrahimpatan,RR,PVT,2005.0,JNTUH,80000.0,42.0
+SDGI,CSD,Sree Dattha GRP of Instns,Computer Science and Engineering (Data Science),Ibrahimpatan,RR,PVT,2005.0,JNTUH,80000.0,42.0
+SDGI,CSE,Sree Dattha GRP of Instns,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2005.0,JNTUH,80000.0,84.0
+SDGI,ECE,Sree Dattha GRP of Instns,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2005.0,JNTUH,80000.0,42.0
+SDGI,EEE,Sree Dattha GRP of Instns,Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2005.0,JNTUH,80000.0,42.0
+SDGI,MEC,Sree Dattha GRP of Instns,Mechanical Engineering,Ibrahimpatan,RR,,,,70000.0,42.0
+SIEI,CIV,Siddhartha Instt of Engg and Technology,Civil Engineering,Ibrahimpatan,RR,PVT,2008.0,JNTUH,68000.0,84.0
+SIEI,CSD,Siddhartha Instt of Engg and Technology,Computer Science and Engineering (Data Science),Ibrahimpatan,RR,PVT,2008.0,JNTUH,68000.0,42.0
+SIEI,CSE,Siddhartha Instt of Engg and Technology,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2008.0,JNTUH,68000.0,126.0
+SIEI,CSM,Siddhartha Instt of Engg and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2008.0,JNTUH,68000.0,42.0
+SIEI,ECE,Siddhartha Instt of Engg and Technology,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2008.0,JNTUH,68000.0,84.0
+SIEI,EEE,Siddhartha Instt of Engg and Technology,Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2008.0,JNTUH,68000.0,84.0
+SIEI,MEC,Siddhartha Instt of Engg and Technology,Mechanical Engineering,Ibrahimpatan,RR,PVT,2008.0,JNTUH,68000.0,42.0
+SISG,CIV,Siddhartha Instt of Technology and Sciences,Civil Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,21.0
+SISG,CSC,Siddhartha Instt of Technology and Sciences,Computer Science and Engineering (Cyber Security),Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,21.0
+SISG,CSD,Siddhartha Instt of Technology and Sciences,Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,42.0
+SISG,CSE,Siddhartha Instt of Technology and Sciences,Computer Science and Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,84.0
+SISG,CSM,Siddhartha Instt of Technology and Sciences,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,42.0
+SISG,CSO,Siddhartha Instt of Technology and Sciences,Computer Science and Engineering (IOT),Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,42.0
+SISG,CSW,Siddhartha Instt of Technology and Sciences,Computer Engineering(Software Engineering),Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,42.0
+SISG,ECE,Siddhartha Instt of Technology and Sciences,Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2008.0,,63000.0,84.0
+SISG,EEE,Siddhartha Instt of Technology and Sciences,Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,21.0
+SISG,MEC,Siddhartha Instt of Technology and Sciences,Mechanical Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,80000.0,21.0
+SMCD,CSC,ST Marys Engineering College,Computer Science and Engineering (Cyber Security),Deshmukhi,,,,,50000.0,84.0
+SMCD,CSD,ST Marys Engineering College,Computer Science and Engineering (Data Science),Deshmukhi,,,,,50000.0,126.0
+SMCD,CSM,ST Marys Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Deshmukhi,,,,,50000.0,126.0
+SMCD,CSO,ST Marys Engineering College,Computer Science and Engineering (IOT),Deshmukhi,,,,,50000.0,84.0
+SMED,CSC,ST Marys Group of Institutions,Computer Science and Engineering (Cyber Security),Deshmukhi,,,,,60000.0,84.0
+SMED,CSD,ST Marys Group of Institutions,Computer Science and Engineering (Data Science),Deshmukhi,,,,,60000.0,126.0
+SMED,CSE,ST Marys Group of Institutions,Computer Science and Engineering,Deshmukhi,,,,,60000.0,84.0
+SMED,CSM,ST Marys Group of Institutions,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Deshmukhi,,,,,60000.0,126.0
+SMED,CSO,ST Marys Group of Institutions,Computer Science and Engineering (IOT),Deshmukhi,,,,,60000.0,84.0
+SMIC,CSC,ST Marys Integrated Campus,Computer Science and Engineering (Cyber Security),Deshmukhi,,,,,45000.0,84.0
+SMIC,CSD,ST Marys Integrated Campus,Computer Science and Engineering (Data Science),Deshmukhi,,,,,45000.0,126.0
+SMIC,CSM,ST Marys Integrated Campus,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Deshmukhi,,,,,45000.0,126.0
+SMPS,PHM,SMPS,B. Pharmacy (M.P.C. Stream),Secunderabad,HYD,PVT,2007.0,,60000.0,
+SMSK,CIV,Samskruthi College of Engg and Technology,Civil Engineering,Ghatkesar,MDL,PVT,2005.0,JNTUH,72000.0,42.0
+SMSK,CSD,Samskruthi College of Engg and Technology,Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,2005.0,JNTUH,72000.0,42.0
+SMSK,CSE,Samskruthi College of Engg and Technology,Computer Science and Engineering,Ghatkesar,MDL,PVT,2005.0,JNTUH,72000.0,42.0
+SMSK,CSM,Samskruthi College of Engg and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2005.0,JNTUH,72000.0,42.0
+SMSK,ECE,Samskruthi College of Engg and Technology,Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2005.0,JNTUH,72000.0,84.0
+SMSK,EEE,Samskruthi College of Engg and Technology,Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,2005.0,JNTUH,72000.0,42.0
+SMSK,MEC,Samskruthi College of Engg and Technology,Mechanical Engineering,Ghatkesar,MDL,PVT,2005.0,,62000.0,42.0
+SNIS,CIV,Srinidhi Institute of Sci and Technology,Civil Engineering,Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,42.0
+SNIS,CSC,Srinidhi Institute of Sci and Technology,Computer Science and Engineering (Cyber Security),Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,
+SNIS,CSD,Srinidhi Institute of Sci and Technology,Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,
+SNIS,CSE,Srinidhi Institute of Sci and Technology,Computer Science and Engineering,Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,210.0
+SNIS,CSM,Srinidhi Institute of Sci and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,
+SNIS,CSO,Srinidhi Institute of Sci and Technology,Computer Science and Engineering (IOT),Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,
+SNIS,ECE,Srinidhi Institute of Sci and Technology,Electronics and Communication Engineering,Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,294.0
+SNIS,ECM,Srinidhi Institute of Sci and Technology,Electronics and Computer Engineering,Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,126.0
+SNIS,EEE,Srinidhi Institute of Sci and Technology,Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,126.0
+SNIS,INF,Srinidhi Institute of Sci and Technology,Information Technology,Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,168.0
+SNIS,MEC,Srinidhi Institute of Sci and Technology,Mechanical Engineering,Ghatkesar,MDL,PVT,1997.0,JNTUH,130000.0,168.0
+SNTI,CSE,Scient Institute of Technology,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,76000.0,84.0
+SNTI,ECE,Scient Institute of Technology,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,76000.0,42.0
+SNTI,EEE,Scient Institute of Technology,Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2001.0,JNTUH,76000.0,42.0
+SNVM,PHD,S N Vanitha Pharmacy Maha Vidyalaya,Pharm - D (M.P.C. Stream),Tarnaka,HYD,PVT,1998.0,,75000.0,10.0
+SNVM,PHM,S N Vanitha Pharmacy Maha Vidyalaya,B. Pharmacy (M.P.C. Stream),Tarnaka,HYD,PVT,1998.0,,95000.0,
+SPEC,AID,ST Peters Engineering College (Autonomous),Artificial Intelligence and Data Science,Medchal,MDL,PVT,2007.0,JNTUH,96000.0,
+SPEC,CIV,ST Peters Engineering College (Autonomous),Civil Engineering,Medchal,MDL,PVT,2007.0,JNTUH,96000.0,42.0
+SPEC,CSE,ST Peters Engineering College (Autonomous),Computer Science and Engineering,Medchal,MDL,PVT,2007.0,JNTUH,96000.0,126.0
+SPEC,CSG,ST Peters Engineering College (Autonomous),Computer Science & Design,Medchal,MDL,PVT,2007.0,JNTUH,96000.0,
+SPEC,CSM,ST Peters Engineering College (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Medchal,MDL,PVT,2007.0,JNTUH,96000.0,42.0
+SPEC,ECE,ST Peters Engineering College (Autonomous),Electronics and Communication Engineering,Medchal,MDL,PVT,2007.0,JNTUH,96000.0,84.0
+SPEC,EEE,ST Peters Engineering College (Autonomous),Electrical and Electronics Engineering,Medchal,MDL,PVT,2007.0,JNTUH,96000.0,42.0
+SPEC,INF,ST Peters Engineering College (Autonomous),Information Technology,Medchal,MDL,PVT,2007.0,JNTUH,96000.0,84.0
+SPEC,MEC,ST Peters Engineering College (Autonomous),Mechanical Engineering,Medchal,MDL,,,,75000.0,42.0
+SPHN,ARB,Sphoorthy Engineering College,ARB,Nadergul,RR,PVT,2004.0,,72000.0,
+SPHN,CSC,Sphoorthy Engineering College,Computer Science and Engineering (Cyber Security),Nadergul,RR,PVT,2004.0,JNTUH,95000.0,84.0
+SPHN,CSD,Sphoorthy Engineering College,Computer Science and Engineering (Data Science),Nadergul,RR,PVT,2004.0,JNTUH,95000.0,126.0
+SPHN,CSE,Sphoorthy Engineering College,Computer Science and Engineering,Nadergul,RR,PVT,2004.0,JNTUH,95000.0,
+SPHN,CSM,Sphoorthy Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Nadergul,RR,PVT,2004.0,,72000.0,126.0
+SPHN,CSO,Sphoorthy Engineering College,Computer Science and Engineering (IOT),Nadergul,RR,PVT,2004.0,,72000.0,84.0
+SPKG,PHD,Samskruthi College of Pharmacy,Pharm - D (M.P.C. Stream),Ghatkesar,,,,,90000.0,10.0
+SPLP,PHM,SPLP,B. Pharmacy (M.P.C. Stream),Turkayamjal,RR,PVT,2007.0,,55000.0,
+SPOP,PHD,SPOP,Pharm - D (M.P.C. Stream),Warangal,HNK,PVT,1995.0,,110000.0,
+SRCP,PHD,SRCP,Pharm - D (M.P.C. Stream),Elkathurty,HNK,PVT,2002.0,,68000.0,
+SRCP,PHM,SRCP,B. Pharmacy (M.P.C. Stream),Elkathurty,HNK,PVT,2002.0,,45000.0,
+SREE,PHM,SREE,B. Pharmacy (M.P.C. Stream),Kothagudem,KGM,PVT,2009.0,,60000.0,
+SRHP,CIV,SR University ( Formerly S R Engineering College),Civil Engineering,Hasanparthy,HNK,PVT,2002.0,SR UNIVERSITY,130000.0,84.0
+SRHP,CSE,SR University ( Formerly S R Engineering College),Computer Science and Engineering,Hasanparthy,HNK,PVT,2002.0,SR UNIVERSITY,130000.0,126.0
+SRHP,ECE,SR University ( Formerly S R Engineering College),Electronics and Communication Engineering,Hasanparthy,HNK,PVT,2002.0,SR UNIVERSITY,130000.0,126.0
+SRHP,EEE,SR University ( Formerly S R Engineering College),Electrical and Electronics Engineering,Hasanparthy,HNK,PVT,2002.0,SR UNIVERSITY,130000.0,84.0
+SRHP,MEC,SR University ( Formerly S R Engineering College),Mechanical Engineering,Hasanparthy,HNK,PVT,2002.0,SR UNIVERSITY,130000.0,84.0
+SRIW,CSC,Sumathi Reddy Inst of Technology for Women,Computer Science and Engineering (Cyber Security),Hasanparthy,HNK,PVT,2009.0,JNTUH,85000.0,42.0
+SRIW,CSD,Sumathi Reddy Inst of Technology for Women,Computer Science and Engineering (Data Science),Hasanparthy,HNK,PVT,2009.0,JNTUH,85000.0,42.0
+SRIW,CSE,Sumathi Reddy Inst of Technology for Women,Computer Science and Engineering,Hasanparthy,HNK,PVT,2009.0,JNTUH,85000.0,84.0
+SRIW,CSM,Sumathi Reddy Inst of Technology for Women,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hasanparthy,HNK,PVT,2009.0,JNTUH,85000.0,42.0
+SRIW,ECE,Sumathi Reddy Inst of Technology for Women,Electronics and Communication Engineering,Hasanparthy,HNK,PVT,2009.0,JNTUH,85000.0,84.0
+SRYS,CIV,Sreyas Inst of Engg and Technology (Autonomous),Civil Engineering,Nagole,MDL,PVT,2011.0,JNTUH,106000.0,42.0
+SRYS,CSD,Sreyas Inst of Engg and Technology (Autonomous),Computer Science and Engineering (Data Science),Nagole,MDL,PVT,2011.0,JNTUH,106000.0,84.0
+SRYS,CSE,Sreyas Inst of Engg and Technology (Autonomous),Computer Science and Engineering,Nagole,MDL,PVT,2011.0,JNTUH,106000.0,168.0
+SRYS,CSM,Sreyas Inst of Engg and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Nagole,MDL,PVT,2011.0,JNTUH,106000.0,84.0
+SRYS,ECE,Sreyas Inst of Engg and Technology (Autonomous),Electronics and Communication Engineering,Nagole,MDL,PVT,2011.0,JNTUH,106000.0,84.0
+SRYS,MEC,Sreyas Inst of Engg and Technology (Autonomous),Mechanical Engineering,Nagole,MDL,PVT,2011.0,JNTUH,106000.0,42.0
+SSJP,PHM,S S J College of Pharmacy,B. Pharmacy (M.P.C. Stream),Gandipet,RR,PVT,2007.0,JNTUH,65000.0,
+STLW,AID,Stanley College of Engg and Technology for Women (Autonomous),Artificial Intelligence and Data Science,Abids,HYD,PVT,2008.0,OU,85000.0,42.0
+STLW,CME,Stanley College of Engg and Technology for Women (Autonomous),Computer Engineering,Abids,HYD,PVT,2008.0,OU,85000.0,42.0
+STLW,CSE,Stanley College of Engg and Technology for Women (Autonomous),Computer Science and Engineering,Abids,HYD,PVT,2008.0,OU,85000.0,126.0
+STLW,ECE,Stanley College of Engg and Technology for Women (Autonomous),Electronics and Communication Engineering,Abids,HYD,PVT,2008.0,OU,85000.0,84.0
+STLW,EEE,Stanley College of Engg and Technology for Women (Autonomous),Electrical and Electronics Engineering,Abids,HYD,PVT,2008.0,OU,85000.0,42.0
+STLW,INF,Stanley College of Engg and Technology for Women (Autonomous),Information Technology,Abids,HYD,PVT,2008.0,OU,85000.0,84.0
+SUUP,PHD,Sultan Ul-Uloom College of Pharmacy,Pharm - D (M.P.C. Stream),Banjara Hills,,,,,80000.0,10.0
+SUUP,PHM,Sultan Ul-Uloom College of Pharmacy,B. Pharmacy (M.P.C. Stream),Banjara Hills,,,,,98000.0,35.0
+SVES,CIV,Sri Venkateswara Engineering College,Civil Engineering,Suryapeta,SRP,PVT,1998.0,,50000.0,42.0
+SVES,CSE,Sri Venkateswara Engineering College,Computer Science and Engineering,Suryapeta,SRP,PVT,1998.0,JNTUH,60000.0,42.0
+SVES,ECE,Sri Venkateswara Engineering College,Electronics and Communication Engineering,Suryapeta,SRP,PVT,1998.0,JNTUH,60000.0,42.0
+SVES,EEE,Sri Venkateswara Engineering College,Electrical and Electronics Engineering,Suryapeta,SRP,PVT,1998.0,JNTUH,60000.0,42.0
+SVES,MEC,Sri Venkateswara Engineering College,Mechanical Engineering,Suryapeta,SRP,PVT,1998.0,,50000.0,21.0
+SVHU,PHM,Satavahana University,B. Pharmacy (M.P.C. Stream),Karimnagar,KRM,UNIV,1980.0,SVHU,10000.0,20.0
+SVIT,AID,Swami Vivekananda Inst of Technology,Artificial Intelligence and Data Science,Secunderabad,HYD,PVT,2004.0,JNTUH,79350.0,
+SVIT,CSC,Swami Vivekananda Inst of Technology,Computer Science and Engineering (Cyber Security),Secunderabad,HYD,PVT,2004.0,JNTUH,79350.0,84.0
+SVIT,CSD,Swami Vivekananda Inst of Technology,Computer Science and Engineering (Data Science),Secunderabad,HYD,PVT,2004.0,JNTUH,79350.0,84.0
+SVIT,CSE,Swami Vivekananda Inst of Technology,Computer Science and Engineering,Secunderabad,HYD,PVT,2004.0,JNTUH,79350.0,
+SVIT,CSM,Swami Vivekananda Inst of Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Secunderabad,HYD,PVT,2004.0,JNTUH,79350.0,84.0
+SVIT,CSO,Swami Vivekananda Inst of Technology,Computer Science and Engineering (IOT),Secunderabad,HYD,PVT,2004.0,JNTUH,79350.0,84.0
+SVSE,CIV,SVS GRP of Instns - SVS Inst of Tech,Civil Engineering,Hanamkonda,HNK,PVT,2008.0,,60000.0,84.0
+SVSE,CSD,SVS GRP of Instns - SVS Inst of Tech,Computer Science and Engineering (Data Science),Hanamkonda,HNK,PVT,2008.0,JNTUH,65000.0,
+SVSE,CSE,SVS GRP of Instns - SVS Inst of Tech,Computer Science and Engineering,Hanamkonda,HNK,PVT,2008.0,JNTUH,65000.0,84.0
+SVSE,CSM,SVS GRP of Instns - SVS Inst of Tech,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hanamkonda,HNK,PVT,2008.0,JNTUH,65000.0,
+SVSE,ECE,SVS GRP of Instns - SVS Inst of Tech,Electronics and Communication Engineering,Hanamkonda,HNK,PVT,2008.0,JNTUH,65000.0,84.0
+SVSE,EEE,SVS GRP of Instns - SVS Inst of Tech,Electrical and Electronics Engineering,Hanamkonda,HNK,PVT,2008.0,JNTUH,65000.0,84.0
+SVSE,MEC,SVS GRP of Instns - SVS Inst of Tech,Mechanical Engineering,Hanamkonda,HNK,PVT,2008.0,,60000.0,42.0
+SWET,CSE,Shadhan Womens Coll of Engg and Technology,Computer Science and Engineering,Khairtabad,,,,,45000.0,126.0
+SWET,ECE,Shadhan Womens Coll of Engg and Technology,Electronics and Communication Engineering,Khairtabad,,,,,45000.0,84.0
+SWET,EEE,Shadhan Womens Coll of Engg and Technology,Electrical and Electronics Engineering,Khairtabad,,,,,45000.0,42.0
+SWET,INF,Shadhan Womens Coll of Engg and Technology,Information Technology,Khairtabad,,,,,45000.0,84.0
+SWIT,CSE,Swathi Inst of Technology Sci,Computer Science and Engineering,Hayathnagar,RR,PVT,2009.0,,50000.0,42.0
+SWIT,ECE,Swathi Inst of Technology Sci,Electronics and Communication Engineering,Hayathnagar,RR,PVT,2009.0,,50000.0,
+SWIT,MEC,Swathi Inst of Technology Sci,Mechanical Engineering,Hayathnagar,RR,PVT,2009.0,,50000.0,
+TALP,PHD,Talla Padmavathi College of Pharmacy,Pharm - D (M.P.C. Stream),Warangal,,,,,90000.0,10.0
+TCEK,AIM,Trinity College of Engineering and Technology,Artificial Intelligence and Machine Learning,Peddapally,PDL,PVT,2008.0,JNTUH,65000.0,
+TCEK,CSE,Trinity College of Engineering and Technology,Computer Science and Engineering,Peddapally,PDL,PVT,2008.0,JNTUH,65000.0,42.0
+TCEK,ECE,Trinity College of Engineering and Technology,Electronics and Communication Engineering,Peddapally,PDL,PVT,2008.0,JNTUH,65000.0,42.0
+TCEK,EEE,Trinity College of Engineering and Technology,Electrical and Electronics Engineering,Peddapally,PDL,PVT,2008.0,JNTUH,65000.0,84.0
+TCTK,AIM,Trinity College of Engineering and Technology,Artificial Intelligence and Machine Learning,Karimnagar,KRM,PVT,2008.0,JNTUH,65000.0,
+TCTK,CSE,Trinity College of Engineering and Technology,Computer Science and Engineering,Karimnagar,KRM,PVT,2008.0,JNTUH,65000.0,42.0
+TCTK,ECE,Trinity College of Engineering and Technology,Electronics and Communication Engineering,Karimnagar,KRM,PVT,2008.0,JNTUH,65000.0,42.0
+TCTK,EEE,Trinity College of Engineering and Technology,Electrical and Electronics Engineering,Karimnagar,KRM,PVT,2008.0,JNTUH,65000.0,84.0
+TKEM,AIM,Teegala Krishna Reddy Engineering College (Autonomous),Artificial Intelligence and Machine Learning,Mirpet,RR,PVT,2005.0,JNTUH,80000.0,
+TKEM,CIV,Teegala Krishna Reddy Engineering College (Autonomous),Civil Engineering,Mirpet,RR,PVT,2005.0,JNTUH,80000.0,84.0
+TKEM,CSE,Teegala Krishna Reddy Engineering College (Autonomous),Computer Science and Engineering,Mirpet,RR,PVT,2005.0,JNTUH,80000.0,168.0
+TKEM,CSG,Teegala Krishna Reddy Engineering College (Autonomous),Computer Science & Design,Mirpet,RR,PVT,2005.0,JNTUH,80000.0,
+TKEM,ECE,Teegala Krishna Reddy Engineering College (Autonomous),Electronics and Communication Engineering,Mirpet,RR,PVT,2005.0,JNTUH,80000.0,168.0
+TKEM,EEE,Teegala Krishna Reddy Engineering College (Autonomous),Electrical and Electronics Engineering,Mirpet,RR,PVT,2005.0,JNTUH,80000.0,84.0
+TKEM,INF,Teegala Krishna Reddy Engineering College (Autonomous),Information Technology,Mirpet,RR,PVT,2005.0,JNTUH,80000.0,42.0
+TKRC,CIV,T K R College of Engg and Technology (Autonomous),Civil Engineering,Mirpet,RR,PVT,2002.0,JNTUH,85000.0,84.0
+TKRC,CSD,T K R College of Engg and Technology (Autonomous),Computer Science and Engineering (Data Science),Mirpet,RR,PVT,2002.0,JNTUH,85000.0,42.0
+TKRC,CSE,T K R College of Engg and Technology (Autonomous),Computer Science and Engineering,Mirpet,RR,PVT,2002.0,JNTUH,85000.0,168.0
+TKRC,CSM,T K R College of Engg and Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Mirpet,RR,PVT,2002.0,JNTUH,85000.0,42.0
+TKRC,ECE,T K R College of Engg and Technology (Autonomous),Electronics and Communication Engineering,Mirpet,RR,PVT,2002.0,JNTUH,85000.0,168.0
+TKRC,EEE,T K R College of Engg and Technology (Autonomous),Electrical and Electronics Engineering,Mirpet,RR,PVT,2002.0,JNTUH,85000.0,84.0
+TKRC,INF,T K R College of Engg and Technology (Autonomous),Information Technology,Mirpet,RR,PVT,2002.0,JNTUH,85000.0,42.0
+TKRC,MEC,T K R College of Engg and Technology (Autonomous),Mechanical Engineering,Mirpet,RR,PVT,2002.0,JNTUH,85000.0,84.0
+TKRP,PHM,Teegala Krishna Reddy College of Pharmacy,B. Pharmacy (M.P.C. Stream),Mirpet,RR,PVT,2007.0,,53000.0,35.0
+TMLP,PHM,Tirumala Coll of Pharmacy,B. Pharmacy (M.P.C. Stream),Nizamabad,NZB,PVT,2008.0,,50000.0,35.0
+TPCE,CIV,Talla Padmavathi Coll of Engineering,Civil Engineering,Kazipet,HNK,PVT,2008.0,,61000.0,42.0
+TPCE,CSE,Talla Padmavathi Coll of Engineering,Computer Science and Engineering,Kazipet,HNK,PVT,2008.0,JNTUH,75000.0,84.0
+TPCE,CSM,Talla Padmavathi Coll of Engineering,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Kazipet,HNK,PVT,2008.0,JNTUH,75000.0,42.0
+TPCE,ECE,Talla Padmavathi Coll of Engineering,Electronics and Communication Engineering,Kazipet,HNK,PVT,2008.0,,61000.0,42.0
+TRPM,PHM,TRPM,B. Pharmacy (M.P.C. Stream),Mirpet,RR,PVT,2006.0,,55000.0,
+TRRC,CSE,T R R College of Engineering,Computer Science and Engineering,Patancheru,,,,,54000.0,42.0
+TRRC,ECE,T R R College of Engineering,Electronics and Communication Engineering,Patancheru,,,,,54000.0,21.0
+VAGE,CIV,Vaagdevi College of Engineering,Civil Engineering,Warangal,WGL,PVT,1998.0,JNTUH,105000.0,84.0
+VAGE,CSD,Vaagdevi College of Engineering,Computer Science and Engineering (Data Science),Warangal,WGL,PVT,1998.0,JNTUH,105000.0,126.0
+VAGE,CSE,Vaagdevi College of Engineering,Computer Science and Engineering,Warangal,WGL,PVT,1998.0,JNTUH,105000.0,168.0
+VAGE,CSM,Vaagdevi College of Engineering,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Warangal,WGL,PVT,1998.0,,86000.0,126.0
+VAGE,ECE,Vaagdevi College of Engineering,Electronics and Communication Engineering,Warangal,WGL,PVT,1998.0,JNTUH,105000.0,84.0
+VAGE,EEE,Vaagdevi College of Engineering,Electrical and Electronics Engineering,Warangal,WGL,PVT,1998.0,JNTUH,105000.0,84.0
+VAGE,MEC,Vaagdevi College of Engineering,Mechanical Engineering,Warangal,WGL,PVT,1998.0,JNTUH,105000.0,42.0
+VAGP,PHD,Vagdevi College of Pharmacy,Pharm - D (M.P.C. Stream),Hanamkonda,HNK,PVT,1997.0,,68000.0,
+VAGP,PHM,Vagdevi College of Pharmacy,B. Pharmacy (M.P.C. Stream),Hanamkonda,HNK,,,,70000.0,35.0
+VASV,CIV,Vasavi College of Engineering,Civil Engineering,Hyderabad,HYD,PVT,1981.0,OU,140000.0,42.0
+VASV,CSE,Vasavi College of Engineering,Computer Science and Engineering,Hyderabad,HYD,PVT,1981.0,OU,140000.0,84.0
+VASV,CSM,Vasavi College of Engineering,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Hyderabad,HYD,PVT,1981.0,OU,140000.0,42.0
+VASV,ECE,Vasavi College of Engineering,Electronics and Communication Engineering,Hyderabad,HYD,PVT,1981.0,OU,140000.0,126.0
+VASV,EEE,Vasavi College of Engineering,Electrical and Electronics Engineering,Hyderabad,HYD,PVT,1981.0,OU,140000.0,42.0
+VASV,INF,Vasavi College of Engineering,Information Technology,Hyderabad,HYD,PVT,1981.0,OU,140000.0,126.0
+VASV,MEC,Vasavi College of Engineering,Mechanical Engineering,Hyderabad,HYD,PVT,1981.0,OU,140000.0,84.0
+VBEC,CSC,Vignana Bharathi Engineering College,Computer Science and Engineering (Cyber Security),Ibrahimpatan,RR,PVT,2004.0,JNTUH,62000.0,42.0
+VBEC,CSD,Vignana Bharathi Engineering College,Computer Science and Engineering (Data Science),Ibrahimpatan,RR,PVT,2004.0,JNTUH,62000.0,42.0
+VBEC,CSE,Vignana Bharathi Engineering College,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2004.0,JNTUH,62000.0,84.0
+VBEC,CSM,Vignana Bharathi Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2004.0,JNTUH,62000.0,42.0
+VBEC,CSO,Vignana Bharathi Engineering College,Computer Science and Engineering (IOT),Ibrahimpatan,RR,PVT,2004.0,JNTUH,62000.0,42.0
+VBEC,ECE,Vignana Bharathi Engineering College,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2004.0,JNTUH,62000.0,42.0
+VBIT,CIV,Vignan Bharati Institute of Technology (Autonomous),Civil Engineering,Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,84.0
+VBIT,CSB,Vignan Bharati Institute of Technology (Autonomous),Computer Science and Business System,Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,42.0
+VBIT,CSC,Vignan Bharati Institute of Technology (Autonomous),Computer Science and Engineering (Cyber Security),Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,42.0
+VBIT,CSD,Vignan Bharati Institute of Technology (Autonomous),Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,42.0
+VBIT,CSE,Vignan Bharati Institute of Technology (Autonomous),Computer Science and Engineering,Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,168.0
+VBIT,CSM,Vignan Bharati Institute of Technology (Autonomous),Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,42.0
+VBIT,ECE,Vignan Bharati Institute of Technology (Autonomous),Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,168.0
+VBIT,EEE,Vignan Bharati Institute of Technology (Autonomous),Electrical and Electronics Engineering,Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,84.0
+VBIT,INF,Vignan Bharati Institute of Technology (Autonomous),Information Technology,Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,84.0
+VBIT,MEC,Vignan Bharati Institute of Technology (Autonomous),Mechanical Engineering,Ghatkesar,MDL,PVT,2004.0,JNTUH,85000.0,84.0
+VCET,CIV,Visweswaraya Coll of Engg and Technology,Civil Engineering,Ibrahimpatan,RR,PVT,2007.0,JNTUH,64000.0,42.0
+VCET,CSE,Visweswaraya Coll of Engg and Technology,Computer Science and Engineering,Ibrahimpatan,RR,PVT,2007.0,JNTUH,64000.0,63.0
+VCET,CSM,Visweswaraya Coll of Engg and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ibrahimpatan,RR,PVT,2007.0,JNTUH,64000.0,42.0
+VCET,ECE,Visweswaraya Coll of Engg and Technology,Electronics and Communication Engineering,Ibrahimpatan,RR,PVT,2007.0,JNTUH,64000.0,42.0
+VCET,EEE,Visweswaraya Coll of Engg and Technology,Electrical and Electronics Engineering,Ibrahimpatan,RR,PVT,2007.0,JNTUH,64000.0,42.0
+VCET,MEC,Visweswaraya Coll of Engg and Technology,Mechanical Engineering,Ibrahimpatan,RR,PVT,2007.0,JNTUH,64000.0,
+VCOP,PHD,Sri Venkateswara College of Pharmacy,Pharm - D (M.P.C. Stream),Madhapur,RR,PVT,1995.0,,75000.0,10.0
+VCOP,PHM,Sri Venkateswara College of Pharmacy,B. Pharmacy (M.P.C. Stream),Madhapur,RR,PVT,1995.0,,65000.0,21.0
+VCPN,PHM,Vijay Coll of Pharmacy,B. Pharmacy (M.P.C. Stream),Nizamabad,NZB,PVT,2010.0,,57000.0,21.0
+VGNT,AID,Vignan Institute of Technology and Sci,Artificial Intelligence and Data Science,Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,
+VGNT,CIV,Vignan Institute of Technology and Sci,Civil Engineering,Deshmukhi,YBG,PVT,1999.0,,93000.0,42.0
+VGNT,CSD,Vignan Institute of Technology and Sci,Computer Science and Engineering (Data Science),Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,42.0
+VGNT,CSE,Vignan Institute of Technology and Sci,Computer Science and Engineering,Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,126.0
+VGNT,CSM,Vignan Institute of Technology and Sci,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,42.0
+VGNT,ECE,Vignan Institute of Technology and Sci,Electronics and Communication Engineering,Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,126.0
+VGNT,EEE,Vignan Institute of Technology and Sci,Electrical and Electronics Engineering,Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,42.0
+VGNT,EIE,Vignan Institute of Technology and Sci,Electronics and Instrumentation Engineering,Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,42.0
+VGNT,INF,Vignan Institute of Technology and Sci,Information Technology,Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,42.0
+VGNT,MEC,Vignan Institute of Technology and Sci,Mechanical Engineering,Deshmukhi,YBG,PVT,1999.0,JNTUH,100000.0,42.0
+VGPC,PHD,VGPC,Pharm - D (M.P.C. Stream),Warangal,WGL,PVT,2007.0,,68000.0,
+VGSE,CIV,Vaageshwari Coll of Engineering,Civil Engineering,Karimnagar,KRM,PVT,2005.0,JNTUH,55000.0,84.0
+VGSE,CSD,Vaageshwari Coll of Engineering,Computer Science and Engineering (Data Science),Karimnagar,KRM,PVT,2005.0,JNTUH,55000.0,
+VGSE,CSE,Vaageshwari Coll of Engineering,Computer Science and Engineering,Karimnagar,KRM,PVT,2005.0,JNTUH,55000.0,84.0
+VGSE,CSM,Vaageshwari Coll of Engineering,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Karimnagar,KRM,PVT,2005.0,JNTUH,55000.0,42.0
+VGSE,ECE,Vaageshwari Coll of Engineering,Electronics and Communication Engineering,Karimnagar,KRM,PVT,2005.0,JNTUH,55000.0,126.0
+VGSE,EEE,Vaageshwari Coll of Engineering,Electrical and Electronics Engineering,Karimnagar,KRM,PVT,2005.0,JNTUH,55000.0,84.0
+VGSE,MEC,Vaageshwari Coll of Engineering,Mechanical Engineering,Karimnagar,KRM,PVT,2005.0,JNTUH,55000.0,42.0
+VGSP,PHD,Vaageswari College of Pharmacy,Pharm - D (M.P.C. Stream),Karimnagar,KRM,,,,75000.0,10.0
+VGSP,PHM,Vaageswari College of Pharmacy,B. Pharmacy (M.P.C. Stream),Karimnagar,KRM,PVT,2004.0,,53000.0,
+VGWL,CSD,Vagdevi Engineering College,Computer Science and Engineering (Data Science),Warangal,WGL,PVT,2008.0,JNTUH,58000.0,84.0
+VGWL,CSE,Vagdevi Engineering College,Computer Science and Engineering,Warangal,WGL,PVT,2008.0,JNTUH,58000.0,168.0
+VGWL,CSM,Vagdevi Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Warangal,WGL,PVT,2008.0,JNTUH,58000.0,84.0
+VGWL,ECE,Vagdevi Engineering College,Electronics and Communication Engineering,Warangal,WGL,PVT,2008.0,JNTUH,58000.0,84.0
+VISA,CSE,Vathsalya Institute of Sci and Technology,Computer Science and Engineering,Bhongir,YBG,PVT,2001.0,,42000.0,21.0
+VISA,CSM,Vathsalya Institute of Sci and Technology,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Bhongir,YBG,PVT,2001.0,JNTUH,62000.0,
+VISA,ECE,Vathsalya Institute of Sci and Technology,Electronics and Communication Engineering,Bhongir,YBG,,,,42000.0,21.0
+VISA,EEE,Vathsalya Institute of Sci and Technology,Electrical and Electronics Engineering,Bhongir,YBG,PVT,2001.0,,42000.0,
+VISA,INF,Vathsalya Institute of Sci and Technology,Information Technology,Bhongir,YBG,PVT,2001.0,,42000.0,
+VITH,CSE,Vinuthna Inst of Technology Science,Computer Science and Engineering,Hasanparthy,,,,,35000.0,21.0
+VITS,CIV,Sri Vishweswaraya Inst of Technology and Sci,Civil Engineering,Mahabubnagar,MBN,PVT,1997.0,,55000.0,42.0
+VITS,CSE,Sri Vishweswaraya Inst of Technology and Sci,Computer Science and Engineering,Mahabubnagar,MBN,PVT,1997.0,JNTUH,63000.0,42.0
+VITS,ECE,Sri Vishweswaraya Inst of Technology and Sci,Electronics and Communication Engineering,Mahabubnagar,MBN,PVT,1997.0,JNTUH,63000.0,42.0
+VITS,EEE,Sri Vishweswaraya Inst of Technology and Sci,Electrical and Electronics Engineering,Mahabubnagar,MBN,PVT,1997.0,,55000.0,
+VITS,MEC,Sri Vishweswaraya Inst of Technology and Sci,Mechanical Engineering,Mahabubnagar,MBN,PVT,1997.0,JNTUH,63000.0,42.0
+VJEC,AID,V N R Vignana Jyothi Institute of Engg and Tech,Artificial Intelligence and Data Science,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,
+VJEC,AUT,V N R Vignana Jyothi Institute of Engg and Tech,Automobile Engineering,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,42.0
+VJEC,CIV,V N R Vignana Jyothi Institute of Engg and Tech,Civil Engineering,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,84.0
+VJEC,CSB,V N R Vignana Jyothi Institute of Engg and Tech,Computer Science and Business System,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,42.0
+VJEC,CSC,V N R Vignana Jyothi Institute of Engg and Tech,Computer Science and Engineering (Cyber Security),Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,42.0
+VJEC,CSD,V N R Vignana Jyothi Institute of Engg and Tech,Computer Science and Engineering (Data Science),Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,42.0
+VJEC,CSE,V N R Vignana Jyothi Institute of Engg and Tech,Computer Science and Engineering,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,168.0
+VJEC,CSM,V N R Vignana Jyothi Institute of Engg and Tech,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,42.0
+VJEC,CSO,V N R Vignana Jyothi Institute of Engg and Tech,Computer Science and Engineering (IOT),Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,42.0
+VJEC,ECE,V N R Vignana Jyothi Institute of Engg and Tech,Electronics and Communication Engineering,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,168.0
+VJEC,EEE,V N R Vignana Jyothi Institute of Engg and Tech,Electrical and Electronics Engineering,Bachupally,MDL,PVT,1995.0,,131000.0,84.0
+VJEC,EIE,V N R Vignana Jyothi Institute of Engg and Tech,Electronics and Instrumentation Engineering,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,84.0
+VJEC,INF,V N R Vignana Jyothi Institute of Engg and Tech,Information Technology,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,126.0
+VJEC,MEC,V N R Vignana Jyothi Institute of Engg and Tech,Mechanical Engineering,Bachupally,MDL,PVT,1995.0,JNTUH,135000.0,84.0
+VJIT,AI,Vidyajyothi Institute of Technology Autonomous,Artificial Intelligence,Moinabad,RR,PVT,1999.0,JNTUH,115000.0,84.0
+VJIT,AID,Vidyajyothi Institute of Technology Autonomous,Artificial Intelligence and Data Science,Moinabad,RR,PVT,1999.0,JNTUH,115000.0,
+VJIT,CIV,Vidyajyothi Institute of Technology Autonomous,Civil Engineering,Moinabad,RR,PVT,1999.0,JNTUH,115000.0,84.0
+VJIT,CSD,Vidyajyothi Institute of Technology Autonomous,Computer Science and Engineering (Data Science),Moinabad,RR,PVT,1999.0,JNTUH,115000.0,42.0
+VJIT,CSE,Vidyajyothi Institute of Technology Autonomous,Computer Science and Engineering,Moinabad,RR,PVT,1999.0,JNTUH,115000.0,168.0
+VJIT,CSM,Vidyajyothi Institute of Technology Autonomous,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Moinabad,RR,PVT,1999.0,JNTUH,115000.0,
+VJIT,ECE,Vidyajyothi Institute of Technology Autonomous,Electronics and Communication Engineering,Moinabad,RR,PVT,1999.0,JNTUH,115000.0,168.0
+VJIT,EEE,Vidyajyothi Institute of Technology Autonomous,Electrical and Electronics Engineering,Moinabad,RR,PVT,1999.0,JNTUH,115000.0,84.0
+VJIT,INF,Vidyajyothi Institute of Technology Autonomous,Information Technology,Moinabad,RR,PVT,1999.0,JNTUH,115000.0,126.0
+VJIT,MEC,Vidyajyothi Institute of Technology Autonomous,Mechanical Engineering,Moinabad,RR,PVT,1999.0,JNTUH,115000.0,84.0
+VJYA,CIV,Vijaya Engineering College,Civil Engineering,Khammam,KHM,,,,65000.0,21.0
+VJYA,CSD,Vijaya Engineering College,Computer Science and Engineering (Data Science),Khammam,KHM,PVT,2007.0,JNTUH,75000.0,42.0
+VJYA,CSE,Vijaya Engineering College,Computer Science and Engineering,Khammam,KHM,PVT,2007.0,JNTUH,75000.0,42.0
+VJYA,CSM,Vijaya Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Khammam,KHM,PVT,2007.0,JNTUH,75000.0,42.0
+VJYA,ECE,Vijaya Engineering College,Electronics and Communication Engineering,Khammam,KHM,PVT,2007.0,JNTUH,75000.0,42.0
+VJYA,EEE,Vijaya Engineering College,Electrical and Electronics Engineering,Khammam,KHM,PVT,2007.0,JNTUH,75000.0,21.0
+VJYH,PHM,Vijaya College of Pharmacy,B. Pharmacy (M.P.C. Stream),Hayathnagar,,,,,55000.0,35.0
+VKAS,PHM,VKAS,B. Pharmacy (M.P.C. Stream),Janagaon,JGN,PVT,2004.0,,50000.0,
+VKSP,PHD,Vikas Coll of Pharmaceutical Sciences,Pharm - D (M.P.C. Stream),Suryapet,,,,,95000.0,10.0
+VKSP,PHM,Vikas Coll of Pharmaceutical Sciences,B. Pharmacy (M.P.C. Stream),Suryapet,,,,,50000.0,35.0
+VMEG,AID,Vardhaman College of Engineering,Artificial Intelligence and Data Science,Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,
+VMEG,AIM,Vardhaman College of Engineering,Artificial Intelligence and Machine Learning,Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,
+VMEG,CIV,Vardhaman College of Engineering,Civil Engineering,Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,42.0
+VMEG,CSE,Vardhaman College of Engineering,Computer Science and Engineering,Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,168.0
+VMEG,CSM,Vardhaman College of Engineering,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,42.0
+VMEG,ECE,Vardhaman College of Engineering,Electronics and Communication Engineering,Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,168.0
+VMEG,EEE,Vardhaman College of Engineering,Electrical and Electronics Engineering,Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,42.0
+VMEG,INF,Vardhaman College of Engineering,Information Technology,Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,126.0
+VMEG,MEC,Vardhaman College of Engineering,Mechanical Engineering,Shamshabad,RR,PVT,1999.0,JNTUH,140000.0,42.0
+VMTW,AID,Vignans Inst of Management and Tech for Women,Artificial Intelligence and Data Science,Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,
+VMTW,CSD,Vignans Inst of Management and Tech for Women,Computer Science and Engineering (Data Science),Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,
+VMTW,CSE,Vignans Inst of Management and Tech for Women,Computer Science and Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,126.0
+VMTW,CSM,Vignans Inst of Management and Tech for Women,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,42.0
+VMTW,ECE,Vignans Inst of Management and Tech for Women,Electronics and Communication Engineering,Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,84.0
+VMTW,INF,Vignans Inst of Management and Tech for Women,Information Technology,Ghatkesar,MDL,PVT,2008.0,JNTUH,90000.0,42.0
+VPRG,PHM,Vision College of Pharmsci and Res,B. Pharmacy (M.P.C. Stream),Boduppal,,,,,45000.0,35.0
+VREC,CIV,Vijaya Rural Engineering College,Civil Engineering,Nizamabad,NZB,PVT,1997.0,,45600.0,42.0
+VREC,CSE,Vijaya Rural Engineering College,Computer Science and Engineering,Nizamabad,NZB,PVT,1997.0,JNTUH,45600.0,42.0
+VREC,CSM,Vijaya Rural Engineering College,Computer Science and Engineering (Artificial Intelligence and Machine Learning),Nizamabad,NZB,PVT,1997.0,JNTUH,45600.0,
+VREC,ECE,Vijaya Rural Engineering College,Electronics and Communication Engineering,Nizamabad,NZB,PVT,1997.0,JNTUH,45600.0,42.0
+VREC,EEE,Vijaya Rural Engineering College,Electrical and Electronics Engineering,Nizamabad,NZB,PVT,1997.0,JNTUH,45600.0,42.0
+VREC,MEC,Vijaya Rural Engineering College,Mechanical Engineering,Nizamabad,NZB,PVT,1997.0,JNTUH,45600.0,42.0
+VRKW,CSE,DR VRK Womens Coll of Engg and Technology,Computer Science and Engineering,Moinabad,,,,,35000.0,21.0
+VSNU,PHM,Vishnu Inst of Pharm Edn and Research,B. Pharmacy (M.P.C. Stream),Vishnupur,MED,PVT,2007.0,,75000.0,35.0
+VVKN,CIV,Vivekananda Instt of Tech and Sci Bommakal,Civil Engineering,Karimnagar,KRM,PVT,2004.0,,58800.0,42.0
+VVKN,CSE,Vivekananda Instt of Tech and Sci Bommakal,Computer Science and Engineering,Karimnagar,KRM,PVT,2004.0,JNTUH,65000.0,84.0
+VVKN,ECE,Vivekananda Instt of Tech and Sci Bommakal,Electronics and Communication Engineering,Karimnagar,KRM,PVT,2004.0,JNTUH,65000.0,42.0
+VVKN,EEE,Vivekananda Instt of Tech and Sci Bommakal,Electrical and Electronics Engineering,Karimnagar,KRM,PVT,2004.0,JNTUH,65000.0,42.0
+VVKN,MEC,Vivekananda Instt of Tech and Sci Bommakal,Mechanical Engineering,Karimnagar,KRM,PVT,2004.0,,58800.0,42.0
+WESL,CSE,Csi Wesley Inst of Technology and Sciences,Computer Science and Engineering,Secunderabad,HYD,PVT,2015.0,JNTUH,45000.0,84.0
+WITS,CIV,Warangal Inst of Technology Science,Civil Engineering,Warangal,HNK,PVT,2009.0,,45000.0,42.0
+WITS,CSE,Warangal Inst of Technology Science,Computer Science and Engineering,Warangal,HNK,PVT,2009.0,KU,45000.0,42.0
+WITS,ECE,Warangal Inst of Technology Science,Electronics and Communication Engineering,Warangal,HNK,PVT,2009.0,,45000.0,
+WITS,EEE,Warangal Inst of Technology Science,Electrical and Electronics Engineering,Warangal,HNK,PVT,2009.0,,45000.0,
+WITS,MEC,Warangal Inst of Technology Science,Mechanical Engineering,Warangal,HNK,PVT,2009.0,,45000.0,
